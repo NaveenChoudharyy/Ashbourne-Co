@@ -1,0 +1,3001 @@
+customer_id,gender,age,income_bracket,acquisition_source,city,join_date,loyalty_tier
+1,Male,27,High,In-Store Walk-in,Leeds,2024-06-21,Gold
+2,Female,56,Low,Organic Search,Liverpool,2022-10-01,Silver
+3,Female,44,Ultra-High,Referral,Birmingham,2024-05-05,Platinum
+4,Female,50,Medium,Organic Search,Liverpool,2024-10-14,Silver
+5,Male,30,Medium,Social Media,Liverpool,2022-06-22,Silver
+6,Female,48,Medium,Organic Search,London,2023-08-08,Silver
+7,Male,24,Medium,Social Media,Sheffield,2024-07-17,Silver
+8,Female,48,Ultra-High,In-Store Walk-in,Manchester,2023-04-26,Gold
+9,Female,40,Medium,Organic Search,Birmingham,2023-03-31,Silver
+10,Male,44,High,Organic Search,Edinburgh,2022-07-15,Gold
+11,Female,23,Low,Email,Edinburgh,2024-03-06,Silver
+12,Female,27,Medium,In-Store Walk-in,Edinburgh,2023-08-22,Silver
+13,Male,45,Ultra-High,Email,Bath,2023-07-10,Gold
+14,Male,26,High,Social Media,Cheshire,2024-04-27,Gold
+15,Male,43,Medium,Social Media,Glasgow,2023-03-15,Gold
+16,Male,21,High,In-Store Walk-in,Sheffield,2023-10-12,Gold
+17,Male,48,Medium,Social Media,Newcastle,2022-12-25,Silver
+18,Female,23,Medium,In-Store Walk-in,Newcastle,2024-11-25,Gold
+19,Male,44,High,Social Media,London,2024-11-23,Gold
+20,Male,45,High,Referral,Cambridge,2023-10-20,Gold
+21,Female,29,Medium,Organic Search,York,2022-01-16,Silver
+22,Male,44,Ultra-High,Referral,Manchester,2024-01-15,Platinum
+23,Female,41,High,In-Store Walk-in,Glasgow,2023-02-25,Platinum
+24,Male,31,Medium,In-Store Walk-in,Bath,2023-07-07,Gold
+25,Male,25,High,Referral,Newcastle,2024-02-06,Gold
+26,Female,18,High,Organic Search,Glasgow,2024-03-03,Gold
+27,Female,42,High,Organic Search,London,2024-10-28,Gold
+28,Female,19,Medium,Email,Leeds,2024-05-29,Silver
+29,Female,39,High,Social Media,Cheshire,2024-05-01,Platinum
+30,Female,34,Medium,Email,Bristol,2023-05-25,Silver
+31,Male,46,High,Organic Search,Cheshire,2024-08-23,Platinum
+32,Male,34,High,Referral,Manchester,2024-07-02,Platinum
+33,Female,34,Medium,Social Media,Edinburgh,2022-01-18,Silver
+34,Female,46,High,Referral,Bath,2022-02-25,Platinum
+35,Other,42,Ultra-High,Email,Edinburgh,2024-07-07,Gold
+36,Male,41,Ultra-High,In-Store Walk-in,Cheshire,2024-11-24,Platinum
+37,Male,43,Medium,Referral,London,2024-06-20,Silver
+38,Female,19,Medium,Email,Bicester,2023-09-22,Silver
+39,Male,47,High,Email,Cheshire,2024-03-04,Platinum
+40,Female,45,Medium,Email,Bicester,2022-12-13,Silver
+41,Female,25,Ultra-High,In-Store Walk-in,Birmingham,2024-11-21,Platinum
+42,Male,35,Medium,In-Store Walk-in,Sheffield,2024-06-26,Silver
+43,Female,37,Medium,In-Store Walk-in,Glasgow,2024-10-20,Silver
+44,Female,36,Medium,Social Media,Bath,2023-07-30,Silver
+45,Male,42,Medium,In-Store Walk-in,York,2022-07-18,Silver
+46,Female,55,High,In-Store Walk-in,Oxford,2022-10-28,Gold
+47,Female,50,Medium,In-Store Walk-in,Edinburgh,2024-10-13,Silver
+48,Female,22,Medium,Referral,York,2022-01-26,Gold
+49,Male,45,Medium,In-Store Walk-in,Bristol,2023-03-26,Gold
+50,Female,53,High,Social Media,Bicester,2022-11-16,Gold
+51,Male,42,Medium,Email,Bath,2022-06-05,Silver
+52,Male,51,High,Referral,Leeds,2023-04-16,Platinum
+53,Female,62,High,Organic Search,Cheshire,2023-02-24,Gold
+54,Male,50,High,In-Store Walk-in,Cheshire,2023-10-13,Gold
+55,Male,40,Ultra-High,Email,Bath,2024-06-04,Gold
+56,Female,50,Ultra-High,Email,Bath,2024-07-18,Gold
+57,Female,39,Ultra-High,Referral,London,2024-04-14,Gold
+58,Female,38,Medium,Organic Search,Edinburgh,2024-05-25,Silver
+59,Female,33,Medium,Social Media,Glasgow,2024-07-30,Silver
+60,Male,56,Medium,Email,Cambridge,2024-09-20,Silver
+61,Male,28,Ultra-High,Email,Newcastle,2023-07-26,Gold
+62,Male,56,Ultra-High,Email,Oxford,2022-02-23,Platinum
+63,Female,43,Ultra-High,Email,Nottingham,2023-08-28,Gold
+64,Female,21,Medium,Referral,Nottingham,2022-11-21,Silver
+65,Female,42,Ultra-High,Organic Search,Oxford,2024-08-27,Gold
+66,Female,18,Medium,Email,Glasgow,2024-06-03,Silver
+67,Male,45,Low,Social Media,Bristol,2022-09-22,Silver
+68,Female,48,Medium,Social Media,London,2023-01-17,Silver
+69,Male,30,Low,In-Store Walk-in,Nottingham,2022-11-29,Silver
+70,Female,39,High,Email,Manchester,2024-10-30,Gold
+71,Male,61,Medium,Email,Bristol,2022-07-22,Silver
+72,Female,31,Medium,Email,Sheffield,2022-02-27,Silver
+73,Male,25,High,Email,Oxford,2023-07-01,Gold
+74,Male,55,Ultra-High,Email,Bath,2024-05-20,Gold
+75,Male,61,High,Social Media,Ashford,2022-04-13,Gold
+76,Female,38,Medium,Organic Search,London,2024-05-14,Silver
+77,Female,50,High,Organic Search,Sheffield,2023-02-02,Platinum
+78,Male,54,Ultra-High,In-Store Walk-in,Manchester,2023-01-27,Platinum
+79,Male,29,Medium,Social Media,Cambridge,2022-04-16,Silver
+80,Female,32,High,Email,Leeds,2024-12-13,Platinum
+81,Male,52,Medium,Organic Search,Glasgow,2022-04-21,Silver
+82,Female,58,Low,Referral,York,2022-08-12,Silver
+83,Female,44,High,Referral,Birmingham,2022-03-16,Gold
+84,Male,27,Ultra-High,Referral,York,2023-05-21,Gold
+85,Male,61,Medium,Email,Newcastle,2024-11-03,Silver
+86,Other,31,High,Email,Bath,2024-02-09,Gold
+87,Male,33,Ultra-High,In-Store Walk-in,Newcastle,2023-04-27,Gold
+88,Male,42,Ultra-High,In-Store Walk-in,London,2022-12-30,Platinum
+89,Female,56,Medium,In-Store Walk-in,Birmingham,2022-08-27,Silver
+90,Female,48,Ultra-High,Referral,Bicester,2024-04-25,Platinum
+91,Other,42,Medium,Email,Edinburgh,2024-09-11,Silver
+92,Female,43,High,Referral,London,2023-01-27,Gold
+93,Male,38,Low,In-Store Walk-in,Bristol,2024-11-06,Silver
+94,Male,44,Low,Email,Manchester,2024-08-22,Gold
+95,Female,18,High,Social Media,Birmingham,2022-01-12,Gold
+96,Female,34,Medium,Organic Search,Cambridge,2022-05-26,Silver
+97,Male,40,Medium,Organic Search,Glasgow,2022-06-18,Silver
+98,Female,24,Medium,In-Store Walk-in,Cambridge,2024-04-26,Silver
+99,Male,42,High,Referral,Manchester,2022-06-19,Gold
+100,Female,35,Low,Social Media,Liverpool,2024-02-04,Silver
+101,Male,59,High,Email,Ashford,2023-05-14,Platinum
+102,Male,56,Low,Referral,Leeds,2024-06-15,Silver
+103,Male,32,Medium,In-Store Walk-in,Ashford,2024-12-12,Gold
+104,Male,36,Medium,Referral,Oxford,2022-04-28,Silver
+105,Male,37,Medium,In-Store Walk-in,Birmingham,2022-12-31,Gold
+106,Female,32,Medium,Organic Search,Ashford,2022-05-16,Silver
+107,Female,40,Medium,Organic Search,Newcastle,2023-07-11,Silver
+108,Female,28,Ultra-High,Referral,Edinburgh,2022-01-18,Platinum
+109,Female,24,High,Social Media,Cambridge,2023-02-07,Gold
+110,Male,45,Low,Email,Ashford,2022-07-24,Silver
+111,Male,45,Medium,In-Store Walk-in,Bristol,2023-05-14,Silver
+112,Female,28,Ultra-High,Email,Sheffield,2022-11-20,Gold
+113,Male,48,Medium,Organic Search,Bath,2023-08-18,Silver
+114,Female,30,Low,Social Media,Birmingham,2023-07-16,Silver
+115,Male,41,High,Social Media,Cheshire,2023-04-24,Gold
+116,Female,47,High,Email,London,2022-06-13,Gold
+117,Male,37,High,Organic Search,Edinburgh,2022-11-20,Gold
+118,Female,43,Low,Email,Cheshire,2023-07-05,Silver
+119,Female,31,Medium,Referral,Ashford,2024-04-10,Silver
+120,Other,35,High,Social Media,Oxford,2023-10-02,Gold
+121,Male,35,Medium,Social Media,Glasgow,2023-09-26,Silver
+122,Female,29,High,Referral,Sheffield,2024-01-29,Gold
+123,Female,35,High,Organic Search,Sheffield,2022-07-27,Gold
+124,Female,19,Medium,Social Media,Liverpool,2022-11-11,Silver
+125,Female,32,Ultra-High,In-Store Walk-in,York,2022-10-31,Platinum
+126,Female,34,High,In-Store Walk-in,Bath,2024-06-19,Gold
+127,Male,34,High,Organic Search,Glasgow,2022-08-27,Platinum
+128,Female,35,Low,Referral,London,2024-03-14,Silver
+129,Female,37,Medium,Email,Bath,2022-10-02,Silver
+130,Female,43,Medium,Organic Search,Nottingham,2024-08-11,Silver
+131,Male,48,Medium,Email,Manchester,2024-12-25,Gold
+132,Male,30,Ultra-High,Organic Search,York,2022-09-12,Platinum
+133,Female,23,Medium,In-Store Walk-in,Nottingham,2022-05-05,Silver
+134,Female,25,Medium,Referral,Manchester,2023-09-07,Silver
+135,Male,32,Medium,In-Store Walk-in,Glasgow,2023-01-20,Gold
+136,Female,33,High,Referral,Cambridge,2023-03-23,Gold
+137,Male,28,Medium,Email,Birmingham,2023-01-22,Silver
+138,Male,22,Medium,Organic Search,Ashford,2023-01-18,Silver
+139,Male,32,Medium,Social Media,Cambridge,2022-05-04,Gold
+140,Male,40,Ultra-High,Social Media,Leeds,2023-12-29,Gold
+141,Female,45,Low,Referral,Bath,2024-06-14,Silver
+142,Male,31,Ultra-High,Referral,Ashford,2022-11-24,Gold
+143,Female,33,High,In-Store Walk-in,Bath,2023-11-25,Gold
+144,Other,26,Medium,Social Media,Newcastle,2024-12-27,Silver
+145,Female,37,High,In-Store Walk-in,Sheffield,2022-12-25,Gold
+146,Female,27,Low,Email,Newcastle,2024-09-29,Gold
+147,Male,44,Ultra-High,Social Media,Bristol,2024-03-07,Gold
+148,Female,18,High,Email,Ashford,2023-03-19,Platinum
+149,Female,33,Medium,Organic Search,Bristol,2022-06-13,Silver
+150,Male,41,Medium,In-Store Walk-in,Cheshire,2024-08-30,Silver
+151,Female,40,Low,Referral,Bicester,2022-12-27,Gold
+152,Female,70,Ultra-High,Social Media,Edinburgh,2023-08-08,Gold
+153,Female,42,Low,In-Store Walk-in,Bristol,2024-05-02,Silver
+154,Female,25,High,Referral,Liverpool,2024-10-07,Platinum
+155,Female,36,Medium,Organic Search,Cheshire,2024-10-20,Silver
+156,Male,18,Ultra-High,Social Media,Manchester,2022-08-29,Gold
+157,Female,37,Medium,Email,Manchester,2023-10-28,Silver
+158,Female,28,High,Organic Search,Nottingham,2023-07-19,Platinum
+159,Male,48,Medium,Referral,Newcastle,2024-04-11,Silver
+160,Male,31,High,Social Media,Bath,2024-09-02,Gold
+161,Male,36,Low,Social Media,London,2022-01-31,Silver
+162,Female,30,Medium,Organic Search,York,2022-08-11,Gold
+163,Other,58,Medium,Social Media,Manchester,2022-09-23,Silver
+164,Male,34,High,Referral,London,2024-02-27,Gold
+165,Female,59,Medium,Organic Search,Cheshire,2023-01-16,Silver
+166,Male,47,High,Email,Sheffield,2023-07-10,Gold
+167,Female,43,Medium,Organic Search,London,2022-03-03,Silver
+168,Female,42,Ultra-High,Organic Search,Sheffield,2023-12-14,Gold
+169,Female,42,Ultra-High,Email,London,2024-04-26,Gold
+170,Male,18,High,Referral,Ashford,2023-06-05,Platinum
+171,Male,34,Medium,In-Store Walk-in,Manchester,2024-12-30,Silver
+172,Male,48,Medium,In-Store Walk-in,Bicester,2023-08-25,Gold
+173,Male,37,Low,Email,York,2022-05-20,Silver
+174,Female,21,Medium,Referral,Leeds,2023-08-13,Silver
+175,Female,37,High,Social Media,Birmingham,2023-06-12,Platinum
+176,Other,58,High,Email,Cambridge,2023-06-25,Gold
+177,Other,52,Ultra-High,In-Store Walk-in,London,2023-01-10,Platinum
+178,Female,37,Medium,Referral,Newcastle,2022-10-18,Silver
+179,Female,49,High,Organic Search,Newcastle,2022-02-12,Platinum
+180,Female,33,Medium,Referral,Cambridge,2024-12-12,Silver
+181,Female,18,High,Referral,Bath,2022-01-08,Gold
+182,Male,26,Medium,In-Store Walk-in,Glasgow,2023-04-28,Silver
+183,Male,56,Medium,In-Store Walk-in,Glasgow,2022-02-11,Silver
+184,Male,34,Medium,Social Media,Cambridge,2022-11-29,Silver
+185,Female,35,High,Social Media,Leeds,2024-12-29,Gold
+186,Female,34,Ultra-High,Email,Birmingham,2024-11-05,Platinum
+187,Male,60,Medium,Organic Search,Edinburgh,2022-03-10,Silver
+188,Female,57,Low,Social Media,London,2022-02-22,Silver
+189,Female,64,Medium,In-Store Walk-in,Ashford,2023-11-16,Gold
+190,Male,36,High,Referral,Ashford,2024-09-20,Gold
+191,Male,41,Medium,Email,London,2023-06-11,Silver
+192,Female,19,High,Social Media,Manchester,2022-03-04,Platinum
+193,Female,55,Ultra-High,Referral,Bicester,2022-09-18,Gold
+194,Female,23,Ultra-High,Referral,Bicester,2024-05-07,Gold
+195,Female,40,Medium,Social Media,Edinburgh,2022-06-29,Silver
+196,Female,24,Ultra-High,Organic Search,Newcastle,2024-11-05,Gold
+197,Female,30,High,Organic Search,Cambridge,2022-12-21,Platinum
+198,Female,27,Medium,Email,Glasgow,2024-07-22,Gold
+199,Female,30,High,Organic Search,London,2023-12-28,Gold
+200,Male,31,High,Email,Glasgow,2023-08-12,Platinum
+201,Male,31,Medium,In-Store Walk-in,London,2023-08-28,Silver
+202,Male,48,Medium,Social Media,Edinburgh,2022-06-30,Silver
+203,Female,24,Medium,Referral,Sheffield,2022-06-23,Silver
+204,Female,40,High,Email,Bicester,2022-12-20,Gold
+205,Female,52,Medium,Organic Search,Bicester,2022-12-20,Silver
+206,Male,31,Ultra-High,Email,Sheffield,2023-03-10,Gold
+207,Male,29,High,Email,Bristol,2024-06-23,Gold
+208,Male,35,High,Organic Search,London,2022-10-09,Platinum
+209,Male,52,Low,Organic Search,Leeds,2022-09-16,Silver
+210,Female,40,High,Social Media,Newcastle,2024-05-17,Gold
+211,Male,31,Medium,Referral,London,2023-07-13,Silver
+212,Male,43,Low,Social Media,York,2022-01-05,Silver
+213,Female,24,High,Social Media,Leeds,2023-08-19,Platinum
+214,Male,46,Medium,Organic Search,Newcastle,2023-01-29,Silver
+215,Female,42,High,Organic Search,Manchester,2022-12-02,Platinum
+216,Female,34,Low,Referral,Birmingham,2022-03-04,Silver
+217,Male,27,Medium,Email,York,2022-02-13,Silver
+218,Female,27,Medium,Social Media,Nottingham,2022-06-02,Silver
+219,Female,44,Ultra-High,Referral,Nottingham,2024-05-03,Gold
+220,Female,52,High,Social Media,Bath,2022-10-02,Gold
+221,Male,30,High,Email,Bicester,2023-03-02,Gold
+222,Female,43,Medium,Social Media,Ashford,2023-04-28,Gold
+223,Female,18,Low,In-Store Walk-in,Edinburgh,2022-08-02,Silver
+224,Male,30,Ultra-High,Referral,London,2022-03-20,Gold
+225,Male,37,Medium,Organic Search,Ashford,2022-05-19,Silver
+226,Other,27,Medium,Social Media,Newcastle,2024-08-07,Silver
+227,Female,26,High,Referral,Sheffield,2022-04-08,Platinum
+228,Male,29,Low,Referral,Cambridge,2023-10-26,Silver
+229,Female,41,High,Social Media,Sheffield,2022-07-17,Gold
+230,Male,35,High,Organic Search,Nottingham,2024-02-24,Gold
+231,Male,18,Medium,Organic Search,London,2022-06-05,Silver
+232,Male,18,Low,Social Media,Birmingham,2024-12-09,Silver
+233,Male,30,Medium,Referral,Oxford,2023-04-24,Silver
+234,Male,43,Ultra-High,Organic Search,Newcastle,2022-08-16,Gold
+235,Male,18,High,Social Media,Birmingham,2023-06-06,Gold
+236,Female,32,Medium,Social Media,Bicester,2022-05-29,Silver
+237,Male,31,Low,Social Media,Leeds,2024-12-17,Silver
+238,Male,54,High,Referral,London,2022-06-11,Gold
+239,Female,33,High,Organic Search,Oxford,2024-05-12,Platinum
+240,Male,42,Medium,Referral,Sheffield,2023-01-30,Silver
+241,Female,39,Medium,In-Store Walk-in,London,2024-03-11,Silver
+242,Male,18,Medium,Organic Search,Oxford,2022-07-05,Silver
+243,Male,47,High,Referral,York,2023-07-12,Platinum
+244,Male,40,Ultra-High,Organic Search,Leeds,2023-03-22,Gold
+245,Male,44,Medium,In-Store Walk-in,Manchester,2024-04-09,Silver
+246,Male,80,High,Email,London,2022-03-28,Platinum
+247,Male,18,Medium,Social Media,Glasgow,2023-03-14,Silver
+248,Male,58,Medium,Referral,Newcastle,2023-05-31,Silver
+249,Male,34,Medium,In-Store Walk-in,Oxford,2024-08-04,Silver
+250,Male,41,High,In-Store Walk-in,Cambridge,2024-01-26,Platinum
+251,Male,37,Medium,Organic Search,Bicester,2024-03-07,Silver
+252,Male,32,High,Organic Search,Birmingham,2023-11-17,Gold
+253,Female,31,Medium,Social Media,Birmingham,2022-11-21,Gold
+254,Female,41,Medium,Organic Search,Glasgow,2023-09-15,Silver
+255,Male,19,Low,Referral,Oxford,2023-11-18,Silver
+256,Female,47,High,Referral,Nottingham,2023-02-04,Gold
+257,Female,33,Medium,Referral,Edinburgh,2024-05-17,Silver
+258,Male,24,High,Email,Newcastle,2022-08-05,Gold
+259,Female,32,Medium,Referral,Bicester,2024-03-19,Gold
+260,Female,53,Medium,Organic Search,Manchester,2024-08-18,Silver
+261,Male,31,Medium,Organic Search,Edinburgh,2024-09-27,Gold
+262,Male,42,Medium,Referral,Bicester,2024-07-20,Silver
+263,Female,29,Medium,In-Store Walk-in,Cambridge,2022-08-28,Gold
+264,Female,47,Medium,In-Store Walk-in,Ashford,2022-02-17,Silver
+265,Male,46,High,In-Store Walk-in,Newcastle,2024-05-24,Platinum
+266,Male,60,High,Social Media,Birmingham,2022-05-12,Gold
+267,Male,35,Medium,Email,Bath,2023-09-17,Gold
+268,Female,46,Medium,Referral,Liverpool,2023-08-24,Silver
+269,Female,39,Medium,Social Media,Newcastle,2023-11-04,Gold
+270,Male,53,Medium,In-Store Walk-in,Cambridge,2022-11-30,Silver
+271,Male,29,Low,Referral,Bristol,2022-02-05,Silver
+272,Female,46,Ultra-High,Social Media,Cheshire,2024-02-17,Gold
+273,Male,35,Medium,Organic Search,Ashford,2022-08-11,Gold
+274,Male,37,Medium,In-Store Walk-in,Bristol,2023-06-14,Silver
+275,Female,39,Medium,Social Media,Cambridge,2022-08-29,Silver
+276,Female,41,Medium,Organic Search,Nottingham,2022-05-14,Gold
+277,Female,36,High,In-Store Walk-in,Birmingham,2023-01-26,Platinum
+278,Female,40,Low,Email,Edinburgh,2022-04-12,Silver
+279,Male,56,Medium,In-Store Walk-in,Bristol,2023-11-12,Gold
+280,Male,49,High,Email,Oxford,2023-05-13,Gold
+281,Female,48,Medium,Email,Sheffield,2023-05-26,Silver
+282,Male,32,High,Email,Oxford,2023-12-04,Gold
+283,Male,27,High,Referral,Bristol,2024-09-20,Platinum
+284,Male,49,Medium,Referral,Manchester,2024-08-06,Silver
+285,Male,48,High,Email,Manchester,2024-04-20,Gold
+286,Male,55,Medium,Organic Search,Cambridge,2022-01-06,Silver
+287,Male,30,High,Email,Nottingham,2024-08-15,Gold
+288,Male,35,Medium,Social Media,Sheffield,2022-07-13,Silver
+289,Male,18,Medium,Email,Bath,2024-01-12,Silver
+290,Female,33,High,Referral,Newcastle,2024-06-30,Platinum
+291,Female,49,Ultra-High,Referral,Ashford,2023-04-18,Gold
+292,Female,32,Ultra-High,Social Media,Sheffield,2022-08-04,Gold
+293,Female,45,High,Social Media,Cheshire,2024-05-25,Gold
+294,Female,35,Medium,In-Store Walk-in,Edinburgh,2022-02-07,Silver
+295,Male,41,Medium,Organic Search,Ashford,2023-04-16,Silver
+296,Female,24,Medium,Organic Search,Sheffield,2023-03-28,Silver
+297,Female,39,Medium,Organic Search,Liverpool,2024-10-09,Silver
+298,Female,18,Medium,Referral,Glasgow,2022-04-13,Gold
+299,Male,35,Ultra-High,Organic Search,Newcastle,2022-02-11,Gold
+300,Male,18,Medium,In-Store Walk-in,London,2024-08-04,Silver
+301,Male,52,Medium,In-Store Walk-in,Leeds,2022-03-07,Silver
+302,Male,47,Medium,Organic Search,Nottingham,2024-07-31,Gold
+303,Female,43,High,Social Media,Bristol,2022-07-12,Gold
+304,Female,56,High,In-Store Walk-in,Liverpool,2024-11-27,Gold
+305,Male,26,High,Social Media,London,2023-05-17,Gold
+306,Other,58,Medium,Referral,Ashford,2023-10-26,Silver
+307,Female,49,High,In-Store Walk-in,Leeds,2022-12-18,Gold
+308,Male,35,Low,Social Media,Newcastle,2022-11-22,Silver
+309,Male,51,Ultra-High,Organic Search,Manchester,2024-11-27,Gold
+310,Male,24,High,Referral,York,2022-04-18,Gold
+311,Male,28,Medium,Email,Birmingham,2023-09-23,Silver
+312,Male,30,Medium,Email,Birmingham,2022-05-31,Silver
+313,Male,31,High,Organic Search,Ashford,2024-12-16,Gold
+314,Male,25,Low,Referral,Leeds,2024-05-27,Silver
+315,Male,52,Ultra-High,Referral,York,2022-12-01,Platinum
+316,Female,34,Medium,Referral,Newcastle,2024-03-14,Silver
+317,Male,42,Medium,Referral,Nottingham,2024-02-06,Silver
+318,Female,31,Medium,Email,Sheffield,2022-09-16,Gold
+319,Male,18,Medium,Social Media,Glasgow,2024-02-21,Gold
+320,Other,41,Medium,Referral,Glasgow,2022-02-03,Silver
+321,Male,18,Medium,Social Media,York,2022-11-22,Silver
+322,Male,37,High,Referral,Manchester,2024-04-16,Platinum
+323,Female,21,Medium,In-Store Walk-in,Cambridge,2023-11-22,Silver
+324,Female,61,Ultra-High,In-Store Walk-in,Cheshire,2024-01-09,Platinum
+325,Female,48,High,In-Store Walk-in,London,2024-01-14,Gold
+326,Male,39,High,Referral,London,2024-04-26,Gold
+327,Male,53,Medium,Social Media,Bristol,2022-04-27,Silver
+328,Female,27,Medium,Email,York,2023-10-12,Gold
+329,Female,44,Medium,Organic Search,London,2023-02-07,Gold
+330,Female,40,High,Email,Bristol,2024-09-23,Platinum
+331,Female,41,Ultra-High,Referral,Newcastle,2022-08-21,Gold
+332,Male,53,Low,In-Store Walk-in,Ashford,2024-07-17,Silver
+333,Female,46,Low,In-Store Walk-in,London,2023-04-25,Silver
+334,Male,41,Ultra-High,Social Media,Nottingham,2024-09-02,Gold
+335,Male,18,Medium,Referral,Liverpool,2022-01-09,Silver
+336,Male,26,High,Email,Edinburgh,2023-12-16,Platinum
+337,Female,36,High,Referral,Glasgow,2023-01-14,Platinum
+338,Male,39,High,Referral,London,2023-01-16,Gold
+339,Male,24,Medium,In-Store Walk-in,Cambridge,2024-04-23,Silver
+340,Female,66,Medium,Email,Ashford,2022-12-26,Gold
+341,Male,56,High,Organic Search,Cheshire,2022-06-25,Gold
+342,Female,45,Ultra-High,In-Store Walk-in,London,2023-04-30,Gold
+343,Male,38,Medium,Email,Newcastle,2022-02-02,Silver
+344,Female,35,Medium,Social Media,Bath,2023-11-27,Silver
+345,Female,26,High,In-Store Walk-in,Cheshire,2022-06-06,Platinum
+346,Male,38,Ultra-High,Social Media,London,2023-07-19,Gold
+347,Male,41,High,In-Store Walk-in,Sheffield,2022-07-21,Gold
+348,Male,23,Ultra-High,Referral,Newcastle,2024-07-11,Gold
+349,Male,42,Low,Email,York,2022-03-15,Silver
+350,Other,36,Medium,Social Media,Newcastle,2022-04-06,Silver
+351,Male,18,High,In-Store Walk-in,Bath,2022-06-22,Gold
+352,Female,27,High,Social Media,Nottingham,2022-06-04,Platinum
+353,Male,33,Medium,In-Store Walk-in,Birmingham,2022-10-16,Silver
+354,Female,60,Medium,In-Store Walk-in,Liverpool,2022-09-15,Silver
+355,Female,44,High,Organic Search,Nottingham,2022-06-23,Gold
+356,Female,21,Low,Organic Search,Nottingham,2022-11-26,Silver
+357,Male,43,Medium,Organic Search,London,2024-01-29,Silver
+358,Male,19,High,Social Media,Manchester,2024-10-16,Gold
+359,Male,50,High,Referral,Ashford,2022-06-10,Gold
+360,Female,32,High,In-Store Walk-in,Bath,2022-07-05,Gold
+361,Female,36,Medium,Email,Bicester,2022-05-23,Gold
+362,Female,53,High,Organic Search,Ashford,2024-06-25,Gold
+363,Male,22,High,Social Media,Cambridge,2023-10-02,Platinum
+364,Female,21,High,Social Media,Ashford,2022-01-27,Platinum
+365,Female,30,High,Social Media,Bath,2022-07-21,Gold
+366,Male,50,Medium,Email,Cheshire,2024-11-10,Silver
+367,Male,19,Low,Email,Bristol,2023-11-01,Silver
+368,Female,18,Medium,Organic Search,Leeds,2024-10-28,Silver
+369,Female,32,Medium,Email,Bicester,2023-04-17,Silver
+370,Female,44,High,Organic Search,Bath,2022-09-16,Gold
+371,Male,52,High,Email,Glasgow,2022-02-24,Platinum
+372,Female,32,High,Email,Liverpool,2024-06-29,Gold
+373,Male,33,High,Email,Bristol,2024-10-26,Gold
+374,Male,51,Medium,Organic Search,Cheshire,2023-07-08,Silver
+375,Male,18,Medium,In-Store Walk-in,Bath,2024-12-09,Silver
+376,Female,33,Medium,Organic Search,Liverpool,2022-04-22,Silver
+377,Female,40,Medium,In-Store Walk-in,Bath,2022-05-26,Silver
+378,Female,43,Low,Social Media,Cheshire,2022-08-18,Silver
+379,Male,31,High,Social Media,Manchester,2023-05-12,Platinum
+380,Female,38,Ultra-High,Organic Search,Sheffield,2023-04-06,Gold
+381,Male,18,Medium,In-Store Walk-in,York,2024-03-17,Silver
+382,Female,30,Low,In-Store Walk-in,Birmingham,2022-08-14,Silver
+383,Male,43,High,In-Store Walk-in,Birmingham,2022-02-28,Gold
+384,Male,26,Medium,Social Media,Ashford,2023-03-04,Silver
+385,Male,38,High,Organic Search,Ashford,2023-12-29,Platinum
+386,Male,43,High,Referral,Oxford,2024-07-20,Gold
+387,Female,33,Ultra-High,In-Store Walk-in,Bicester,2023-05-13,Gold
+388,Female,40,Medium,In-Store Walk-in,Cambridge,2024-03-26,Silver
+389,Male,26,High,Referral,London,2024-06-28,Gold
+390,Female,35,Medium,Organic Search,Bristol,2022-03-08,Silver
+391,Male,45,High,In-Store Walk-in,Cambridge,2022-08-18,Platinum
+392,Female,39,Medium,Organic Search,Sheffield,2024-09-09,Silver
+393,Female,30,Medium,In-Store Walk-in,Ashford,2022-11-29,Silver
+394,Female,40,High,Email,Newcastle,2022-10-04,Gold
+395,Male,46,High,In-Store Walk-in,Cambridge,2023-12-22,Gold
+396,Female,18,High,Email,Nottingham,2022-05-24,Gold
+397,Female,51,High,Organic Search,Bicester,2023-11-22,Gold
+398,Male,33,High,In-Store Walk-in,Bristol,2022-02-26,Gold
+399,Male,43,Medium,Social Media,Bath,2022-11-04,Silver
+400,Female,52,High,Social Media,Glasgow,2022-06-23,Gold
+401,Female,21,High,Referral,Birmingham,2024-01-20,Gold
+402,Female,29,Ultra-High,Social Media,Ashford,2024-09-30,Platinum
+403,Female,34,Ultra-High,Email,Bristol,2023-11-09,Gold
+404,Female,28,Low,Social Media,Birmingham,2023-07-14,Gold
+405,Male,58,High,Social Media,Bristol,2022-12-15,Gold
+406,Male,27,Low,Social Media,Ashford,2024-12-26,Gold
+407,Male,31,Medium,In-Store Walk-in,Bristol,2022-11-26,Silver
+408,Female,40,High,Referral,Cheshire,2022-07-13,Gold
+409,Male,23,Medium,Organic Search,Sheffield,2022-09-23,Silver
+410,Female,33,High,Referral,London,2022-06-17,Platinum
+411,Female,41,Low,Email,Oxford,2022-05-25,Silver
+412,Female,34,Medium,In-Store Walk-in,Oxford,2022-07-05,Silver
+413,Male,36,High,In-Store Walk-in,Glasgow,2024-06-04,Gold
+414,Female,31,High,Social Media,Oxford,2024-05-14,Gold
+415,Male,19,Ultra-High,Social Media,Edinburgh,2024-02-13,Gold
+416,Female,41,High,Email,Birmingham,2024-10-03,Gold
+417,Male,59,High,In-Store Walk-in,Birmingham,2024-02-25,Platinum
+418,Male,38,Medium,Organic Search,Bristol,2023-04-02,Gold
+419,Female,40,Low,Referral,Bristol,2022-12-11,Silver
+420,Male,46,Medium,In-Store Walk-in,Newcastle,2024-01-05,Silver
+421,Male,22,High,Organic Search,Leeds,2023-07-08,Platinum
+422,Female,58,High,Organic Search,Ashford,2024-10-17,Gold
+423,Female,40,Medium,Referral,Newcastle,2024-02-27,Silver
+424,Female,57,High,Organic Search,Bath,2024-07-24,Platinum
+425,Female,29,High,Email,Birmingham,2023-12-06,Platinum
+426,Female,59,Low,Organic Search,Cheshire,2022-09-04,Silver
+427,Male,47,Medium,Email,Ashford,2024-03-22,Silver
+428,Male,44,High,Organic Search,Liverpool,2024-11-12,Platinum
+429,Male,40,High,Social Media,Glasgow,2024-08-10,Gold
+430,Female,35,Ultra-High,Organic Search,Liverpool,2024-03-25,Gold
+431,Female,52,Medium,Email,Bicester,2022-05-24,Silver
+432,Male,39,Ultra-High,Organic Search,Nottingham,2023-12-31,Platinum
+433,Male,18,Medium,Organic Search,Cambridge,2024-05-12,Silver
+434,Female,24,Low,Organic Search,London,2023-04-10,Gold
+435,Male,35,Ultra-High,Email,Manchester,2023-01-10,Gold
+436,Female,41,Medium,Organic Search,Cambridge,2023-11-08,Silver
+437,Female,37,High,Referral,Leeds,2023-11-23,Gold
+438,Female,52,Medium,Referral,Ashford,2023-09-21,Silver
+439,Male,18,High,Email,Newcastle,2023-07-10,Gold
+440,Female,39,Ultra-High,Social Media,London,2024-05-12,Gold
+441,Female,18,Medium,Referral,Cheshire,2022-03-15,Silver
+442,Female,47,High,In-Store Walk-in,Cambridge,2023-03-14,Gold
+443,Female,36,Medium,Referral,Liverpool,2024-05-30,Silver
+444,Female,43,High,In-Store Walk-in,Oxford,2022-08-14,Gold
+445,Female,27,Medium,Email,Birmingham,2022-11-04,Silver
+446,Male,53,Medium,Social Media,London,2024-08-23,Silver
+447,Female,50,Medium,In-Store Walk-in,Edinburgh,2022-12-14,Silver
+448,Female,45,Medium,In-Store Walk-in,Manchester,2023-04-21,Silver
+449,Male,36,Ultra-High,Referral,Newcastle,2023-06-09,Gold
+450,Female,44,Medium,In-Store Walk-in,London,2023-06-08,Silver
+451,Female,29,Medium,Email,Sheffield,2023-07-16,Gold
+452,Female,48,Medium,Email,Glasgow,2023-07-23,Silver
+453,Male,57,Medium,Email,Ashford,2022-04-16,Silver
+454,Male,50,High,Referral,Birmingham,2022-07-10,Gold
+455,Other,29,Ultra-High,Social Media,London,2023-12-01,Gold
+456,Female,42,Medium,Referral,Ashford,2024-04-10,Silver
+457,Male,22,Ultra-High,Email,Bristol,2022-03-13,Gold
+458,Female,44,High,Referral,Manchester,2024-01-25,Gold
+459,Female,43,Medium,Email,Bath,2023-04-02,Gold
+460,Female,18,High,Organic Search,Cambridge,2024-06-23,Platinum
+461,Female,24,High,Organic Search,Cambridge,2023-04-24,Gold
+462,Male,34,High,In-Store Walk-in,Manchester,2022-02-21,Platinum
+463,Male,34,Ultra-High,Social Media,London,2024-09-30,Gold
+464,Male,23,Medium,Organic Search,London,2023-07-28,Gold
+465,Female,42,Ultra-High,Email,London,2024-06-11,Gold
+466,Male,41,High,Referral,Sheffield,2022-09-12,Gold
+467,Male,35,Medium,Referral,Bath,2023-11-16,Silver
+468,Male,28,High,In-Store Walk-in,Edinburgh,2022-02-26,Gold
+469,Female,50,Medium,Referral,Edinburgh,2024-08-07,Silver
+470,Female,57,Ultra-High,Organic Search,Oxford,2024-12-26,Gold
+471,Male,32,High,Referral,Cheshire,2024-12-05,Platinum
+472,Male,30,Low,Organic Search,Leeds,2023-08-29,Silver
+473,Female,43,Medium,Organic Search,Liverpool,2023-01-04,Silver
+474,Male,33,High,Social Media,Nottingham,2022-08-20,Gold
+475,Male,36,Low,In-Store Walk-in,Manchester,2024-06-26,Silver
+476,Male,46,Low,Email,Bath,2024-11-12,Silver
+477,Male,18,Medium,Organic Search,Liverpool,2023-07-28,Gold
+478,Male,53,Medium,In-Store Walk-in,Manchester,2024-04-20,Silver
+479,Female,38,Medium,Email,York,2022-04-28,Gold
+480,Male,33,Medium,Referral,Bath,2024-12-14,Silver
+481,Female,36,Medium,In-Store Walk-in,Liverpool,2022-09-25,Silver
+482,Male,37,High,In-Store Walk-in,Glasgow,2022-04-23,Gold
+483,Female,18,High,In-Store Walk-in,Cheshire,2022-06-15,Gold
+484,Female,55,Medium,Referral,Ashford,2023-10-30,Gold
+485,Male,38,Medium,Referral,Manchester,2024-10-28,Gold
+486,Female,43,High,In-Store Walk-in,Edinburgh,2023-12-15,Gold
+487,Male,49,Low,Social Media,Oxford,2023-03-07,Gold
+488,Female,25,Medium,Organic Search,Bristol,2024-06-11,Silver
+489,Male,43,Low,Referral,Cheshire,2024-12-09,Gold
+490,Male,34,High,Social Media,Cambridge,2022-04-17,Gold
+491,Male,48,High,Referral,Sheffield,2024-10-29,Gold
+492,Other,18,High,In-Store Walk-in,Leeds,2024-01-15,Gold
+493,Female,36,High,Social Media,Liverpool,2023-12-01,Gold
+494,Female,30,High,Email,Bicester,2022-11-19,Platinum
+495,Male,43,Medium,Organic Search,Bath,2022-11-05,Silver
+496,Female,43,High,Organic Search,Nottingham,2024-04-29,Gold
+497,Male,29,Low,Referral,York,2023-09-14,Gold
+498,Female,29,High,Organic Search,Leeds,2024-09-21,Gold
+499,Male,36,High,Email,Cambridge,2022-05-25,Platinum
+500,Male,27,High,Social Media,Nottingham,2024-01-10,Gold
+501,Male,48,Medium,Social Media,York,2024-03-31,Silver
+502,Male,33,Medium,In-Store Walk-in,Bristol,2023-02-16,Silver
+503,Female,18,High,Social Media,Nottingham,2022-04-24,Gold
+504,Male,33,High,Referral,London,2023-07-29,Platinum
+505,Female,25,Ultra-High,Email,London,2023-02-03,Platinum
+506,Male,18,Medium,In-Store Walk-in,Bath,2022-05-04,Silver
+507,Female,23,High,Referral,London,2022-03-27,Platinum
+508,Male,39,High,Referral,Birmingham,2022-02-16,Gold
+509,Male,53,Ultra-High,Referral,Leeds,2024-08-01,Platinum
+510,Female,41,High,Organic Search,Newcastle,2024-03-14,Platinum
+511,Male,30,High,Referral,Cheshire,2023-01-24,Gold
+512,Male,43,High,Organic Search,Leeds,2023-07-30,Gold
+513,Female,32,High,Social Media,Newcastle,2023-09-24,Platinum
+514,Female,29,Ultra-High,Organic Search,Manchester,2023-12-15,Gold
+515,Male,24,Low,Referral,Liverpool,2024-12-05,Silver
+516,Male,18,Low,Email,Bicester,2023-09-14,Gold
+517,Female,33,Ultra-High,Email,Nottingham,2022-02-15,Gold
+518,Male,39,High,Social Media,London,2023-12-25,Gold
+519,Male,36,High,Referral,Edinburgh,2023-06-24,Gold
+520,Male,33,Medium,Organic Search,York,2022-03-28,Silver
+521,Female,26,Low,Email,Cheshire,2024-03-13,Silver
+522,Female,45,High,In-Store Walk-in,Glasgow,2022-09-22,Gold
+523,Male,22,High,Referral,Glasgow,2024-11-11,Platinum
+524,Male,47,Medium,Referral,Bicester,2023-12-04,Gold
+525,Male,25,Medium,In-Store Walk-in,Bristol,2022-08-20,Silver
+526,Female,28,High,Email,London,2022-07-05,Gold
+527,Male,20,Low,In-Store Walk-in,Ashford,2022-11-22,Gold
+528,Male,31,Ultra-High,Social Media,Nottingham,2023-02-01,Platinum
+529,Female,49,Medium,Organic Search,Birmingham,2024-12-24,Gold
+530,Male,44,High,Organic Search,Bath,2024-08-13,Platinum
+531,Female,49,Ultra-High,Email,Cambridge,2023-07-09,Gold
+532,Male,44,High,In-Store Walk-in,Glasgow,2024-01-03,Gold
+533,Male,24,Medium,Referral,Manchester,2024-11-06,Silver
+534,Male,34,High,Referral,Sheffield,2024-03-07,Gold
+535,Female,28,Medium,Referral,Bristol,2023-01-26,Silver
+536,Female,53,Medium,Social Media,Bristol,2022-02-13,Silver
+537,Female,23,Ultra-High,Social Media,Ashford,2024-06-19,Platinum
+538,Male,48,High,Referral,Leeds,2023-04-27,Platinum
+539,Female,48,High,Email,Edinburgh,2023-07-20,Gold
+540,Male,59,Medium,Social Media,Cheshire,2022-08-08,Silver
+541,Male,33,Low,Social Media,Liverpool,2024-02-11,Silver
+542,Female,46,Low,Organic Search,Oxford,2023-02-13,Silver
+543,Male,65,High,Organic Search,Edinburgh,2023-04-16,Gold
+544,Male,30,High,Email,Cheshire,2024-12-20,Gold
+545,Male,19,High,Social Media,Nottingham,2022-06-15,Platinum
+546,Male,18,High,Social Media,Ashford,2023-11-03,Gold
+547,Male,46,Low,In-Store Walk-in,Ashford,2022-04-21,Silver
+548,Female,18,Medium,Email,Birmingham,2023-07-03,Gold
+549,Male,33,Medium,Email,York,2024-10-23,Silver
+550,Female,43,Medium,In-Store Walk-in,Glasgow,2024-11-02,Silver
+551,Female,40,Low,In-Store Walk-in,Newcastle,2022-12-10,Gold
+552,Male,43,Ultra-High,Organic Search,Newcastle,2022-11-28,Gold
+553,Male,40,Medium,Email,Nottingham,2022-09-21,Silver
+554,Male,53,Ultra-High,Email,Edinburgh,2022-03-24,Platinum
+555,Female,26,Medium,In-Store Walk-in,Ashford,2024-02-16,Silver
+556,Male,29,Ultra-High,Referral,London,2024-07-12,Gold
+557,Female,28,High,Referral,London,2022-11-30,Gold
+558,Male,47,Ultra-High,Organic Search,Bath,2023-10-20,Platinum
+559,Female,48,Low,Referral,Manchester,2023-03-30,Silver
+560,Male,43,High,Referral,Glasgow,2023-11-04,Platinum
+561,Male,52,Ultra-High,Referral,Leeds,2024-01-11,Gold
+562,Female,23,Medium,Social Media,Bristol,2022-11-29,Silver
+563,Female,58,Low,Organic Search,Sheffield,2022-11-06,Silver
+564,Male,56,Medium,In-Store Walk-in,Ashford,2023-12-28,Silver
+565,Female,46,Ultra-High,Referral,Cambridge,2022-12-20,Platinum
+566,Female,59,High,Social Media,Liverpool,2024-04-03,Platinum
+567,Female,18,High,Referral,Cambridge,2022-05-25,Gold
+568,Female,31,Medium,Social Media,Manchester,2024-10-30,Silver
+569,Male,29,Low,Organic Search,Nottingham,2024-12-03,Gold
+570,Male,46,High,Referral,Birmingham,2024-06-28,Platinum
+571,Male,25,Low,Social Media,Newcastle,2024-01-31,Silver
+572,Female,47,High,Email,Cambridge,2023-05-10,Gold
+573,Female,54,Ultra-High,Email,Cambridge,2023-10-04,Gold
+574,Male,46,Medium,Social Media,Oxford,2023-06-15,Silver
+575,Male,41,High,Referral,Manchester,2023-05-28,Platinum
+576,Female,26,Low,Referral,Oxford,2022-05-10,Silver
+577,Other,27,High,Organic Search,London,2024-10-04,Gold
+578,Female,52,Medium,Organic Search,Cheshire,2024-01-04,Silver
+579,Male,47,High,In-Store Walk-in,Oxford,2024-08-04,Gold
+580,Male,37,Medium,Organic Search,Glasgow,2024-09-28,Silver
+581,Male,32,Medium,Referral,Liverpool,2023-04-09,Gold
+582,Female,18,High,In-Store Walk-in,Manchester,2022-05-21,Gold
+583,Male,25,Medium,Organic Search,Oxford,2024-05-31,Silver
+584,Female,60,High,Social Media,Edinburgh,2023-04-01,Gold
+585,Male,22,Medium,Email,Nottingham,2023-03-10,Silver
+586,Female,40,High,Organic Search,London,2022-06-22,Platinum
+587,Female,50,Medium,Organic Search,Ashford,2023-04-18,Silver
+588,Female,22,High,Social Media,Newcastle,2024-10-16,Platinum
+589,Male,40,Medium,Referral,Bath,2024-07-05,Silver
+590,Male,49,Medium,Social Media,London,2023-03-15,Silver
+591,Male,38,Medium,Organic Search,Birmingham,2024-10-12,Silver
+592,Female,72,High,Referral,Manchester,2024-12-16,Gold
+593,Female,18,Medium,In-Store Walk-in,Sheffield,2023-05-13,Silver
+594,Female,50,Ultra-High,Organic Search,Leeds,2022-06-18,Gold
+595,Female,35,Ultra-High,Social Media,Oxford,2024-09-15,Gold
+596,Female,47,Medium,In-Store Walk-in,Oxford,2023-07-15,Silver
+597,Male,43,High,Email,Newcastle,2023-03-04,Gold
+598,Female,29,Low,In-Store Walk-in,London,2023-02-23,Silver
+599,Male,40,Medium,Social Media,Cambridge,2023-03-31,Gold
+600,Male,18,High,In-Store Walk-in,Manchester,2023-12-15,Platinum
+601,Female,45,High,Social Media,Cambridge,2022-07-21,Gold
+602,Male,41,High,Organic Search,London,2022-06-28,Gold
+603,Male,45,Medium,Referral,Liverpool,2022-02-26,Silver
+604,Female,50,Medium,Email,Bath,2024-08-03,Silver
+605,Male,42,Medium,Referral,Oxford,2023-05-16,Gold
+606,Female,39,High,Referral,Edinburgh,2024-01-09,Gold
+607,Male,27,High,Referral,Cheshire,2022-04-22,Gold
+608,Male,29,High,Social Media,Cambridge,2023-12-16,Platinum
+609,Male,52,Medium,Social Media,Edinburgh,2024-05-26,Silver
+610,Male,55,Medium,Email,Bath,2024-12-15,Silver
+611,Female,35,Medium,Social Media,Glasgow,2024-03-23,Silver
+612,Male,38,Low,Social Media,Manchester,2024-08-21,Silver
+613,Female,27,Medium,Social Media,Leeds,2024-12-13,Silver
+614,Male,52,High,Social Media,Bath,2022-02-06,Gold
+615,Female,45,Ultra-High,Organic Search,Manchester,2024-10-09,Platinum
+616,Female,61,High,Email,London,2024-05-12,Gold
+617,Female,27,Medium,Social Media,Ashford,2024-01-02,Silver
+618,Male,33,Low,Email,Cheshire,2024-03-20,Silver
+619,Male,40,Ultra-High,In-Store Walk-in,Ashford,2024-10-21,Gold
+620,Male,45,Low,Organic Search,Newcastle,2022-01-23,Silver
+621,Female,35,Ultra-High,Social Media,Leeds,2024-03-06,Platinum
+622,Male,27,Medium,Organic Search,Nottingham,2023-05-11,Silver
+623,Female,48,Medium,Organic Search,Ashford,2024-06-18,Gold
+624,Female,46,Ultra-High,In-Store Walk-in,Nottingham,2023-03-01,Gold
+625,Male,27,Low,Email,Bristol,2023-12-01,Silver
+626,Female,54,High,Organic Search,Glasgow,2022-01-18,Gold
+627,Male,52,High,Referral,London,2023-09-19,Gold
+628,Male,39,Medium,In-Store Walk-in,London,2024-11-28,Gold
+629,Female,38,Medium,Referral,Bicester,2022-07-30,Gold
+630,Female,44,High,In-Store Walk-in,London,2023-07-19,Platinum
+631,Female,27,High,Referral,Edinburgh,2024-08-29,Gold
+632,Male,38,Low,Referral,Birmingham,2022-05-13,Silver
+633,Male,18,Ultra-High,Organic Search,Oxford,2023-03-25,Gold
+634,Female,48,Medium,Organic Search,Sheffield,2022-09-21,Silver
+635,Female,19,Medium,In-Store Walk-in,York,2022-04-21,Silver
+636,Female,56,Medium,Email,Oxford,2024-04-29,Gold
+637,Male,34,Low,Organic Search,Glasgow,2024-06-19,Silver
+638,Female,35,Medium,Organic Search,Leeds,2024-01-29,Gold
+639,Male,30,Ultra-High,Social Media,Oxford,2024-05-10,Platinum
+640,Male,34,Medium,Organic Search,London,2024-06-15,Silver
+641,Female,55,Medium,Email,Birmingham,2024-05-11,Gold
+642,Male,18,Medium,Social Media,Leeds,2022-07-12,Silver
+643,Female,53,High,Referral,Liverpool,2023-05-30,Gold
+644,Male,42,Ultra-High,Referral,Ashford,2024-02-29,Platinum
+645,Male,23,Medium,Social Media,London,2024-08-25,Silver
+646,Female,25,Low,Social Media,Liverpool,2022-03-25,Gold
+647,Female,58,Medium,Social Media,Newcastle,2024-03-08,Silver
+648,Female,26,Low,In-Store Walk-in,Ashford,2022-03-21,Silver
+649,Female,24,Medium,Email,Manchester,2023-06-06,Silver
+650,Female,51,Medium,Email,Edinburgh,2022-08-22,Silver
+651,Female,42,Medium,Referral,Bristol,2022-09-01,Silver
+652,Female,26,High,Referral,Bicester,2024-04-28,Gold
+653,Male,40,Medium,Referral,Newcastle,2023-01-28,Silver
+654,Female,25,Ultra-High,Organic Search,Birmingham,2022-01-09,Gold
+655,Male,51,Ultra-High,Referral,Bath,2023-09-05,Platinum
+656,Other,50,High,Social Media,Nottingham,2024-03-17,Gold
+657,Female,44,Medium,Referral,Bath,2023-12-16,Silver
+658,Male,42,Medium,Social Media,Birmingham,2022-04-20,Gold
+659,Female,59,Medium,In-Store Walk-in,Birmingham,2024-04-13,Silver
+660,Female,37,High,Organic Search,Ashford,2022-09-23,Gold
+661,Male,23,Medium,Organic Search,Edinburgh,2024-09-02,Silver
+662,Female,43,Ultra-High,Email,Liverpool,2024-08-12,Gold
+663,Female,63,Ultra-High,In-Store Walk-in,Glasgow,2024-06-25,Platinum
+664,Male,25,Medium,Social Media,Leeds,2023-11-03,Gold
+665,Female,33,High,In-Store Walk-in,Sheffield,2022-06-25,Platinum
+666,Male,42,Low,Organic Search,Newcastle,2023-06-09,Gold
+667,Female,37,Medium,Social Media,Oxford,2024-12-26,Gold
+668,Female,26,Medium,In-Store Walk-in,Ashford,2024-08-09,Gold
+669,Female,51,Medium,Organic Search,London,2024-11-24,Silver
+670,Male,65,Ultra-High,Social Media,Bath,2023-05-20,Gold
+671,Female,40,Medium,Social Media,Oxford,2024-04-28,Silver
+672,Female,27,Medium,Organic Search,Nottingham,2024-08-20,Silver
+673,Male,19,High,Social Media,York,2023-04-17,Gold
+674,Female,41,High,Organic Search,Oxford,2023-06-07,Gold
+675,Male,51,Medium,Referral,Sheffield,2024-05-29,Silver
+676,Female,43,Ultra-High,Referral,Bicester,2022-10-01,Gold
+677,Male,37,High,Social Media,Manchester,2022-02-23,Platinum
+678,Male,30,Medium,Social Media,Sheffield,2024-12-14,Silver
+679,Male,24,Low,Organic Search,Oxford,2024-06-06,Silver
+680,Female,48,Medium,Social Media,Bicester,2024-01-15,Silver
+681,Male,48,High,Email,Bristol,2022-10-04,Gold
+682,Female,19,High,Referral,Cambridge,2024-06-01,Platinum
+683,Male,57,High,Social Media,Birmingham,2023-09-24,Gold
+684,Male,44,Medium,Social Media,Cheshire,2023-07-24,Silver
+685,Female,54,Medium,In-Store Walk-in,Newcastle,2022-06-25,Silver
+686,Female,21,Low,Social Media,Glasgow,2023-07-20,Silver
+687,Male,21,Medium,Email,Oxford,2024-02-10,Silver
+688,Female,36,High,Referral,Bicester,2022-09-19,Gold
+689,Female,44,High,In-Store Walk-in,Newcastle,2023-06-15,Gold
+690,Female,59,Medium,Organic Search,Manchester,2024-06-09,Gold
+691,Male,46,Medium,Organic Search,Birmingham,2024-08-05,Silver
+692,Male,35,Medium,Referral,Cambridge,2023-08-08,Silver
+693,Female,25,Medium,Organic Search,Ashford,2024-03-25,Silver
+694,Male,52,Medium,Email,Cambridge,2022-10-29,Silver
+695,Female,26,Medium,Social Media,York,2023-09-20,Gold
+696,Female,57,Medium,Referral,York,2023-07-27,Silver
+697,Female,34,Low,In-Store Walk-in,Cheshire,2023-06-13,Silver
+698,Female,57,Medium,Social Media,Birmingham,2022-02-03,Silver
+699,Other,46,Low,Organic Search,Ashford,2023-06-16,Silver
+700,Male,36,High,Organic Search,Bristol,2023-01-06,Platinum
+701,Female,31,Medium,In-Store Walk-in,Birmingham,2023-02-13,Gold
+702,Male,33,Ultra-High,Email,London,2023-09-09,Platinum
+703,Male,43,Medium,In-Store Walk-in,Liverpool,2022-03-12,Silver
+704,Female,38,Medium,Referral,Ashford,2022-03-25,Silver
+705,Female,30,Medium,In-Store Walk-in,London,2022-07-28,Silver
+706,Other,36,Low,Organic Search,Newcastle,2022-09-16,Silver
+707,Female,38,High,Email,Manchester,2024-07-20,Gold
+708,Male,18,Low,Email,Manchester,2022-10-09,Silver
+709,Male,43,Ultra-High,In-Store Walk-in,Bicester,2023-01-29,Gold
+710,Female,26,Ultra-High,Referral,Newcastle,2023-02-22,Platinum
+711,Male,24,High,Organic Search,Newcastle,2024-05-08,Platinum
+712,Male,18,High,Social Media,Birmingham,2023-09-18,Gold
+713,Male,18,High,Email,London,2023-07-16,Gold
+714,Male,21,Medium,In-Store Walk-in,Leeds,2024-04-11,Gold
+715,Male,29,High,Referral,Ashford,2024-07-29,Platinum
+716,Male,61,Low,Referral,Leeds,2022-03-03,Silver
+717,Male,31,Low,Organic Search,Sheffield,2024-01-04,Silver
+718,Male,40,Medium,Email,York,2024-02-21,Silver
+719,Other,42,High,Organic Search,Cambridge,2023-06-23,Gold
+720,Male,39,Ultra-High,Social Media,Oxford,2023-08-20,Platinum
+721,Male,37,Medium,Social Media,Cheshire,2022-01-09,Silver
+722,Female,23,High,Social Media,Cheshire,2022-10-03,Gold
+723,Male,55,Medium,Referral,Liverpool,2022-08-15,Silver
+724,Female,59,Medium,Email,Bristol,2022-07-05,Silver
+725,Female,18,Medium,Organic Search,Bath,2023-08-14,Silver
+726,Male,25,Medium,Organic Search,Birmingham,2023-03-09,Gold
+727,Male,34,Medium,Social Media,Nottingham,2023-07-23,Silver
+728,Female,26,High,Email,London,2023-10-18,Platinum
+729,Female,44,High,Email,Cheshire,2022-12-22,Platinum
+730,Male,29,Medium,In-Store Walk-in,Sheffield,2024-04-22,Silver
+731,Female,63,Medium,Email,Birmingham,2023-01-27,Silver
+732,Male,52,High,Email,London,2023-08-02,Gold
+733,Other,40,High,Organic Search,Ashford,2023-02-24,Platinum
+734,Male,50,Medium,Email,Newcastle,2022-06-13,Silver
+735,Female,51,Medium,Email,Liverpool,2024-02-18,Silver
+736,Female,31,Ultra-High,Organic Search,Glasgow,2023-09-30,Platinum
+737,Female,28,High,Email,Bath,2022-01-17,Platinum
+738,Female,38,Medium,Organic Search,Bath,2023-03-22,Silver
+739,Male,48,Medium,In-Store Walk-in,Nottingham,2022-06-19,Gold
+740,Male,39,High,Referral,Bath,2022-12-06,Gold
+741,Male,19,Low,Organic Search,Cheshire,2023-12-27,Silver
+742,Male,28,Ultra-High,Organic Search,Sheffield,2024-10-31,Gold
+743,Female,37,Medium,Email,London,2022-05-13,Silver
+744,Male,37,High,Organic Search,Edinburgh,2024-06-19,Gold
+745,Male,61,Medium,Social Media,Manchester,2023-10-02,Silver
+746,Female,21,Medium,Social Media,Bath,2024-04-02,Silver
+747,Female,44,Ultra-High,In-Store Walk-in,Bristol,2024-08-11,Gold
+748,Female,55,Medium,Organic Search,Nottingham,2022-03-20,Silver
+749,Other,65,High,Email,Birmingham,2022-12-12,Gold
+750,Male,33,Low,Email,London,2023-09-01,Gold
+751,Male,43,Low,Referral,Bath,2023-10-01,Gold
+752,Female,44,Medium,In-Store Walk-in,London,2024-11-13,Silver
+753,Female,40,High,Email,Cheshire,2022-05-11,Platinum
+754,Male,36,Medium,Referral,Bath,2022-12-22,Silver
+755,Female,43,Medium,Email,London,2024-08-01,Silver
+756,Male,18,Medium,Referral,Glasgow,2022-05-30,Silver
+757,Male,46,High,Social Media,Newcastle,2022-02-19,Gold
+758,Female,39,High,Social Media,Newcastle,2023-04-09,Gold
+759,Female,35,Medium,Email,Edinburgh,2023-03-31,Silver
+760,Female,62,Low,In-Store Walk-in,Nottingham,2022-12-01,Silver
+761,Male,29,Ultra-High,Organic Search,Bristol,2023-10-30,Platinum
+762,Female,33,Medium,In-Store Walk-in,Newcastle,2022-11-23,Silver
+763,Male,61,Ultra-High,In-Store Walk-in,Cheshire,2024-10-12,Platinum
+764,Male,28,Ultra-High,Organic Search,Sheffield,2022-12-02,Platinum
+765,Female,31,High,Social Media,Cambridge,2023-10-28,Gold
+766,Female,36,Medium,Social Media,Cambridge,2024-09-21,Silver
+767,Female,48,High,Organic Search,Newcastle,2022-03-22,Gold
+768,Female,40,High,Referral,London,2022-03-28,Platinum
+769,Female,22,High,In-Store Walk-in,Glasgow,2022-09-15,Platinum
+770,Female,31,Medium,Email,Bicester,2024-09-17,Silver
+771,Male,30,Medium,Social Media,Leeds,2022-07-04,Silver
+772,Male,37,Medium,Email,Liverpool,2023-11-29,Silver
+773,Male,43,High,Organic Search,Liverpool,2022-05-03,Platinum
+774,Male,43,High,Email,Newcastle,2023-08-28,Platinum
+775,Female,18,Medium,Email,Leeds,2023-05-30,Gold
+776,Female,50,Medium,In-Store Walk-in,Glasgow,2024-06-22,Gold
+777,Male,41,Medium,Organic Search,Glasgow,2022-11-01,Silver
+778,Male,54,High,Email,York,2023-10-19,Platinum
+779,Female,43,Ultra-High,Social Media,Ashford,2022-09-19,Platinum
+780,Male,51,Medium,Organic Search,Nottingham,2023-05-06,Silver
+781,Female,43,Medium,Social Media,Birmingham,2024-01-08,Silver
+782,Female,54,Medium,Referral,Bristol,2024-11-20,Silver
+783,Female,44,High,Email,Ashford,2023-12-03,Gold
+784,Female,36,High,Organic Search,Birmingham,2024-06-05,Platinum
+785,Female,65,Ultra-High,Social Media,Nottingham,2022-01-12,Gold
+786,Male,48,Medium,Email,Cheshire,2022-04-01,Silver
+787,Female,44,Ultra-High,In-Store Walk-in,Glasgow,2023-08-23,Platinum
+788,Female,22,Low,Social Media,Cambridge,2022-10-28,Silver
+789,Male,22,High,Social Media,Sheffield,2022-03-21,Gold
+790,Female,41,Low,Referral,Sheffield,2024-04-15,Silver
+791,Female,39,Ultra-High,In-Store Walk-in,Glasgow,2023-10-14,Gold
+792,Female,30,High,Referral,London,2023-03-09,Platinum
+793,Female,39,High,In-Store Walk-in,Edinburgh,2023-02-21,Gold
+794,Female,57,High,Social Media,Birmingham,2022-01-18,Platinum
+795,Female,46,Medium,Referral,Manchester,2024-12-13,Silver
+796,Female,24,Low,Email,Manchester,2024-01-16,Silver
+797,Female,36,Ultra-High,In-Store Walk-in,Sheffield,2022-08-28,Gold
+798,Female,28,Medium,Social Media,York,2024-04-25,Silver
+799,Female,33,Medium,Organic Search,Bath,2023-02-22,Gold
+800,Female,33,Medium,In-Store Walk-in,Bristol,2024-05-05,Gold
+801,Male,32,High,In-Store Walk-in,Cambridge,2023-08-22,Gold
+802,Female,22,Low,Email,Nottingham,2023-02-24,Silver
+803,Female,36,Medium,In-Store Walk-in,Cheshire,2022-08-04,Gold
+804,Male,31,Low,In-Store Walk-in,Ashford,2023-12-10,Silver
+805,Female,18,Medium,Email,Manchester,2023-07-05,Silver
+806,Male,62,Ultra-High,Email,York,2024-08-23,Platinum
+807,Male,51,Ultra-High,Referral,Bath,2024-04-12,Platinum
+808,Female,33,High,Social Media,Nottingham,2023-11-11,Gold
+809,Male,38,Medium,Social Media,Edinburgh,2023-05-02,Gold
+810,Female,23,Ultra-High,Referral,Oxford,2023-09-15,Gold
+811,Female,58,High,Social Media,Birmingham,2022-08-07,Gold
+812,Female,60,Medium,In-Store Walk-in,Oxford,2023-12-22,Silver
+813,Male,39,Ultra-High,Referral,Bicester,2023-01-16,Gold
+814,Male,50,High,Referral,Cambridge,2022-03-28,Gold
+815,Female,40,High,Social Media,Oxford,2024-03-25,Platinum
+816,Other,21,High,Organic Search,Cambridge,2023-02-15,Gold
+817,Female,33,Medium,Social Media,Glasgow,2023-11-22,Silver
+818,Male,39,Medium,Organic Search,Liverpool,2024-10-09,Silver
+819,Female,32,High,Referral,Oxford,2023-06-09,Gold
+820,Female,35,Medium,Organic Search,Ashford,2023-03-23,Silver
+821,Female,36,Medium,In-Store Walk-in,Sheffield,2022-10-27,Silver
+822,Male,37,High,Email,London,2023-02-12,Gold
+823,Female,38,High,Organic Search,London,2023-01-10,Platinum
+824,Female,25,Medium,Email,Nottingham,2022-08-21,Silver
+825,Female,29,High,In-Store Walk-in,Sheffield,2023-09-30,Platinum
+826,Male,22,High,Email,Glasgow,2023-10-12,Platinum
+827,Female,49,High,In-Store Walk-in,Manchester,2024-08-18,Platinum
+828,Female,18,Medium,Email,Cambridge,2024-12-08,Gold
+829,Male,51,Medium,Email,Cheshire,2022-07-05,Silver
+830,Female,54,Medium,Social Media,Glasgow,2022-03-19,Silver
+831,Female,34,Medium,Organic Search,Newcastle,2022-07-13,Silver
+832,Male,18,Medium,Email,Liverpool,2022-10-14,Silver
+833,Male,33,Medium,Referral,Bath,2022-09-07,Silver
+834,Female,37,Medium,Social Media,Bath,2023-06-20,Silver
+835,Male,25,Ultra-High,Organic Search,Birmingham,2022-10-27,Gold
+836,Female,31,Medium,Social Media,Newcastle,2024-03-19,Silver
+837,Male,56,High,Organic Search,Liverpool,2023-04-03,Gold
+838,Female,45,High,In-Store Walk-in,Ashford,2023-11-22,Gold
+839,Male,26,Low,Email,Cambridge,2023-12-19,Silver
+840,Female,18,Ultra-High,Referral,Edinburgh,2022-02-09,Gold
+841,Female,34,High,Social Media,Edinburgh,2022-04-18,Platinum
+842,Female,35,Medium,Social Media,London,2022-09-18,Silver
+843,Female,43,High,Social Media,York,2023-06-10,Platinum
+844,Male,31,Medium,Social Media,Edinburgh,2023-12-11,Silver
+845,Female,44,High,Email,Liverpool,2022-05-06,Platinum
+846,Male,61,Low,Organic Search,Edinburgh,2024-12-21,Silver
+847,Male,47,High,Email,London,2022-02-23,Gold
+848,Male,37,Medium,In-Store Walk-in,Sheffield,2022-12-12,Silver
+849,Female,35,High,Email,London,2022-05-16,Platinum
+850,Female,33,Medium,Email,Cheshire,2022-11-26,Silver
+851,Female,52,High,In-Store Walk-in,Oxford,2022-05-16,Platinum
+852,Male,30,High,Email,Nottingham,2024-03-23,Gold
+853,Male,38,Medium,Organic Search,Liverpool,2024-05-01,Gold
+854,Other,38,High,Referral,Liverpool,2024-05-20,Gold
+855,Male,31,Medium,In-Store Walk-in,Bath,2024-06-10,Silver
+856,Male,21,Ultra-High,Social Media,Cheshire,2023-09-27,Platinum
+857,Male,41,Medium,Organic Search,York,2023-10-31,Silver
+858,Female,37,High,Referral,Edinburgh,2024-11-06,Platinum
+859,Female,44,High,Organic Search,Bath,2022-09-26,Gold
+860,Male,31,Medium,Organic Search,Manchester,2024-05-10,Silver
+861,Male,52,Medium,Social Media,Birmingham,2023-04-27,Silver
+862,Female,27,Medium,Referral,Manchester,2022-10-12,Gold
+863,Female,58,High,Organic Search,Cheshire,2024-11-26,Gold
+864,Male,18,Medium,Social Media,Manchester,2022-04-13,Silver
+865,Female,43,High,In-Store Walk-in,Nottingham,2024-03-02,Gold
+866,Male,43,High,Social Media,Glasgow,2022-08-27,Gold
+867,Male,28,Medium,Email,Glasgow,2024-01-11,Silver
+868,Female,43,High,Social Media,Ashford,2023-10-07,Gold
+869,Male,53,Medium,Social Media,Oxford,2024-05-31,Silver
+870,Female,18,Medium,Social Media,Leeds,2023-08-30,Gold
+871,Male,44,High,Organic Search,Sheffield,2022-07-07,Platinum
+872,Male,18,Low,Referral,Glasgow,2024-06-06,Gold
+873,Other,26,Medium,Social Media,Bath,2024-09-13,Silver
+874,Male,57,Ultra-High,Social Media,Newcastle,2024-07-12,Gold
+875,Female,31,Medium,Email,London,2024-03-04,Silver
+876,Male,23,Ultra-High,Email,Oxford,2023-06-14,Gold
+877,Male,35,Ultra-High,In-Store Walk-in,Oxford,2023-11-07,Gold
+878,Male,62,Medium,In-Store Walk-in,Liverpool,2023-01-27,Silver
+879,Female,18,Low,Email,Cheshire,2023-11-03,Silver
+880,Male,25,High,Referral,Bath,2024-05-10,Gold
+881,Female,55,Medium,In-Store Walk-in,Birmingham,2023-04-11,Silver
+882,Male,60,Medium,Referral,Bicester,2024-04-18,Silver
+883,Female,36,High,Email,London,2024-09-14,Gold
+884,Male,23,Low,In-Store Walk-in,York,2024-12-09,Silver
+885,Female,63,Ultra-High,Social Media,Cheshire,2022-01-04,Gold
+886,Female,57,Medium,Email,Birmingham,2024-05-01,Gold
+887,Female,46,Medium,In-Store Walk-in,Glasgow,2023-06-19,Silver
+888,Female,28,Medium,Referral,Cheshire,2024-06-21,Silver
+889,Female,37,Ultra-High,Referral,Cheshire,2024-12-20,Platinum
+890,Female,36,High,In-Store Walk-in,Glasgow,2023-10-08,Gold
+891,Male,41,High,Referral,Bristol,2022-01-24,Platinum
+892,Male,55,Medium,In-Store Walk-in,Glasgow,2023-07-11,Silver
+893,Female,48,Medium,In-Store Walk-in,Manchester,2023-11-22,Gold
+894,Female,25,Medium,Referral,Oxford,2022-12-22,Silver
+895,Female,54,Medium,Organic Search,Sheffield,2024-05-19,Silver
+896,Female,41,High,Social Media,London,2024-07-29,Gold
+897,Male,46,High,Email,Newcastle,2023-07-29,Platinum
+898,Male,55,Medium,Social Media,Liverpool,2022-01-29,Silver
+899,Female,24,Ultra-High,Email,Edinburgh,2022-12-23,Gold
+900,Male,37,Medium,Email,Nottingham,2022-12-31,Silver
+901,Male,31,Ultra-High,Social Media,Cambridge,2023-08-31,Gold
+902,Female,19,Low,In-Store Walk-in,London,2023-02-13,Silver
+903,Male,42,Medium,Referral,Oxford,2023-07-21,Silver
+904,Female,68,Medium,Organic Search,Newcastle,2022-08-07,Silver
+905,Male,18,Medium,Organic Search,Ashford,2022-06-22,Silver
+906,Female,37,High,Organic Search,Bicester,2023-08-31,Gold
+907,Male,45,Medium,Social Media,Leeds,2024-11-01,Silver
+908,Male,39,Medium,Social Media,Nottingham,2024-05-07,Silver
+909,Male,36,High,In-Store Walk-in,York,2023-10-19,Gold
+910,Male,22,High,Organic Search,Nottingham,2024-08-26,Gold
+911,Male,40,High,In-Store Walk-in,Bicester,2023-03-17,Gold
+912,Male,28,Medium,Organic Search,Oxford,2023-09-09,Silver
+913,Female,18,High,Social Media,Nottingham,2022-08-14,Gold
+914,Male,52,High,Referral,London,2023-01-06,Gold
+915,Female,49,Medium,Referral,Edinburgh,2022-01-28,Gold
+916,Female,38,Medium,Referral,Oxford,2024-10-04,Silver
+917,Female,40,Medium,Referral,Liverpool,2024-09-21,Silver
+918,Male,50,Medium,Email,Birmingham,2022-01-16,Silver
+919,Female,40,Medium,Organic Search,Glasgow,2022-11-29,Silver
+920,Male,48,Medium,Referral,Liverpool,2023-04-28,Silver
+921,Male,34,High,Email,Oxford,2023-07-20,Platinum
+922,Other,53,High,Email,Edinburgh,2022-04-24,Gold
+923,Male,41,Ultra-High,Email,London,2022-02-07,Gold
+924,Female,40,High,In-Store Walk-in,Cheshire,2023-03-30,Gold
+925,Female,22,Low,In-Store Walk-in,Nottingham,2024-01-12,Silver
+926,Female,41,Ultra-High,Email,Newcastle,2022-06-15,Gold
+927,Female,28,Ultra-High,Referral,Glasgow,2023-11-25,Gold
+928,Male,30,Medium,Organic Search,Ashford,2022-07-24,Silver
+929,Male,28,High,Social Media,Cheshire,2024-05-27,Gold
+930,Female,25,Ultra-High,In-Store Walk-in,Newcastle,2022-09-02,Platinum
+931,Male,63,High,Referral,London,2024-07-31,Gold
+932,Male,53,Ultra-High,Referral,Birmingham,2024-03-31,Platinum
+933,Male,61,Low,Social Media,Bicester,2023-05-22,Gold
+934,Male,23,Medium,Social Media,Newcastle,2024-07-12,Silver
+935,Male,38,Medium,Referral,London,2023-02-14,Silver
+936,Male,22,High,Social Media,Nottingham,2022-11-06,Gold
+937,Female,29,High,Referral,Bath,2022-03-09,Gold
+938,Female,26,Ultra-High,Social Media,Bath,2022-04-24,Gold
+939,Female,52,Medium,Social Media,Birmingham,2022-08-08,Gold
+940,Male,33,Low,Referral,Bristol,2022-08-08,Silver
+941,Male,50,High,Email,Newcastle,2023-12-31,Platinum
+942,Male,45,High,Referral,Oxford,2024-01-19,Gold
+943,Female,65,Medium,Organic Search,Liverpool,2024-07-31,Silver
+944,Female,20,Medium,Social Media,Bath,2023-01-21,Silver
+945,Male,53,High,In-Store Walk-in,London,2024-07-18,Gold
+946,Female,51,High,Social Media,London,2023-02-09,Gold
+947,Male,26,Medium,Organic Search,Leeds,2023-05-07,Gold
+948,Female,50,Medium,In-Store Walk-in,Birmingham,2022-12-23,Silver
+949,Female,42,Ultra-High,In-Store Walk-in,London,2022-08-03,Gold
+950,Female,35,High,Referral,Bristol,2024-01-22,Gold
+951,Female,28,Medium,Email,Oxford,2024-04-06,Silver
+952,Female,29,Medium,Referral,Bristol,2023-06-12,Silver
+953,Male,62,High,In-Store Walk-in,Sheffield,2024-07-04,Gold
+954,Female,38,Medium,In-Store Walk-in,Cheshire,2023-10-28,Silver
+955,Male,47,Medium,Email,Bath,2023-12-11,Silver
+956,Female,28,High,Social Media,Newcastle,2023-06-19,Gold
+957,Female,28,Medium,Email,Nottingham,2023-07-08,Gold
+958,Female,50,High,Referral,Glasgow,2022-11-24,Gold
+959,Male,21,Medium,Social Media,Leeds,2024-06-20,Silver
+960,Female,33,High,Referral,Cheshire,2022-05-30,Gold
+961,Female,38,Medium,Email,Bath,2024-11-21,Gold
+962,Female,39,Low,Social Media,Bristol,2023-10-19,Silver
+963,Male,35,Medium,Email,Ashford,2024-03-16,Gold
+964,Male,42,Ultra-High,Organic Search,Ashford,2022-10-20,Gold
+965,Male,46,Ultra-High,In-Store Walk-in,Edinburgh,2024-07-07,Gold
+966,Male,46,Medium,Social Media,Edinburgh,2023-11-20,Silver
+967,Female,26,High,In-Store Walk-in,London,2024-08-14,Gold
+968,Male,34,High,Organic Search,Bristol,2024-12-20,Gold
+969,Female,52,Ultra-High,Social Media,London,2023-02-20,Platinum
+970,Male,48,Medium,In-Store Walk-in,Ashford,2023-08-21,Silver
+971,Male,21,High,In-Store Walk-in,Newcastle,2022-01-07,Gold
+972,Female,42,Low,Social Media,Leeds,2024-07-06,Silver
+973,Female,18,Medium,In-Store Walk-in,Birmingham,2022-03-26,Silver
+974,Female,38,Ultra-High,In-Store Walk-in,Bristol,2024-02-13,Gold
+975,Female,60,High,Social Media,Sheffield,2024-08-14,Gold
+976,Female,26,Medium,In-Store Walk-in,London,2024-12-06,Silver
+977,Male,27,Medium,In-Store Walk-in,Cambridge,2023-08-29,Silver
+978,Other,47,High,Referral,Edinburgh,2023-03-02,Gold
+979,Female,19,High,Referral,Bicester,2023-03-02,Gold
+980,Female,30,Medium,Organic Search,London,2024-01-06,Silver
+981,Male,45,Ultra-High,Referral,London,2024-03-01,Gold
+982,Female,30,Low,Referral,Birmingham,2023-05-30,Gold
+983,Male,35,Medium,Organic Search,Bicester,2024-01-11,Silver
+984,Male,46,Ultra-High,In-Store Walk-in,London,2022-05-11,Gold
+985,Male,43,Medium,In-Store Walk-in,Bicester,2022-11-19,Silver
+986,Male,41,Medium,Referral,Cheshire,2024-04-02,Silver
+987,Female,33,High,Organic Search,Sheffield,2023-06-27,Gold
+988,Female,42,High,In-Store Walk-in,Ashford,2022-03-07,Gold
+989,Female,36,Medium,Email,Oxford,2023-12-19,Gold
+990,Male,43,Ultra-High,Social Media,Bristol,2022-01-31,Platinum
+991,Male,32,High,Social Media,Bicester,2024-06-03,Gold
+992,Male,35,Medium,Social Media,London,2022-07-10,Silver
+993,Other,26,High,Referral,Edinburgh,2023-02-19,Gold
+994,Male,37,Medium,Social Media,Nottingham,2024-01-17,Gold
+995,Female,28,Medium,Social Media,Bath,2024-12-05,Silver
+996,Female,24,High,Email,Oxford,2023-01-10,Gold
+997,Male,41,Ultra-High,In-Store Walk-in,Bristol,2023-07-12,Platinum
+998,Female,40,Medium,Email,London,2023-08-01,Silver
+999,Female,47,Medium,Referral,Ashford,2022-02-01,Silver
+1000,Female,32,Medium,Social Media,Cambridge,2022-02-27,Silver
+1001,Female,42,Medium,In-Store Walk-in,Bath,2022-11-08,Silver
+1002,Male,44,Medium,Social Media,Glasgow,2024-12-26,Gold
+1003,Male,43,Low,Social Media,Ashford,2023-11-21,Silver
+1004,Female,28,High,Referral,Oxford,2022-08-23,Gold
+1005,Female,39,Medium,Social Media,Glasgow,2023-10-05,Gold
+1006,Male,42,Medium,Organic Search,Cambridge,2024-12-13,Gold
+1007,Female,38,High,In-Store Walk-in,London,2024-03-12,Platinum
+1008,Female,18,High,In-Store Walk-in,Oxford,2022-08-27,Gold
+1009,Female,39,Medium,Organic Search,Glasgow,2022-04-22,Silver
+1010,Male,64,Medium,Referral,Nottingham,2023-04-21,Silver
+1011,Female,33,High,Social Media,Cheshire,2022-10-31,Platinum
+1012,Female,29,Medium,Social Media,Oxford,2022-10-17,Silver
+1013,Male,42,Medium,In-Store Walk-in,Manchester,2022-07-27,Gold
+1014,Male,41,High,Referral,Nottingham,2024-05-17,Gold
+1015,Female,52,Low,Referral,Bath,2023-08-05,Silver
+1016,Male,22,Low,Referral,Bicester,2023-01-05,Silver
+1017,Female,46,Low,Social Media,Birmingham,2022-08-08,Gold
+1018,Female,45,Medium,Referral,Glasgow,2024-03-12,Silver
+1019,Male,36,Low,Organic Search,Leeds,2024-03-29,Gold
+1020,Female,42,Ultra-High,Email,Nottingham,2022-12-15,Platinum
+1021,Male,50,Medium,Referral,Cambridge,2022-09-12,Silver
+1022,Female,48,Medium,Email,Ashford,2023-03-28,Silver
+1023,Male,24,Medium,Social Media,Bath,2022-05-22,Silver
+1024,Female,47,Ultra-High,Referral,Bristol,2024-12-28,Platinum
+1025,Male,37,High,In-Store Walk-in,Leeds,2022-03-30,Gold
+1026,Male,38,Medium,Social Media,Leeds,2024-05-20,Silver
+1027,Female,38,Ultra-High,Organic Search,York,2023-06-07,Gold
+1028,Male,36,Medium,Organic Search,Oxford,2023-10-22,Silver
+1029,Female,52,Medium,Email,Ashford,2024-08-08,Silver
+1030,Male,36,Medium,Email,Nottingham,2024-06-28,Silver
+1031,Female,24,Medium,In-Store Walk-in,Leeds,2023-03-18,Silver
+1032,Male,33,Medium,In-Store Walk-in,Birmingham,2022-02-07,Silver
+1033,Female,40,High,Organic Search,York,2022-07-29,Gold
+1034,Male,52,Medium,Referral,Glasgow,2023-05-28,Silver
+1035,Male,45,High,Organic Search,London,2024-10-21,Gold
+1036,Male,27,Low,Organic Search,Glasgow,2024-09-07,Silver
+1037,Male,67,Medium,In-Store Walk-in,Glasgow,2023-01-16,Silver
+1038,Female,41,Medium,Email,Sheffield,2024-04-07,Silver
+1039,Male,53,Ultra-High,In-Store Walk-in,Manchester,2024-05-08,Gold
+1040,Female,36,Medium,In-Store Walk-in,Bicester,2023-01-29,Silver
+1041,Male,44,High,In-Store Walk-in,Manchester,2024-12-09,Gold
+1042,Male,48,Medium,Organic Search,Ashford,2023-01-31,Silver
+1043,Female,52,Medium,Referral,Cambridge,2022-02-01,Silver
+1044,Female,50,Low,Organic Search,Ashford,2023-06-29,Silver
+1045,Male,48,Medium,Social Media,Newcastle,2023-12-13,Silver
+1046,Male,34,Medium,In-Store Walk-in,Nottingham,2024-11-15,Gold
+1047,Male,31,Medium,In-Store Walk-in,London,2024-12-20,Silver
+1048,Female,41,High,Social Media,Bristol,2023-07-07,Gold
+1049,Female,49,Low,In-Store Walk-in,Liverpool,2022-07-17,Silver
+1050,Male,35,High,In-Store Walk-in,Edinburgh,2024-03-09,Gold
+1051,Female,50,Medium,In-Store Walk-in,London,2023-11-25,Silver
+1052,Female,55,High,Social Media,Cambridge,2022-05-27,Platinum
+1053,Female,27,High,Organic Search,York,2023-05-13,Gold
+1054,Female,27,Medium,In-Store Walk-in,Oxford,2022-02-17,Silver
+1055,Male,36,Medium,Referral,Leeds,2024-02-09,Silver
+1056,Male,41,High,Social Media,Bath,2023-10-13,Gold
+1057,Male,31,Ultra-High,Email,London,2023-09-05,Gold
+1058,Male,54,Medium,Social Media,Edinburgh,2023-11-30,Silver
+1059,Female,43,Low,Organic Search,Nottingham,2023-01-11,Silver
+1060,Female,38,Ultra-High,Social Media,Birmingham,2024-03-16,Gold
+1061,Male,20,Medium,Email,London,2024-07-09,Silver
+1062,Male,22,High,Referral,Manchester,2024-05-24,Gold
+1063,Male,41,Medium,Email,Cambridge,2024-03-20,Silver
+1064,Female,18,Medium,Social Media,Glasgow,2024-06-23,Gold
+1065,Male,50,High,Email,Liverpool,2024-10-02,Gold
+1066,Female,36,High,Social Media,Sheffield,2022-02-02,Gold
+1067,Male,76,Medium,Referral,Nottingham,2022-03-10,Silver
+1068,Male,65,Medium,Referral,Birmingham,2023-08-15,Silver
+1069,Other,35,High,Organic Search,Cambridge,2022-04-11,Gold
+1070,Female,36,High,Referral,Manchester,2024-07-02,Gold
+1071,Male,49,Low,In-Store Walk-in,Liverpool,2024-01-03,Silver
+1072,Female,58,High,Email,London,2023-01-25,Platinum
+1073,Female,18,High,Email,Bristol,2022-06-09,Gold
+1074,Female,18,High,Social Media,Cambridge,2024-06-10,Gold
+1075,Male,30,High,Referral,Sheffield,2024-12-06,Gold
+1076,Female,44,Medium,Organic Search,Sheffield,2023-11-27,Silver
+1077,Female,43,High,Organic Search,Cheshire,2024-01-28,Platinum
+1078,Female,50,High,Organic Search,Leeds,2023-06-07,Platinum
+1079,Male,23,Low,In-Store Walk-in,Cambridge,2024-01-02,Gold
+1080,Male,18,Medium,Referral,Bicester,2022-06-04,Silver
+1081,Male,48,Medium,Organic Search,Nottingham,2022-12-05,Silver
+1082,Female,28,High,In-Store Walk-in,Cheshire,2024-03-05,Gold
+1083,Male,18,Medium,Email,Leeds,2024-06-17,Silver
+1084,Female,39,High,Social Media,Cheshire,2022-04-13,Gold
+1085,Female,47,Ultra-High,Referral,Edinburgh,2024-03-22,Gold
+1086,Male,36,High,Referral,Newcastle,2022-04-03,Platinum
+1087,Female,32,Ultra-High,Email,Bristol,2024-09-01,Gold
+1088,Male,36,Ultra-High,Referral,Birmingham,2022-04-29,Platinum
+1089,Female,33,Low,Referral,Nottingham,2022-01-29,Gold
+1090,Male,21,High,Referral,Glasgow,2024-10-09,Platinum
+1091,Female,29,Medium,Referral,Ashford,2024-11-19,Silver
+1092,Female,44,Ultra-High,In-Store Walk-in,Manchester,2024-05-21,Gold
+1093,Female,41,Medium,In-Store Walk-in,London,2024-03-10,Silver
+1094,Female,40,Ultra-High,Social Media,Cheshire,2023-04-20,Platinum
+1095,Female,26,High,Referral,Glasgow,2023-07-17,Gold
+1096,Female,35,High,Email,Edinburgh,2023-03-11,Gold
+1097,Female,18,Low,Organic Search,London,2024-03-14,Silver
+1098,Female,40,Medium,Social Media,Cambridge,2022-02-24,Silver
+1099,Male,55,High,Organic Search,London,2024-07-19,Platinum
+1100,Female,20,Low,Organic Search,London,2024-01-22,Silver
+1101,Female,30,High,Referral,Leeds,2022-11-08,Gold
+1102,Female,41,Low,Email,Bristol,2024-08-14,Silver
+1103,Male,53,High,Organic Search,Birmingham,2022-11-14,Gold
+1104,Female,32,Medium,Organic Search,Nottingham,2024-01-27,Gold
+1105,Male,29,High,Social Media,Edinburgh,2023-04-10,Platinum
+1106,Female,18,High,Email,Sheffield,2023-12-01,Platinum
+1107,Male,39,Medium,Email,Oxford,2024-12-16,Silver
+1108,Female,62,Medium,Organic Search,London,2024-01-05,Silver
+1109,Other,41,Low,Email,Glasgow,2024-12-29,Silver
+1110,Male,37,High,Social Media,Sheffield,2024-01-09,Gold
+1111,Female,41,High,Social Media,Cheshire,2024-02-07,Gold
+1112,Male,37,High,Social Media,Edinburgh,2024-01-14,Gold
+1113,Female,28,High,Referral,Liverpool,2022-10-03,Gold
+1114,Female,47,Medium,Organic Search,Sheffield,2022-08-21,Gold
+1115,Female,40,Medium,Email,Bath,2022-02-23,Silver
+1116,Female,38,Low,Social Media,Birmingham,2022-09-14,Gold
+1117,Female,26,Medium,Organic Search,Liverpool,2022-03-31,Silver
+1118,Male,53,Ultra-High,Organic Search,Bath,2023-02-12,Gold
+1119,Male,45,Ultra-High,Referral,Oxford,2023-01-01,Gold
+1120,Female,31,Medium,Email,Cheshire,2022-12-17,Gold
+1121,Female,50,High,Email,Leeds,2023-05-02,Platinum
+1122,Female,32,High,Social Media,Edinburgh,2024-04-21,Gold
+1123,Female,28,Medium,Social Media,Sheffield,2024-09-10,Silver
+1124,Male,28,Low,Organic Search,Edinburgh,2023-09-13,Silver
+1125,Female,18,Low,Email,Sheffield,2024-07-18,Silver
+1126,Male,43,High,Email,Sheffield,2023-02-05,Platinum
+1127,Female,18,Ultra-High,Social Media,Bristol,2023-07-24,Gold
+1128,Male,23,High,In-Store Walk-in,Oxford,2024-09-01,Platinum
+1129,Male,18,Low,Organic Search,Edinburgh,2023-01-27,Silver
+1130,Male,36,Medium,Email,Bath,2022-12-18,Gold
+1131,Male,36,High,Referral,Leeds,2024-03-16,Platinum
+1132,Female,34,High,Referral,Bicester,2023-07-30,Platinum
+1133,Male,25,High,In-Store Walk-in,Newcastle,2024-02-16,Platinum
+1134,Male,23,High,Social Media,Nottingham,2023-09-25,Gold
+1135,Male,43,Low,Social Media,York,2023-06-07,Silver
+1136,Male,31,High,Social Media,Ashford,2023-12-27,Gold
+1137,Male,41,High,Referral,Leeds,2022-06-11,Platinum
+1138,Male,27,Medium,Social Media,Nottingham,2023-10-21,Silver
+1139,Female,40,High,Referral,Birmingham,2024-04-29,Gold
+1140,Female,53,Medium,In-Store Walk-in,Nottingham,2022-03-23,Silver
+1141,Female,45,Low,Organic Search,Liverpool,2023-06-08,Silver
+1142,Male,33,Medium,Email,London,2022-01-04,Silver
+1143,Male,41,Medium,In-Store Walk-in,Sheffield,2023-05-10,Silver
+1144,Female,35,Medium,Referral,London,2024-12-10,Gold
+1145,Female,38,Medium,In-Store Walk-in,York,2023-07-22,Silver
+1146,Male,34,High,Email,Bicester,2024-05-27,Gold
+1147,Male,36,Medium,Organic Search,Liverpool,2024-12-27,Silver
+1148,Male,40,Medium,Email,London,2024-10-08,Silver
+1149,Male,26,Low,Referral,Sheffield,2024-10-11,Gold
+1150,Male,25,High,Email,Cambridge,2024-05-13,Gold
+1151,Female,21,Medium,In-Store Walk-in,Manchester,2024-02-18,Silver
+1152,Female,18,Medium,Social Media,London,2024-10-01,Silver
+1153,Female,23,Ultra-High,In-Store Walk-in,Bicester,2022-11-10,Gold
+1154,Female,39,High,Referral,Newcastle,2023-12-31,Gold
+1155,Female,27,Ultra-High,Organic Search,Nottingham,2023-01-19,Platinum
+1156,Female,44,Medium,Email,London,2022-10-04,Silver
+1157,Female,38,Medium,Organic Search,Ashford,2023-11-29,Gold
+1158,Male,18,High,Referral,Cheshire,2024-10-26,Platinum
+1159,Male,45,Medium,Email,Bicester,2024-01-21,Silver
+1160,Male,47,Medium,In-Store Walk-in,Oxford,2024-09-09,Silver
+1161,Female,26,Low,In-Store Walk-in,Sheffield,2023-09-16,Silver
+1162,Female,43,High,Referral,Bath,2022-08-16,Gold
+1163,Male,27,Medium,Email,Cambridge,2022-01-17,Silver
+1164,Female,39,Ultra-High,In-Store Walk-in,Bristol,2022-01-12,Gold
+1165,Male,22,Ultra-High,Referral,York,2023-11-23,Gold
+1166,Female,18,Medium,Referral,Leeds,2022-03-11,Silver
+1167,Male,33,High,Organic Search,Newcastle,2022-04-18,Gold
+1168,Male,36,High,In-Store Walk-in,Nottingham,2022-07-20,Gold
+1169,Female,33,High,Email,Leeds,2024-12-11,Platinum
+1170,Male,23,Medium,In-Store Walk-in,Birmingham,2023-09-21,Silver
+1171,Male,33,High,In-Store Walk-in,York,2024-06-24,Platinum
+1172,Male,41,Medium,In-Store Walk-in,Bristol,2022-10-30,Silver
+1173,Female,37,Ultra-High,Referral,Liverpool,2024-07-25,Gold
+1174,Female,40,Medium,Social Media,Sheffield,2023-07-30,Gold
+1175,Male,29,Medium,Social Media,Sheffield,2023-07-09,Gold
+1176,Female,52,High,Organic Search,York,2022-05-05,Platinum
+1177,Female,23,High,In-Store Walk-in,Liverpool,2024-05-08,Gold
+1178,Male,43,High,Social Media,Bristol,2024-01-15,Gold
+1179,Male,52,Medium,Organic Search,Glasgow,2023-04-25,Silver
+1180,Male,43,Medium,Referral,Manchester,2022-05-12,Gold
+1181,Male,35,Ultra-High,In-Store Walk-in,London,2024-10-22,Gold
+1182,Female,31,High,Email,Birmingham,2022-04-25,Platinum
+1183,Male,50,High,Referral,Liverpool,2023-04-26,Gold
+1184,Female,20,Low,Organic Search,Ashford,2024-09-07,Silver
+1185,Female,26,Medium,Referral,Cambridge,2024-10-21,Silver
+1186,Male,33,High,Email,London,2022-11-27,Gold
+1187,Female,52,High,Referral,Nottingham,2024-07-30,Platinum
+1188,Male,42,Low,Organic Search,Cambridge,2024-08-12,Silver
+1189,Female,26,Ultra-High,Email,Nottingham,2024-02-07,Gold
+1190,Female,34,High,Email,London,2023-01-26,Platinum
+1191,Female,30,Medium,Referral,London,2024-04-13,Gold
+1192,Female,29,Medium,Email,London,2022-05-23,Silver
+1193,Male,49,Medium,Referral,Cheshire,2022-11-24,Silver
+1194,Female,21,High,In-Store Walk-in,Cheshire,2023-09-20,Platinum
+1195,Female,57,Low,Email,Liverpool,2023-01-12,Silver
+1196,Female,47,Medium,Referral,York,2022-03-31,Gold
+1197,Female,51,High,In-Store Walk-in,Birmingham,2024-03-18,Platinum
+1198,Female,32,Medium,Email,Bristol,2024-10-17,Silver
+1199,Male,36,Medium,In-Store Walk-in,Manchester,2024-12-01,Gold
+1200,Male,20,Medium,Email,Bristol,2024-11-24,Gold
+1201,Female,31,High,Organic Search,London,2024-10-08,Platinum
+1202,Male,43,High,Organic Search,Cheshire,2023-07-07,Gold
+1203,Female,53,Medium,Referral,Birmingham,2022-05-04,Gold
+1204,Female,24,High,Social Media,York,2022-02-26,Gold
+1205,Male,33,High,Organic Search,Manchester,2024-03-16,Platinum
+1206,Male,36,Medium,Social Media,Edinburgh,2022-08-23,Silver
+1207,Female,21,Medium,In-Store Walk-in,Bath,2023-08-31,Silver
+1208,Male,45,Medium,In-Store Walk-in,Sheffield,2023-01-27,Silver
+1209,Female,29,Medium,Social Media,Birmingham,2024-08-27,Silver
+1210,Male,35,High,Referral,London,2022-02-21,Platinum
+1211,Female,32,High,Email,Glasgow,2023-05-04,Gold
+1212,Male,28,Medium,Social Media,Glasgow,2022-01-05,Silver
+1213,Female,37,Medium,Social Media,Birmingham,2023-09-24,Silver
+1214,Male,35,Medium,Social Media,Newcastle,2022-08-05,Silver
+1215,Female,33,High,Social Media,Sheffield,2023-06-20,Platinum
+1216,Male,29,Medium,Social Media,London,2024-01-08,Gold
+1217,Female,41,High,Referral,Ashford,2023-12-31,Gold
+1218,Female,57,Medium,Organic Search,Oxford,2024-11-15,Silver
+1219,Male,39,High,Email,Manchester,2022-01-03,Gold
+1220,Male,49,Ultra-High,Organic Search,London,2024-10-22,Gold
+1221,Male,21,Medium,Social Media,Manchester,2024-10-22,Silver
+1222,Female,39,Medium,Organic Search,Cheshire,2022-05-30,Silver
+1223,Female,24,Ultra-High,Referral,Liverpool,2022-01-04,Gold
+1224,Female,20,Medium,In-Store Walk-in,Oxford,2023-04-13,Silver
+1225,Male,29,High,Organic Search,Sheffield,2022-03-11,Platinum
+1226,Male,52,Low,Email,Nottingham,2022-07-20,Silver
+1227,Female,49,High,Referral,Bristol,2022-11-04,Gold
+1228,Female,40,Low,In-Store Walk-in,Bristol,2024-07-10,Silver
+1229,Other,19,Ultra-High,Referral,London,2022-10-19,Platinum
+1230,Male,35,High,Social Media,Glasgow,2024-07-12,Gold
+1231,Female,41,High,In-Store Walk-in,Newcastle,2024-06-01,Platinum
+1232,Male,40,High,Email,Leeds,2023-08-09,Gold
+1233,Male,18,High,In-Store Walk-in,Cheshire,2023-05-24,Gold
+1234,Female,27,Medium,Email,Newcastle,2022-01-05,Silver
+1235,Female,37,Ultra-High,Social Media,Bath,2022-10-20,Gold
+1236,Other,44,Ultra-High,Email,Edinburgh,2022-12-26,Gold
+1237,Male,18,Medium,Referral,Leeds,2022-08-02,Silver
+1238,Male,36,Ultra-High,Organic Search,Leeds,2024-11-04,Gold
+1239,Female,39,High,Referral,Glasgow,2023-07-17,Platinum
+1240,Female,48,High,Referral,Glasgow,2024-02-04,Gold
+1241,Male,46,Medium,In-Store Walk-in,Liverpool,2022-02-14,Silver
+1242,Male,44,Medium,Social Media,Bristol,2023-12-04,Silver
+1243,Male,28,Low,Organic Search,Ashford,2023-09-26,Silver
+1244,Female,18,Medium,Email,Glasgow,2023-10-23,Gold
+1245,Male,33,High,In-Store Walk-in,Cheshire,2023-12-22,Gold
+1246,Male,50,Medium,Social Media,Manchester,2023-08-17,Silver
+1247,Male,54,Medium,Organic Search,Liverpool,2022-09-03,Silver
+1248,Male,46,Ultra-High,Referral,Ashford,2024-05-06,Gold
+1249,Male,43,Medium,Social Media,Edinburgh,2023-07-06,Silver
+1250,Female,42,Medium,Social Media,Liverpool,2022-02-12,Silver
+1251,Male,31,Medium,Social Media,Bath,2024-04-20,Silver
+1252,Female,36,Low,Referral,York,2022-06-28,Gold
+1253,Male,58,High,Email,Bicester,2023-06-19,Platinum
+1254,Female,26,High,In-Store Walk-in,York,2023-08-30,Gold
+1255,Female,57,High,Email,Oxford,2023-11-03,Platinum
+1256,Female,34,Medium,Organic Search,Ashford,2024-07-15,Silver
+1257,Female,53,High,In-Store Walk-in,Birmingham,2022-01-17,Gold
+1258,Male,21,Medium,Organic Search,Liverpool,2024-04-05,Silver
+1259,Male,45,Medium,Referral,Ashford,2023-07-01,Silver
+1260,Female,29,Low,Email,York,2024-11-19,Silver
+1261,Other,21,Medium,Social Media,London,2023-03-13,Silver
+1262,Female,40,Medium,In-Store Walk-in,London,2022-06-28,Gold
+1263,Female,50,Medium,Social Media,Bristol,2023-09-08,Silver
+1264,Female,27,Ultra-High,Organic Search,Liverpool,2023-11-08,Gold
+1265,Male,20,Medium,Social Media,Sheffield,2023-09-26,Gold
+1266,Male,36,Medium,Social Media,London,2024-03-12,Silver
+1267,Female,36,Medium,Referral,Newcastle,2022-11-08,Gold
+1268,Female,44,High,Referral,Cambridge,2022-01-25,Gold
+1269,Male,49,Low,Email,Liverpool,2023-01-06,Gold
+1270,Female,37,Ultra-High,Organic Search,Bicester,2023-06-09,Platinum
+1271,Male,60,Ultra-High,Referral,Bath,2022-08-18,Gold
+1272,Female,40,Medium,Referral,Newcastle,2023-01-13,Silver
+1273,Male,33,Medium,Email,Oxford,2024-06-06,Silver
+1274,Male,18,Low,In-Store Walk-in,Liverpool,2023-04-07,Silver
+1275,Female,34,High,Email,Cheshire,2022-12-31,Gold
+1276,Male,33,Medium,Social Media,Edinburgh,2022-04-14,Silver
+1277,Female,49,Medium,Social Media,Liverpool,2023-03-04,Silver
+1278,Female,43,Medium,Referral,York,2023-04-14,Silver
+1279,Female,23,High,Referral,Leeds,2024-10-11,Gold
+1280,Male,40,Medium,Email,Newcastle,2024-05-19,Silver
+1281,Male,46,Medium,Email,Oxford,2024-02-09,Silver
+1282,Male,56,High,Organic Search,Edinburgh,2023-11-11,Platinum
+1283,Other,48,High,Social Media,Cambridge,2024-03-15,Gold
+1284,Female,47,Ultra-High,Email,Bath,2024-06-04,Gold
+1285,Female,38,Medium,In-Store Walk-in,Bath,2023-07-15,Silver
+1286,Female,42,High,Organic Search,Bath,2022-11-27,Gold
+1287,Female,52,High,Email,Bristol,2023-08-10,Platinum
+1288,Female,22,Medium,Referral,London,2022-07-20,Silver
+1289,Male,33,High,Email,Cheshire,2023-03-30,Platinum
+1290,Female,28,Medium,Referral,Bicester,2024-04-05,Silver
+1291,Male,42,Ultra-High,Referral,Glasgow,2022-04-21,Gold
+1292,Female,52,Medium,Social Media,Cambridge,2024-05-13,Gold
+1293,Female,30,High,Social Media,Leeds,2024-06-26,Gold
+1294,Female,18,Medium,Email,Leeds,2022-02-02,Silver
+1295,Male,33,Ultra-High,Email,Cheshire,2023-07-09,Gold
+1296,Male,48,Medium,In-Store Walk-in,Manchester,2022-04-17,Silver
+1297,Male,44,Ultra-High,Organic Search,Cambridge,2022-08-14,Gold
+1298,Male,43,Ultra-High,Organic Search,Newcastle,2023-05-02,Platinum
+1299,Male,34,Medium,Email,Nottingham,2022-06-28,Silver
+1300,Female,22,High,Social Media,Bristol,2023-09-29,Gold
+1301,Female,44,Ultra-High,In-Store Walk-in,Cambridge,2024-02-27,Gold
+1302,Male,27,Medium,Organic Search,Oxford,2022-06-16,Silver
+1303,Male,64,Medium,Email,Cambridge,2023-10-25,Silver
+1304,Male,44,High,Social Media,Cheshire,2022-10-27,Gold
+1305,Female,31,Medium,Social Media,Sheffield,2022-02-04,Silver
+1306,Female,30,Low,Social Media,London,2023-02-11,Silver
+1307,Female,36,Medium,Referral,York,2022-11-10,Silver
+1308,Female,35,Medium,Social Media,Newcastle,2024-03-26,Silver
+1309,Other,51,Medium,Email,London,2024-01-13,Gold
+1310,Female,40,Medium,In-Store Walk-in,Sheffield,2023-12-28,Silver
+1311,Male,29,Ultra-High,Email,Leeds,2024-04-05,Gold
+1312,Female,60,High,Social Media,Nottingham,2023-07-23,Platinum
+1313,Male,38,Low,In-Store Walk-in,Oxford,2023-07-30,Silver
+1314,Female,47,High,Organic Search,Bicester,2022-03-03,Platinum
+1315,Male,30,High,Organic Search,Nottingham,2023-01-04,Platinum
+1316,Female,42,Ultra-High,Email,Liverpool,2022-04-04,Platinum
+1317,Female,41,Low,In-Store Walk-in,Ashford,2024-09-10,Silver
+1318,Female,18,Medium,Email,Glasgow,2024-11-15,Silver
+1319,Female,62,Ultra-High,In-Store Walk-in,Ashford,2022-02-19,Platinum
+1320,Male,53,Ultra-High,In-Store Walk-in,London,2024-06-01,Platinum
+1321,Male,33,High,Email,Newcastle,2024-02-03,Gold
+1322,Male,24,High,In-Store Walk-in,Ashford,2022-02-05,Platinum
+1323,Male,42,Low,Social Media,Cambridge,2022-04-10,Silver
+1324,Female,39,High,In-Store Walk-in,Cambridge,2022-11-25,Platinum
+1325,Male,42,Medium,In-Store Walk-in,Bath,2023-12-07,Silver
+1326,Female,40,Medium,Email,London,2022-08-09,Silver
+1327,Female,44,High,Organic Search,Birmingham,2023-07-21,Gold
+1328,Female,55,Medium,Referral,Newcastle,2024-09-22,Silver
+1329,Male,44,Medium,In-Store Walk-in,Bicester,2024-10-18,Gold
+1330,Female,25,Ultra-High,Referral,Bicester,2022-04-20,Gold
+1331,Female,54,Medium,In-Store Walk-in,Ashford,2022-05-29,Silver
+1332,Female,57,Ultra-High,Email,Ashford,2023-02-10,Platinum
+1333,Female,75,Ultra-High,Email,York,2023-11-30,Gold
+1334,Female,24,High,In-Store Walk-in,Bicester,2024-10-13,Gold
+1335,Male,40,Medium,Email,London,2022-04-18,Silver
+1336,Female,18,Medium,Email,York,2023-01-24,Silver
+1337,Male,44,Medium,In-Store Walk-in,York,2023-03-01,Gold
+1338,Male,31,Medium,Organic Search,Birmingham,2023-03-23,Silver
+1339,Male,61,Medium,In-Store Walk-in,Glasgow,2024-07-06,Silver
+1340,Male,28,Ultra-High,Organic Search,London,2024-12-27,Platinum
+1341,Male,18,Medium,Email,Ashford,2024-12-25,Silver
+1342,Male,32,High,Organic Search,Cheshire,2023-10-18,Gold
+1343,Female,18,Low,Email,Ashford,2022-11-17,Silver
+1344,Female,47,High,Organic Search,Glasgow,2023-12-20,Gold
+1345,Female,18,Ultra-High,Organic Search,Liverpool,2023-12-29,Gold
+1346,Male,38,Medium,In-Store Walk-in,Cambridge,2023-08-03,Gold
+1347,Male,18,Medium,Organic Search,Ashford,2023-03-23,Silver
+1348,Female,34,High,Email,Oxford,2022-07-29,Gold
+1349,Male,57,High,In-Store Walk-in,Cheshire,2024-04-28,Gold
+1350,Male,42,High,Organic Search,London,2023-01-05,Gold
+1351,Female,27,Medium,In-Store Walk-in,Birmingham,2023-07-31,Silver
+1352,Male,37,Medium,Referral,Glasgow,2023-11-20,Gold
+1353,Female,38,Ultra-High,In-Store Walk-in,Nottingham,2024-02-29,Gold
+1354,Female,43,Ultra-High,Referral,Nottingham,2024-09-18,Gold
+1355,Male,21,Medium,Referral,Newcastle,2022-06-12,Gold
+1356,Male,45,High,In-Store Walk-in,Liverpool,2024-09-03,Gold
+1357,Female,18,Medium,Email,Oxford,2022-12-16,Silver
+1358,Male,30,Medium,Email,Edinburgh,2023-11-01,Silver
+1359,Male,32,Medium,Email,Edinburgh,2023-03-02,Silver
+1360,Other,45,Medium,Social Media,Cambridge,2022-11-23,Silver
+1361,Male,38,High,Referral,Bicester,2022-09-12,Gold
+1362,Female,21,Low,In-Store Walk-in,Liverpool,2022-12-24,Silver
+1363,Other,26,Medium,Email,Cambridge,2023-03-20,Gold
+1364,Male,40,High,Email,Cambridge,2022-04-23,Gold
+1365,Male,37,High,In-Store Walk-in,Cambridge,2024-11-19,Platinum
+1366,Male,31,High,Referral,Cambridge,2023-06-08,Gold
+1367,Male,32,Ultra-High,In-Store Walk-in,Sheffield,2023-11-20,Gold
+1368,Male,46,Low,Social Media,Manchester,2024-09-17,Gold
+1369,Female,31,High,Social Media,Newcastle,2022-02-15,Gold
+1370,Male,36,High,In-Store Walk-in,Cambridge,2024-01-27,Gold
+1371,Female,64,High,Referral,Bath,2024-11-24,Platinum
+1372,Other,20,Medium,Email,Oxford,2023-07-18,Silver
+1373,Female,18,Medium,Social Media,Edinburgh,2022-06-10,Gold
+1374,Female,47,Ultra-High,Social Media,York,2024-04-19,Gold
+1375,Male,29,Medium,Referral,Ashford,2023-06-22,Silver
+1376,Female,34,Ultra-High,Social Media,Ashford,2022-08-13,Gold
+1377,Female,28,High,Social Media,London,2022-04-05,Gold
+1378,Male,34,High,Referral,York,2024-08-06,Gold
+1379,Male,57,High,In-Store Walk-in,London,2023-07-07,Platinum
+1380,Female,47,High,Email,Bicester,2023-10-07,Gold
+1381,Male,48,Medium,Email,Oxford,2022-03-07,Silver
+1382,Male,21,High,Social Media,London,2023-10-27,Platinum
+1383,Male,24,High,Email,Leeds,2023-11-15,Gold
+1384,Male,18,Medium,In-Store Walk-in,Leeds,2024-06-28,Gold
+1385,Female,28,Medium,Social Media,Bath,2024-04-16,Silver
+1386,Female,49,Low,Email,Birmingham,2023-07-25,Silver
+1387,Female,44,Ultra-High,Organic Search,Bristol,2023-11-27,Gold
+1388,Male,35,Low,Organic Search,Oxford,2022-06-29,Silver
+1389,Male,37,High,Organic Search,York,2024-04-13,Gold
+1390,Female,29,Medium,Organic Search,Nottingham,2024-12-27,Silver
+1391,Male,40,Medium,Organic Search,London,2022-07-21,Gold
+1392,Male,47,High,Social Media,Liverpool,2024-11-04,Platinum
+1393,Female,18,Low,Referral,London,2024-12-01,Silver
+1394,Male,41,High,Referral,Sheffield,2023-06-27,Gold
+1395,Female,49,High,Social Media,Birmingham,2024-09-08,Gold
+1396,Male,33,High,Social Media,London,2024-02-13,Platinum
+1397,Male,46,Medium,In-Store Walk-in,York,2023-11-25,Gold
+1398,Male,71,Ultra-High,Referral,Nottingham,2023-09-04,Platinum
+1399,Female,36,High,Organic Search,Bath,2022-09-01,Gold
+1400,Female,42,Ultra-High,Social Media,Nottingham,2022-03-01,Gold
+1401,Female,29,Medium,Organic Search,London,2022-04-14,Silver
+1402,Female,40,High,Referral,Sheffield,2023-10-13,Gold
+1403,Male,43,Ultra-High,Email,Liverpool,2024-10-07,Gold
+1404,Female,40,Ultra-High,Email,Leeds,2022-03-18,Platinum
+1405,Male,25,Medium,Social Media,Ashford,2024-11-07,Silver
+1406,Female,40,Medium,In-Store Walk-in,London,2023-11-29,Silver
+1407,Male,55,Medium,Organic Search,Cheshire,2024-08-03,Silver
+1408,Female,43,Medium,Social Media,London,2022-09-24,Silver
+1409,Male,49,Medium,In-Store Walk-in,Newcastle,2024-02-20,Silver
+1410,Male,35,Medium,Organic Search,Bath,2023-09-01,Silver
+1411,Female,46,Ultra-High,Referral,Birmingham,2024-08-03,Platinum
+1412,Male,41,Low,Email,Bicester,2024-10-21,Silver
+1413,Male,26,High,In-Store Walk-in,Glasgow,2024-11-16,Gold
+1414,Male,41,Medium,Organic Search,Glasgow,2023-07-02,Silver
+1415,Male,26,Medium,Social Media,Bicester,2022-06-09,Silver
+1416,Female,30,Low,Organic Search,Bristol,2024-07-25,Silver
+1417,Female,40,Medium,Social Media,Leeds,2023-02-03,Gold
+1418,Female,41,High,Email,Oxford,2023-06-27,Gold
+1419,Female,23,Ultra-High,Email,Oxford,2022-05-07,Gold
+1420,Male,50,Medium,Organic Search,Newcastle,2024-10-05,Silver
+1421,Female,44,Medium,Organic Search,Edinburgh,2024-08-05,Silver
+1422,Male,29,Medium,Social Media,Nottingham,2022-07-29,Silver
+1423,Male,19,Ultra-High,Social Media,Bath,2022-05-30,Gold
+1424,Female,36,High,In-Store Walk-in,Manchester,2022-01-31,Gold
+1425,Male,32,High,In-Store Walk-in,Bristol,2023-09-04,Gold
+1426,Female,39,High,In-Store Walk-in,London,2022-10-29,Gold
+1427,Male,33,High,Organic Search,York,2024-08-20,Gold
+1428,Female,18,Low,In-Store Walk-in,Nottingham,2024-05-14,Silver
+1429,Female,33,Medium,Organic Search,Oxford,2024-02-04,Silver
+1430,Female,34,Ultra-High,Email,Newcastle,2023-11-14,Gold
+1431,Female,45,High,Referral,Glasgow,2022-09-14,Gold
+1432,Female,29,High,Email,Sheffield,2024-07-28,Gold
+1433,Male,58,High,Organic Search,Newcastle,2024-12-16,Gold
+1434,Female,18,Medium,Organic Search,London,2022-01-09,Gold
+1435,Male,53,High,Referral,Manchester,2024-10-25,Platinum
+1436,Female,35,High,Social Media,Manchester,2024-04-26,Platinum
+1437,Female,48,Medium,Social Media,Birmingham,2024-02-16,Gold
+1438,Female,38,High,Social Media,Bath,2023-11-16,Platinum
+1439,Male,51,Ultra-High,In-Store Walk-in,Nottingham,2024-01-02,Gold
+1440,Male,33,Medium,Social Media,Nottingham,2022-01-24,Silver
+1441,Female,24,Medium,In-Store Walk-in,Cambridge,2023-05-08,Silver
+1442,Male,55,Medium,In-Store Walk-in,Liverpool,2024-08-27,Silver
+1443,Male,36,High,Social Media,Leeds,2022-04-13,Gold
+1444,Male,40,Medium,Social Media,London,2024-12-19,Silver
+1445,Female,52,High,Referral,Newcastle,2024-02-06,Gold
+1446,Female,25,Ultra-High,Referral,Bicester,2024-10-19,Gold
+1447,Male,45,Medium,In-Store Walk-in,London,2023-01-07,Silver
+1448,Male,30,Ultra-High,Referral,Newcastle,2023-11-10,Gold
+1449,Male,36,Ultra-High,In-Store Walk-in,Bath,2023-08-19,Gold
+1450,Female,38,Medium,Organic Search,Bristol,2022-07-21,Silver
+1451,Female,19,Medium,In-Store Walk-in,London,2022-03-30,Silver
+1452,Male,28,Ultra-High,In-Store Walk-in,Liverpool,2023-03-13,Platinum
+1453,Male,54,Ultra-High,Referral,Ashford,2022-04-30,Platinum
+1454,Male,48,Low,Organic Search,Oxford,2022-06-05,Gold
+1455,Female,37,Low,Email,Nottingham,2023-02-03,Silver
+1456,Female,40,Medium,Email,Cambridge,2022-07-07,Silver
+1457,Male,34,Ultra-High,Email,Nottingham,2024-12-11,Gold
+1458,Male,54,Medium,Organic Search,London,2023-10-14,Silver
+1459,Male,35,High,Social Media,London,2023-08-10,Gold
+1460,Female,40,High,Organic Search,Manchester,2022-08-18,Gold
+1461,Male,51,Low,Referral,Bicester,2022-02-24,Silver
+1462,Female,28,High,In-Store Walk-in,Liverpool,2022-09-28,Platinum
+1463,Female,56,Medium,In-Store Walk-in,Ashford,2024-12-28,Silver
+1464,Male,19,Ultra-High,Referral,Bristol,2024-08-27,Platinum
+1465,Male,57,Medium,Referral,Cheshire,2022-11-26,Gold
+1466,Male,33,High,In-Store Walk-in,Cambridge,2022-04-26,Platinum
+1467,Female,35,High,Social Media,Liverpool,2022-11-19,Gold
+1468,Female,18,Medium,Social Media,York,2023-07-17,Gold
+1469,Female,32,Low,Social Media,Birmingham,2022-08-17,Gold
+1470,Female,25,Medium,Referral,Bath,2022-12-26,Silver
+1471,Male,30,Medium,In-Store Walk-in,Glasgow,2024-10-25,Silver
+1472,Female,36,High,In-Store Walk-in,Liverpool,2022-01-28,Gold
+1473,Female,49,High,In-Store Walk-in,Manchester,2024-05-18,Gold
+1474,Male,40,Medium,Organic Search,London,2022-01-28,Silver
+1475,Female,41,High,Organic Search,Liverpool,2024-01-14,Platinum
+1476,Female,24,High,Email,Sheffield,2023-08-03,Platinum
+1477,Female,27,High,Organic Search,Cheshire,2023-03-27,Platinum
+1478,Female,59,Medium,Social Media,Liverpool,2023-03-09,Gold
+1479,Female,29,Medium,Social Media,Edinburgh,2023-01-09,Silver
+1480,Female,57,Medium,Social Media,Bath,2023-03-11,Silver
+1481,Male,35,High,Social Media,Sheffield,2022-08-06,Gold
+1482,Male,38,Medium,Email,Oxford,2024-08-05,Silver
+1483,Female,50,Medium,Social Media,Nottingham,2022-12-15,Silver
+1484,Male,53,Low,Referral,Ashford,2024-02-27,Silver
+1485,Male,36,High,Referral,Edinburgh,2022-01-26,Gold
+1486,Male,33,Medium,Referral,Cheshire,2024-12-07,Gold
+1487,Male,37,Medium,Organic Search,Edinburgh,2024-05-08,Gold
+1488,Female,42,Medium,In-Store Walk-in,Liverpool,2023-01-05,Silver
+1489,Female,48,Medium,Email,Ashford,2024-11-03,Silver
+1490,Male,38,High,Referral,London,2024-06-02,Gold
+1491,Male,45,Medium,Referral,Cambridge,2022-10-06,Silver
+1492,Male,57,Medium,Social Media,Manchester,2022-12-07,Silver
+1493,Female,42,High,Referral,Edinburgh,2023-08-30,Platinum
+1494,Female,41,Medium,Social Media,London,2024-11-14,Silver
+1495,Male,19,Medium,Social Media,Cheshire,2023-06-13,Silver
+1496,Female,18,Ultra-High,In-Store Walk-in,Newcastle,2023-03-02,Gold
+1497,Female,42,Medium,Organic Search,Cambridge,2022-01-29,Gold
+1498,Female,36,Medium,Social Media,Newcastle,2024-08-13,Silver
+1499,Female,31,Low,Social Media,London,2022-11-19,Silver
+1500,Male,40,Medium,In-Store Walk-in,Bath,2022-11-09,Silver
+1501,Female,37,High,Social Media,Liverpool,2023-08-07,Platinum
+1502,Male,51,High,Email,Sheffield,2024-02-01,Platinum
+1503,Female,39,High,Organic Search,Manchester,2022-10-22,Platinum
+1504,Female,29,Medium,Email,Bristol,2023-10-18,Silver
+1505,Female,49,Medium,Referral,Manchester,2024-02-25,Silver
+1506,Female,35,High,Organic Search,Ashford,2022-08-11,Gold
+1507,Male,44,Ultra-High,Referral,Newcastle,2022-03-16,Gold
+1508,Female,32,Medium,Social Media,Nottingham,2022-04-12,Silver
+1509,Other,30,Medium,In-Store Walk-in,Leeds,2024-06-03,Silver
+1510,Female,39,Medium,Email,Sheffield,2022-06-22,Silver
+1511,Male,38,Low,Referral,Leeds,2024-10-24,Gold
+1512,Male,43,Medium,Social Media,Bicester,2023-01-30,Gold
+1513,Male,34,Medium,Email,Glasgow,2024-04-12,Silver
+1514,Female,18,High,Email,Liverpool,2024-09-30,Gold
+1515,Female,32,High,Referral,Liverpool,2022-06-16,Platinum
+1516,Male,47,Medium,Social Media,Sheffield,2022-10-27,Silver
+1517,Female,34,Low,In-Store Walk-in,Ashford,2022-04-28,Silver
+1518,Female,35,High,Referral,Leeds,2023-05-27,Gold
+1519,Female,49,Medium,Email,Bicester,2023-09-04,Silver
+1520,Female,29,High,Email,York,2022-06-08,Gold
+1521,Female,19,Medium,Organic Search,Bath,2024-11-27,Silver
+1522,Female,36,High,Social Media,Cheshire,2023-04-08,Gold
+1523,Male,32,Medium,Organic Search,London,2022-04-14,Silver
+1524,Female,26,Low,In-Store Walk-in,London,2024-09-08,Silver
+1525,Female,35,Medium,Referral,Glasgow,2022-09-07,Silver
+1526,Female,43,Medium,Email,Manchester,2024-11-02,Silver
+1527,Female,37,Medium,Social Media,London,2023-07-21,Silver
+1528,Female,41,High,Email,Edinburgh,2023-08-20,Gold
+1529,Male,59,Medium,Organic Search,Sheffield,2023-09-13,Silver
+1530,Male,33,Low,Organic Search,York,2023-07-09,Silver
+1531,Male,41,High,Referral,Bicester,2022-03-12,Platinum
+1532,Male,31,High,Social Media,Bath,2024-08-13,Platinum
+1533,Female,27,Ultra-High,Social Media,Glasgow,2024-08-30,Gold
+1534,Other,30,High,Referral,Oxford,2023-03-14,Gold
+1535,Male,32,Medium,Organic Search,Bicester,2024-12-03,Silver
+1536,Male,42,High,Organic Search,Bristol,2024-11-03,Gold
+1537,Female,66,Ultra-High,Organic Search,Oxford,2022-11-10,Gold
+1538,Male,29,High,Email,Glasgow,2023-04-30,Gold
+1539,Female,33,Medium,In-Store Walk-in,Ashford,2022-06-18,Silver
+1540,Female,37,Medium,Organic Search,Oxford,2024-06-06,Silver
+1541,Female,42,Medium,In-Store Walk-in,London,2024-03-13,Silver
+1542,Male,41,High,In-Store Walk-in,Birmingham,2022-09-03,Platinum
+1543,Male,53,High,Social Media,York,2022-09-23,Gold
+1544,Female,18,High,Referral,Oxford,2024-04-28,Platinum
+1545,Female,18,Low,Email,London,2022-08-31,Silver
+1546,Male,32,High,In-Store Walk-in,York,2023-06-14,Gold
+1547,Female,51,High,Email,York,2024-04-26,Gold
+1548,Male,19,Medium,Social Media,Glasgow,2024-09-30,Silver
+1549,Female,18,High,Organic Search,Manchester,2022-12-08,Platinum
+1550,Male,44,Medium,In-Store Walk-in,Sheffield,2024-01-30,Gold
+1551,Female,40,Ultra-High,Referral,Bristol,2024-03-08,Platinum
+1552,Male,24,High,Social Media,Birmingham,2023-06-16,Gold
+1553,Male,26,High,Email,Glasgow,2024-05-13,Gold
+1554,Male,26,High,Organic Search,Bicester,2022-02-11,Gold
+1555,Male,39,Ultra-High,Email,Bath,2023-08-22,Platinum
+1556,Female,30,Medium,Referral,Liverpool,2022-11-02,Gold
+1557,Other,43,Medium,In-Store Walk-in,Bristol,2024-03-19,Silver
+1558,Male,18,High,Referral,Newcastle,2024-05-11,Gold
+1559,Male,27,Medium,Email,Birmingham,2023-11-10,Gold
+1560,Female,24,Medium,Email,Cheshire,2024-01-01,Silver
+1561,Female,34,Ultra-High,Referral,Bath,2023-03-17,Platinum
+1562,Female,31,High,Referral,Cambridge,2024-07-21,Platinum
+1563,Male,47,Medium,Referral,Cambridge,2024-06-21,Silver
+1564,Male,18,Medium,Organic Search,Newcastle,2022-05-13,Silver
+1565,Female,38,Medium,Email,Liverpool,2023-12-20,Silver
+1566,Male,44,Medium,Social Media,Edinburgh,2022-02-20,Silver
+1567,Female,60,Medium,Organic Search,London,2023-09-10,Silver
+1568,Male,32,High,Organic Search,Liverpool,2023-01-27,Gold
+1569,Female,41,Medium,Organic Search,London,2023-11-27,Gold
+1570,Male,18,Medium,Social Media,Manchester,2023-06-07,Silver
+1571,Female,18,Medium,Referral,York,2023-05-23,Gold
+1572,Female,48,Ultra-High,Email,Liverpool,2022-12-20,Gold
+1573,Female,37,Medium,In-Store Walk-in,Nottingham,2024-05-16,Silver
+1574,Male,52,Low,In-Store Walk-in,Ashford,2024-08-30,Gold
+1575,Female,21,Low,Email,Cheshire,2024-08-13,Silver
+1576,Female,44,High,Social Media,Bristol,2022-04-06,Gold
+1577,Female,60,High,In-Store Walk-in,Nottingham,2022-04-16,Platinum
+1578,Female,43,Medium,Organic Search,Bicester,2023-11-09,Silver
+1579,Female,41,Medium,In-Store Walk-in,Glasgow,2023-05-28,Gold
+1580,Female,38,Low,Email,Manchester,2024-05-05,Silver
+1581,Male,19,High,Organic Search,London,2024-02-29,Gold
+1582,Female,54,High,In-Store Walk-in,Sheffield,2023-05-30,Gold
+1583,Female,30,Medium,Email,Glasgow,2024-06-16,Silver
+1584,Male,44,Medium,Social Media,London,2024-12-20,Silver
+1585,Male,19,Medium,Email,Sheffield,2024-10-04,Silver
+1586,Male,23,Medium,Social Media,London,2024-01-07,Silver
+1587,Female,55,High,Organic Search,Oxford,2022-10-29,Gold
+1588,Female,33,Medium,Email,Newcastle,2023-10-08,Silver
+1589,Female,55,Medium,Referral,Manchester,2024-11-30,Silver
+1590,Female,37,Medium,Referral,Cheshire,2022-08-19,Gold
+1591,Male,18,Ultra-High,Referral,Bicester,2024-01-08,Gold
+1592,Male,48,Ultra-High,Referral,Birmingham,2024-09-23,Platinum
+1593,Male,30,Medium,Referral,Edinburgh,2022-10-24,Silver
+1594,Male,46,Medium,Social Media,Newcastle,2023-03-31,Silver
+1595,Male,38,Medium,Email,Liverpool,2024-12-16,Silver
+1596,Male,19,Medium,Organic Search,Liverpool,2024-07-30,Silver
+1597,Female,39,Low,Referral,York,2022-08-28,Silver
+1598,Female,64,High,Referral,London,2024-12-22,Gold
+1599,Other,43,High,Organic Search,Newcastle,2023-07-05,Gold
+1600,Female,37,Ultra-High,Organic Search,Ashford,2022-05-18,Gold
+1601,Female,50,Medium,Referral,Nottingham,2023-03-30,Silver
+1602,Male,40,High,Social Media,Bath,2023-03-19,Gold
+1603,Female,40,High,Organic Search,Birmingham,2022-01-27,Platinum
+1604,Female,24,Medium,Email,Liverpool,2023-04-02,Silver
+1605,Male,40,Medium,Email,Bicester,2023-11-26,Silver
+1606,Male,50,Medium,Social Media,Bristol,2023-12-11,Silver
+1607,Female,27,Medium,In-Store Walk-in,Birmingham,2024-04-28,Silver
+1608,Male,55,Medium,Social Media,Cambridge,2024-08-06,Silver
+1609,Female,36,High,Referral,Liverpool,2022-04-17,Gold
+1610,Female,27,Medium,In-Store Walk-in,Leeds,2023-03-20,Silver
+1611,Male,49,Ultra-High,Referral,London,2022-02-05,Gold
+1612,Male,34,Medium,Email,Birmingham,2023-08-20,Silver
+1613,Male,47,Ultra-High,Organic Search,Cheshire,2022-06-04,Platinum
+1614,Male,34,Medium,Referral,Leeds,2024-03-06,Silver
+1615,Male,37,High,Email,London,2022-09-29,Gold
+1616,Female,43,Medium,Social Media,Sheffield,2024-09-07,Silver
+1617,Male,41,Medium,Referral,Glasgow,2022-05-02,Silver
+1618,Female,18,Ultra-High,Email,York,2022-05-30,Gold
+1619,Male,24,Medium,Organic Search,Edinburgh,2023-12-08,Silver
+1620,Female,49,High,Referral,Liverpool,2024-09-21,Gold
+1621,Male,36,High,Email,Nottingham,2022-06-02,Gold
+1622,Male,31,Medium,Referral,Oxford,2024-11-06,Gold
+1623,Female,21,Medium,Organic Search,Bicester,2023-07-05,Silver
+1624,Female,25,High,Referral,London,2024-04-24,Gold
+1625,Male,18,Low,Referral,York,2022-10-07,Silver
+1626,Female,36,High,Email,London,2023-02-26,Gold
+1627,Male,30,Ultra-High,In-Store Walk-in,Oxford,2024-09-19,Gold
+1628,Female,26,Low,Referral,Bicester,2024-03-14,Silver
+1629,Male,37,Medium,In-Store Walk-in,Nottingham,2022-12-21,Gold
+1630,Male,42,High,Social Media,Cambridge,2023-01-13,Gold
+1631,Female,63,Medium,Referral,Oxford,2022-03-21,Silver
+1632,Female,19,Medium,In-Store Walk-in,Leeds,2024-09-14,Silver
+1633,Male,51,Medium,Social Media,Glasgow,2022-08-21,Silver
+1634,Female,49,High,Email,Nottingham,2022-06-03,Platinum
+1635,Female,28,Medium,Referral,Leeds,2024-06-25,Gold
+1636,Male,40,Medium,Email,Newcastle,2024-11-20,Silver
+1637,Female,32,High,Social Media,Liverpool,2023-01-06,Platinum
+1638,Male,40,Medium,Email,York,2022-11-19,Gold
+1639,Female,56,Medium,Email,Sheffield,2022-11-28,Gold
+1640,Female,45,Ultra-High,Organic Search,London,2022-08-31,Gold
+1641,Female,44,High,Social Media,Glasgow,2023-03-06,Gold
+1642,Male,32,High,Email,London,2024-03-19,Platinum
+1643,Male,20,Medium,In-Store Walk-in,Cheshire,2023-01-11,Silver
+1644,Male,35,High,Social Media,Sheffield,2022-03-22,Gold
+1645,Male,52,Low,Organic Search,Cheshire,2023-02-24,Gold
+1646,Male,19,Medium,Referral,Bath,2023-04-12,Silver
+1647,Female,25,Medium,Email,York,2024-12-16,Silver
+1648,Male,39,Medium,In-Store Walk-in,London,2024-04-08,Silver
+1649,Male,26,High,Organic Search,Glasgow,2024-03-14,Gold
+1650,Female,28,Medium,Social Media,Bristol,2024-12-13,Gold
+1651,Male,32,High,Email,London,2024-09-04,Gold
+1652,Female,21,High,Organic Search,Bath,2022-01-04,Platinum
+1653,Male,26,High,Organic Search,Edinburgh,2023-08-26,Platinum
+1654,Female,46,Medium,In-Store Walk-in,Ashford,2022-11-16,Silver
+1655,Male,22,High,Referral,Sheffield,2023-05-16,Gold
+1656,Male,18,Medium,Referral,Birmingham,2023-07-25,Silver
+1657,Female,30,Low,Referral,Bicester,2022-07-04,Silver
+1658,Male,46,Ultra-High,Social Media,Bicester,2023-07-10,Gold
+1659,Female,35,Medium,Organic Search,Nottingham,2024-06-11,Silver
+1660,Male,32,Low,Social Media,Manchester,2022-02-24,Gold
+1661,Male,38,Ultra-High,Organic Search,London,2024-05-12,Gold
+1662,Female,18,Medium,In-Store Walk-in,Edinburgh,2022-03-18,Gold
+1663,Male,43,High,In-Store Walk-in,Nottingham,2022-10-23,Gold
+1664,Female,42,Medium,Social Media,Cheshire,2024-01-16,Silver
+1665,Female,33,Medium,Social Media,Sheffield,2024-06-18,Silver
+1666,Female,50,Medium,In-Store Walk-in,Bath,2022-02-12,Silver
+1667,Female,24,Medium,Email,Ashford,2022-08-15,Silver
+1668,Male,51,Medium,Referral,London,2024-12-22,Silver
+1669,Male,39,High,Referral,York,2022-06-20,Gold
+1670,Male,33,High,In-Store Walk-in,Cambridge,2024-08-20,Gold
+1671,Female,37,Ultra-High,Referral,Bath,2024-02-01,Platinum
+1672,Other,36,Low,Email,Sheffield,2024-04-29,Silver
+1673,Male,52,High,Email,Liverpool,2022-11-03,Gold
+1674,Female,25,High,Organic Search,Glasgow,2023-07-22,Platinum
+1675,Male,28,Ultra-High,Social Media,London,2024-09-18,Gold
+1676,Female,50,Low,Referral,Leeds,2022-02-03,Silver
+1677,Male,30,High,Email,Sheffield,2024-04-06,Gold
+1678,Female,48,Ultra-High,Social Media,Leeds,2022-05-10,Gold
+1679,Female,58,Medium,Social Media,Ashford,2023-10-17,Silver
+1680,Male,33,Ultra-High,Organic Search,Glasgow,2023-09-22,Platinum
+1681,Male,46,Low,Social Media,Cambridge,2024-11-06,Silver
+1682,Male,24,High,Social Media,London,2023-08-17,Gold
+1683,Male,47,Ultra-High,In-Store Walk-in,Oxford,2024-11-03,Gold
+1684,Male,40,High,Organic Search,Manchester,2022-03-22,Gold
+1685,Female,43,Medium,Organic Search,Birmingham,2022-07-23,Silver
+1686,Female,30,Low,Referral,Sheffield,2022-01-23,Silver
+1687,Female,18,Ultra-High,Social Media,Ashford,2023-09-06,Gold
+1688,Male,44,Medium,Referral,Edinburgh,2022-05-24,Silver
+1689,Female,18,Low,Email,Manchester,2022-04-14,Silver
+1690,Female,34,High,Social Media,Edinburgh,2022-11-20,Gold
+1691,Male,49,Medium,Email,Bicester,2023-07-30,Silver
+1692,Female,40,Medium,In-Store Walk-in,Nottingham,2022-10-01,Silver
+1693,Female,61,Medium,Social Media,Bath,2023-03-28,Silver
+1694,Male,50,Low,Referral,Glasgow,2024-05-30,Silver
+1695,Male,30,High,Referral,Bristol,2022-05-05,Gold
+1696,Female,38,High,Social Media,Manchester,2022-11-13,Gold
+1697,Male,37,High,Referral,Nottingham,2022-04-17,Platinum
+1698,Female,19,High,Social Media,Glasgow,2024-06-25,Gold
+1699,Female,26,Ultra-High,Organic Search,London,2023-03-06,Gold
+1700,Female,31,High,Referral,Cambridge,2023-12-05,Gold
+1701,Male,18,Low,Social Media,Oxford,2024-08-29,Silver
+1702,Male,38,High,Social Media,Bristol,2022-12-28,Gold
+1703,Female,35,Medium,Referral,Manchester,2024-03-06,Silver
+1704,Female,18,High,Organic Search,Nottingham,2023-03-08,Gold
+1705,Male,42,High,Referral,Oxford,2023-11-06,Gold
+1706,Female,46,Medium,Social Media,Ashford,2024-05-08,Silver
+1707,Female,40,Ultra-High,Organic Search,Bath,2024-10-10,Gold
+1708,Male,34,Medium,Email,London,2023-07-30,Gold
+1709,Male,45,High,In-Store Walk-in,Birmingham,2024-12-24,Gold
+1710,Female,46,Low,Referral,Cheshire,2024-06-11,Silver
+1711,Male,41,Ultra-High,Social Media,Bath,2022-09-27,Gold
+1712,Male,28,Medium,Organic Search,Ashford,2023-03-14,Silver
+1713,Male,41,Low,Organic Search,Cheshire,2024-11-08,Silver
+1714,Male,52,Medium,Email,Cambridge,2022-08-13,Silver
+1715,Female,30,Medium,Referral,York,2024-09-16,Silver
+1716,Female,63,Medium,Organic Search,Leeds,2023-04-05,Silver
+1717,Male,31,High,Email,London,2023-01-29,Gold
+1718,Female,38,Medium,Social Media,Cambridge,2024-06-30,Silver
+1719,Female,29,Low,Email,Birmingham,2022-01-15,Silver
+1720,Female,40,Medium,Referral,Bicester,2023-07-14,Gold
+1721,Male,18,High,Email,Bicester,2024-09-30,Gold
+1722,Male,31,High,Organic Search,Sheffield,2023-02-18,Platinum
+1723,Other,24,High,Organic Search,Sheffield,2024-09-25,Platinum
+1724,Female,39,High,In-Store Walk-in,Birmingham,2022-04-25,Gold
+1725,Male,49,Medium,Email,Bath,2024-09-02,Silver
+1726,Male,45,Low,Social Media,Cambridge,2022-02-05,Silver
+1727,Male,18,Medium,Referral,Newcastle,2022-08-30,Silver
+1728,Female,62,High,In-Store Walk-in,Manchester,2022-03-04,Gold
+1729,Female,41,Ultra-High,Email,London,2023-10-28,Gold
+1730,Female,28,Medium,Social Media,Bath,2023-05-24,Silver
+1731,Male,39,Low,In-Store Walk-in,Manchester,2022-07-07,Silver
+1732,Female,40,Medium,Organic Search,Bicester,2024-01-05,Silver
+1733,Female,29,Medium,Referral,Sheffield,2022-04-03,Gold
+1734,Male,40,High,Email,Bath,2022-01-05,Platinum
+1735,Female,30,Low,Social Media,Liverpool,2022-01-25,Gold
+1736,Female,33,Ultra-High,Organic Search,London,2023-05-23,Gold
+1737,Male,29,Medium,In-Store Walk-in,Birmingham,2022-04-08,Silver
+1738,Female,20,Ultra-High,Referral,Cheshire,2023-10-24,Gold
+1739,Male,39,High,In-Store Walk-in,Bicester,2023-11-15,Gold
+1740,Female,45,High,In-Store Walk-in,Cambridge,2022-01-27,Gold
+1741,Female,44,High,Social Media,Bath,2022-02-24,Gold
+1742,Female,47,High,Organic Search,London,2024-12-11,Platinum
+1743,Female,41,High,Email,Bicester,2024-02-20,Gold
+1744,Male,31,High,Social Media,London,2022-10-25,Platinum
+1745,Female,48,High,Referral,Bath,2024-11-07,Gold
+1746,Female,21,Ultra-High,In-Store Walk-in,Cheshire,2024-03-28,Gold
+1747,Male,27,High,Referral,Manchester,2024-05-04,Platinum
+1748,Female,26,High,Social Media,Ashford,2023-07-13,Gold
+1749,Female,50,Ultra-High,Social Media,Edinburgh,2023-05-18,Platinum
+1750,Male,49,Medium,Email,Oxford,2022-07-22,Silver
+1751,Female,43,Low,In-Store Walk-in,Birmingham,2024-08-03,Silver
+1752,Female,50,Medium,Social Media,Newcastle,2022-08-28,Gold
+1753,Male,27,High,Referral,Bicester,2023-05-05,Gold
+1754,Other,42,High,Email,Ashford,2024-11-02,Gold
+1755,Male,36,Medium,Referral,Glasgow,2023-10-11,Silver
+1756,Male,48,High,In-Store Walk-in,Bicester,2023-11-16,Gold
+1757,Male,36,High,Email,Oxford,2022-08-31,Gold
+1758,Female,33,Low,Email,London,2023-05-22,Silver
+1759,Female,44,High,Email,London,2024-12-02,Gold
+1760,Male,48,High,Organic Search,Leeds,2023-09-05,Gold
+1761,Male,29,Medium,Email,Bicester,2022-06-11,Silver
+1762,Female,37,High,Referral,Cambridge,2023-10-18,Gold
+1763,Male,25,High,Referral,Ashford,2024-08-16,Gold
+1764,Female,18,Medium,In-Store Walk-in,Newcastle,2023-09-13,Silver
+1765,Female,40,Medium,Social Media,Nottingham,2022-04-21,Silver
+1766,Female,45,Ultra-High,Social Media,Leeds,2024-07-22,Platinum
+1767,Female,41,Medium,Organic Search,Nottingham,2024-01-20,Gold
+1768,Male,18,Medium,Email,Sheffield,2023-12-10,Silver
+1769,Other,33,Medium,Organic Search,Leeds,2022-09-30,Silver
+1770,Female,18,High,In-Store Walk-in,Glasgow,2024-03-17,Gold
+1771,Female,54,High,In-Store Walk-in,Oxford,2022-02-10,Gold
+1772,Male,24,High,Social Media,Nottingham,2023-07-14,Platinum
+1773,Female,53,Low,In-Store Walk-in,York,2023-04-11,Silver
+1774,Male,49,Ultra-High,Email,Cheshire,2023-05-05,Platinum
+1775,Male,27,Medium,Referral,London,2022-04-27,Gold
+1776,Male,24,Medium,In-Store Walk-in,Glasgow,2023-03-10,Silver
+1777,Female,42,Medium,Organic Search,Bristol,2024-11-08,Silver
+1778,Female,27,Medium,Email,London,2024-09-20,Silver
+1779,Female,39,Ultra-High,In-Store Walk-in,Ashford,2022-07-15,Gold
+1780,Female,32,Ultra-High,In-Store Walk-in,Nottingham,2023-09-11,Platinum
+1781,Male,18,Medium,Email,Newcastle,2023-03-01,Silver
+1782,Female,18,Ultra-High,In-Store Walk-in,Ashford,2022-02-03,Gold
+1783,Male,40,High,Referral,Cheshire,2022-10-22,Gold
+1784,Female,31,Ultra-High,Social Media,Manchester,2024-10-03,Gold
+1785,Female,31,Medium,Email,Sheffield,2022-12-05,Silver
+1786,Female,46,High,Organic Search,Nottingham,2023-09-10,Gold
+1787,Female,52,Medium,In-Store Walk-in,Glasgow,2022-06-29,Silver
+1788,Male,34,High,Social Media,London,2023-09-14,Gold
+1789,Male,33,Low,Organic Search,Ashford,2023-09-11,Silver
+1790,Female,44,High,Organic Search,Sheffield,2023-10-05,Gold
+1791,Male,21,Medium,Referral,Bath,2022-01-23,Silver
+1792,Male,40,Medium,Social Media,Bristol,2023-09-11,Silver
+1793,Female,44,High,Email,Birmingham,2022-09-09,Gold
+1794,Female,46,Ultra-High,Social Media,Oxford,2022-10-29,Gold
+1795,Male,18,High,Social Media,Edinburgh,2024-12-29,Gold
+1796,Male,28,Ultra-High,Organic Search,Oxford,2022-06-12,Gold
+1797,Female,27,Medium,Referral,Newcastle,2024-12-22,Silver
+1798,Female,39,High,Referral,London,2023-09-04,Platinum
+1799,Male,43,Medium,Social Media,Bicester,2024-12-07,Silver
+1800,Male,55,Low,Social Media,Newcastle,2023-03-21,Silver
+1801,Male,32,High,In-Store Walk-in,Nottingham,2022-03-15,Gold
+1802,Male,32,High,Organic Search,Leeds,2024-04-05,Gold
+1803,Male,51,High,Email,Liverpool,2023-06-26,Gold
+1804,Female,41,High,Email,Glasgow,2022-06-06,Gold
+1805,Female,53,High,Referral,Bristol,2022-09-13,Gold
+1806,Female,41,Low,Organic Search,Cambridge,2024-11-28,Gold
+1807,Male,24,Medium,Referral,Sheffield,2024-12-14,Silver
+1808,Female,22,High,Email,York,2024-11-17,Platinum
+1809,Male,19,Medium,Social Media,Bristol,2024-07-25,Silver
+1810,Female,45,Low,Organic Search,Oxford,2022-04-28,Silver
+1811,Female,52,Medium,Organic Search,Glasgow,2023-01-05,Silver
+1812,Male,60,High,In-Store Walk-in,London,2022-07-28,Gold
+1813,Female,48,Medium,Social Media,Cheshire,2023-08-10,Silver
+1814,Male,51,High,Social Media,London,2024-04-28,Platinum
+1815,Female,31,High,Referral,Cambridge,2022-11-12,Platinum
+1816,Male,24,Medium,Organic Search,Oxford,2023-03-20,Silver
+1817,Male,48,High,Referral,Liverpool,2023-09-20,Gold
+1818,Female,43,High,Social Media,London,2023-03-21,Gold
+1819,Male,39,High,In-Store Walk-in,Edinburgh,2023-07-24,Gold
+1820,Female,42,High,Organic Search,Bristol,2023-08-05,Gold
+1821,Male,41,Low,Social Media,Liverpool,2023-08-28,Silver
+1822,Female,53,High,In-Store Walk-in,Bath,2024-01-11,Gold
+1823,Female,53,Medium,Email,Manchester,2024-06-26,Silver
+1824,Female,44,Ultra-High,Social Media,Edinburgh,2023-10-11,Gold
+1825,Male,48,High,Email,Birmingham,2022-11-01,Gold
+1826,Male,44,High,Referral,Bicester,2022-12-05,Gold
+1827,Male,32,Medium,Email,Nottingham,2023-06-13,Silver
+1828,Male,47,Medium,Social Media,Manchester,2022-02-23,Silver
+1829,Female,21,Medium,Email,Bath,2023-11-15,Silver
+1830,Female,50,Medium,Organic Search,York,2023-02-23,Silver
+1831,Female,23,Medium,Social Media,Sheffield,2022-11-01,Silver
+1832,Female,41,High,In-Store Walk-in,Cambridge,2022-03-26,Platinum
+1833,Female,27,Medium,Email,York,2022-09-09,Gold
+1834,Female,44,Ultra-High,Organic Search,Edinburgh,2022-05-06,Platinum
+1835,Male,37,Medium,Referral,Birmingham,2023-09-02,Gold
+1836,Female,18,Ultra-High,Referral,Newcastle,2022-10-31,Gold
+1837,Female,43,Ultra-High,Email,Sheffield,2024-11-17,Gold
+1838,Female,31,High,Referral,Oxford,2024-04-27,Gold
+1839,Male,48,High,In-Store Walk-in,Bath,2024-12-11,Gold
+1840,Male,38,Medium,Social Media,York,2023-10-17,Silver
+1841,Male,42,High,Organic Search,Birmingham,2023-10-06,Gold
+1842,Female,26,Medium,Email,London,2024-05-07,Gold
+1843,Female,30,Medium,Referral,London,2023-05-26,Silver
+1844,Male,32,High,Social Media,York,2022-07-26,Gold
+1845,Female,48,Medium,In-Store Walk-in,Liverpool,2023-07-28,Silver
+1846,Male,58,High,Referral,Manchester,2024-05-24,Gold
+1847,Male,28,Medium,Referral,Bicester,2023-05-26,Silver
+1848,Male,50,Medium,Organic Search,Ashford,2022-07-20,Silver
+1849,Female,18,Low,In-Store Walk-in,Ashford,2024-04-02,Silver
+1850,Female,23,Low,In-Store Walk-in,Edinburgh,2024-12-06,Silver
+1851,Male,26,Medium,Email,Edinburgh,2024-10-16,Silver
+1852,Female,21,Low,Organic Search,Glasgow,2022-05-17,Silver
+1853,Male,18,Medium,Email,Leeds,2022-05-10,Silver
+1854,Female,42,High,Organic Search,Newcastle,2024-10-14,Platinum
+1855,Female,35,Low,In-Store Walk-in,Ashford,2023-03-08,Gold
+1856,Female,42,High,Organic Search,Bicester,2024-12-28,Gold
+1857,Male,46,Medium,Organic Search,Oxford,2023-06-24,Silver
+1858,Female,41,Ultra-High,Organic Search,Edinburgh,2022-12-01,Gold
+1859,Female,45,Medium,Social Media,Newcastle,2023-06-10,Silver
+1860,Male,37,Medium,Social Media,Newcastle,2023-07-12,Silver
+1861,Female,23,High,In-Store Walk-in,Cambridge,2024-06-27,Gold
+1862,Male,50,Medium,Organic Search,Cambridge,2024-11-05,Gold
+1863,Female,30,High,In-Store Walk-in,Newcastle,2023-05-25,Platinum
+1864,Male,26,Medium,Social Media,Glasgow,2022-07-28,Silver
+1865,Female,35,Ultra-High,Organic Search,London,2022-02-27,Gold
+1866,Female,27,Medium,Email,Oxford,2024-03-26,Silver
+1867,Male,32,Medium,Social Media,Liverpool,2024-11-03,Silver
+1868,Male,42,High,Social Media,Liverpool,2023-01-12,Gold
+1869,Male,42,Medium,Social Media,Birmingham,2022-08-31,Silver
+1870,Male,27,High,Organic Search,Edinburgh,2024-09-19,Gold
+1871,Male,32,Medium,Referral,Manchester,2024-06-09,Silver
+1872,Female,50,High,Email,Birmingham,2023-02-19,Platinum
+1873,Male,43,Medium,Email,Edinburgh,2023-01-29,Silver
+1874,Male,62,High,In-Store Walk-in,Nottingham,2023-12-30,Platinum
+1875,Female,52,High,Organic Search,Birmingham,2022-12-24,Gold
+1876,Male,51,Medium,Social Media,Bicester,2023-11-05,Silver
+1877,Female,21,Medium,Referral,Cheshire,2022-01-18,Gold
+1878,Female,47,Medium,Organic Search,York,2023-12-29,Silver
+1879,Female,37,Ultra-High,Organic Search,Birmingham,2023-07-15,Gold
+1880,Female,31,Medium,Referral,Liverpool,2024-12-17,Silver
+1881,Female,40,Medium,Social Media,Sheffield,2022-06-04,Silver
+1882,Male,49,Low,Organic Search,York,2023-05-02,Silver
+1883,Male,44,Medium,Email,Ashford,2022-05-31,Silver
+1884,Male,27,High,Email,Cheshire,2023-01-03,Gold
+1885,Female,46,Ultra-High,Referral,Sheffield,2024-12-06,Gold
+1886,Male,30,High,Social Media,Sheffield,2022-07-26,Platinum
+1887,Female,40,High,Referral,Cheshire,2023-03-26,Gold
+1888,Other,34,High,Organic Search,Edinburgh,2024-07-12,Gold
+1889,Female,35,Low,Email,Bath,2023-11-28,Silver
+1890,Female,47,Medium,In-Store Walk-in,Cheshire,2023-07-24,Gold
+1891,Male,25,High,Referral,Sheffield,2022-05-23,Platinum
+1892,Female,61,Ultra-High,In-Store Walk-in,Ashford,2024-12-06,Gold
+1893,Female,18,Ultra-High,In-Store Walk-in,Sheffield,2022-07-10,Gold
+1894,Male,30,Medium,Email,London,2022-05-20,Silver
+1895,Male,42,Medium,Referral,Bath,2023-09-07,Silver
+1896,Female,45,Medium,In-Store Walk-in,Sheffield,2024-07-13,Silver
+1897,Female,36,Ultra-High,Organic Search,Newcastle,2024-12-08,Gold
+1898,Female,37,Ultra-High,Social Media,London,2023-09-16,Gold
+1899,Female,42,High,Social Media,Sheffield,2022-03-28,Gold
+1900,Female,35,Medium,Email,Newcastle,2022-10-09,Silver
+1901,Female,54,High,Referral,Nottingham,2024-02-03,Platinum
+1902,Male,48,Medium,Referral,Newcastle,2023-03-29,Silver
+1903,Male,48,Medium,Social Media,London,2022-02-16,Silver
+1904,Male,26,High,Organic Search,Sheffield,2024-07-26,Gold
+1905,Female,37,Low,Social Media,London,2022-01-31,Silver
+1906,Female,34,Medium,Social Media,York,2023-06-18,Silver
+1907,Female,25,Ultra-High,Referral,Bath,2022-01-17,Platinum
+1908,Male,42,High,In-Store Walk-in,Bicester,2023-01-27,Gold
+1909,Female,31,Medium,Organic Search,Liverpool,2024-10-03,Silver
+1910,Female,45,High,Referral,Bicester,2022-12-20,Gold
+1911,Female,25,Medium,Social Media,Bristol,2022-11-01,Silver
+1912,Female,58,High,In-Store Walk-in,Edinburgh,2023-05-24,Gold
+1913,Male,27,High,Organic Search,Birmingham,2023-12-13,Gold
+1914,Female,40,High,Email,Sheffield,2023-11-16,Gold
+1915,Male,47,High,Organic Search,Cheshire,2024-02-25,Platinum
+1916,Male,31,Medium,Organic Search,Bristol,2024-05-06,Silver
+1917,Female,48,Medium,Social Media,Ashford,2022-06-26,Silver
+1918,Female,23,Medium,Social Media,Liverpool,2022-10-28,Silver
+1919,Female,55,Medium,Email,Oxford,2023-03-21,Gold
+1920,Female,38,High,Email,Leeds,2022-01-21,Gold
+1921,Female,30,Medium,Email,Edinburgh,2024-10-12,Silver
+1922,Female,34,Medium,Referral,York,2023-12-12,Silver
+1923,Female,47,Medium,Referral,Glasgow,2023-12-02,Silver
+1924,Male,30,Ultra-High,Social Media,Birmingham,2022-06-01,Platinum
+1925,Male,29,Medium,Social Media,Bath,2024-05-08,Silver
+1926,Male,35,High,Email,Leeds,2022-04-06,Gold
+1927,Male,23,Medium,Referral,Leeds,2024-05-27,Silver
+1928,Male,59,Low,In-Store Walk-in,Edinburgh,2023-10-02,Gold
+1929,Male,31,Medium,Referral,Manchester,2023-02-04,Silver
+1930,Male,47,High,Social Media,Leeds,2022-09-03,Gold
+1931,Female,40,High,Referral,Edinburgh,2022-04-22,Gold
+1932,Male,26,Ultra-High,Social Media,Oxford,2024-03-04,Platinum
+1933,Female,37,Medium,Email,Newcastle,2024-10-23,Silver
+1934,Male,47,Low,Email,Leeds,2022-04-26,Silver
+1935,Female,35,Ultra-High,Email,Newcastle,2024-07-22,Gold
+1936,Male,52,Medium,In-Store Walk-in,Edinburgh,2022-10-19,Silver
+1937,Male,50,High,In-Store Walk-in,York,2022-12-08,Gold
+1938,Female,49,High,Social Media,Manchester,2024-10-11,Gold
+1939,Male,32,Medium,Organic Search,York,2023-08-08,Silver
+1940,Male,25,High,In-Store Walk-in,Manchester,2022-01-27,Gold
+1941,Male,30,Medium,Social Media,Bristol,2023-03-31,Silver
+1942,Male,40,Medium,Referral,London,2024-07-06,Silver
+1943,Male,44,Medium,Email,Edinburgh,2023-08-03,Silver
+1944,Male,18,High,Email,Cambridge,2022-01-14,Gold
+1945,Female,37,Medium,Email,London,2022-04-08,Silver
+1946,Female,39,High,Social Media,Cambridge,2022-10-06,Gold
+1947,Female,34,Ultra-High,Email,Oxford,2023-05-05,Platinum
+1948,Male,53,High,In-Store Walk-in,Oxford,2024-09-11,Platinum
+1949,Female,43,High,Referral,Ashford,2024-08-18,Platinum
+1950,Male,53,Medium,Email,Newcastle,2023-09-16,Gold
+1951,Male,35,Medium,Social Media,Bristol,2022-07-26,Silver
+1952,Female,49,Medium,Referral,Cambridge,2023-08-20,Silver
+1953,Male,57,High,Email,Bristol,2023-11-26,Platinum
+1954,Male,53,Ultra-High,Organic Search,Nottingham,2022-09-07,Gold
+1955,Female,24,Ultra-High,Email,Edinburgh,2024-01-10,Gold
+1956,Female,34,Ultra-High,In-Store Walk-in,Cambridge,2022-11-02,Platinum
+1957,Female,33,Ultra-High,Referral,Sheffield,2024-11-28,Gold
+1958,Female,43,Medium,In-Store Walk-in,Oxford,2024-09-24,Silver
+1959,Other,46,High,Organic Search,Nottingham,2023-12-19,Gold
+1960,Male,27,Ultra-High,Organic Search,York,2022-07-02,Gold
+1961,Male,38,Medium,In-Store Walk-in,Birmingham,2023-10-07,Silver
+1962,Male,18,Ultra-High,Referral,Cheshire,2022-01-30,Gold
+1963,Male,55,Medium,Organic Search,Bristol,2024-02-06,Silver
+1964,Male,31,High,Organic Search,Sheffield,2023-09-07,Platinum
+1965,Female,38,High,Email,Cambridge,2024-10-01,Gold
+1966,Female,34,Ultra-High,Social Media,Ashford,2022-03-15,Gold
+1967,Female,51,Medium,Organic Search,York,2024-12-14,Silver
+1968,Male,18,High,Referral,Birmingham,2024-08-19,Platinum
+1969,Female,37,High,Referral,Cambridge,2022-01-24,Gold
+1970,Female,36,Medium,Email,Manchester,2024-11-11,Silver
+1971,Female,32,High,Referral,Sheffield,2023-03-04,Gold
+1972,Male,58,High,Email,York,2024-11-21,Gold
+1973,Female,27,High,Organic Search,Newcastle,2024-05-12,Platinum
+1974,Male,47,Medium,Organic Search,Newcastle,2022-12-05,Gold
+1975,Male,42,Medium,Organic Search,Manchester,2023-05-27,Silver
+1976,Male,53,High,Organic Search,Cambridge,2024-12-29,Gold
+1977,Female,29,Medium,Social Media,Leeds,2023-11-03,Gold
+1978,Female,29,Medium,Social Media,Sheffield,2024-05-26,Silver
+1979,Male,51,Ultra-High,Organic Search,Manchester,2023-07-25,Platinum
+1980,Male,43,High,Referral,London,2024-02-03,Gold
+1981,Male,19,High,Email,Newcastle,2023-12-14,Gold
+1982,Male,31,Medium,In-Store Walk-in,Cheshire,2023-08-12,Silver
+1983,Male,42,Medium,Email,Birmingham,2024-02-06,Silver
+1984,Male,48,Medium,In-Store Walk-in,Cheshire,2024-03-29,Gold
+1985,Female,29,Medium,In-Store Walk-in,Bicester,2022-03-19,Gold
+1986,Male,18,High,Organic Search,London,2022-01-10,Gold
+1987,Male,44,High,In-Store Walk-in,Ashford,2023-09-28,Platinum
+1988,Male,23,Medium,Organic Search,Cheshire,2023-08-15,Silver
+1989,Female,18,Medium,Social Media,Sheffield,2023-12-19,Silver
+1990,Female,18,Medium,Referral,Bath,2023-07-19,Silver
+1991,Female,47,Medium,In-Store Walk-in,Edinburgh,2023-02-14,Silver
+1992,Male,39,Medium,Referral,Bath,2022-12-24,Silver
+1993,Female,35,Ultra-High,Organic Search,Glasgow,2022-04-08,Gold
+1994,Male,54,High,In-Store Walk-in,Oxford,2024-10-03,Gold
+1995,Female,45,High,Email,Leeds,2022-08-29,Platinum
+1996,Female,57,Medium,Social Media,Leeds,2023-07-11,Silver
+1997,Female,21,Ultra-High,Social Media,Edinburgh,2023-12-12,Gold
+1998,Female,37,High,In-Store Walk-in,Ashford,2022-06-05,Gold
+1999,Female,18,High,Social Media,Bristol,2022-12-18,Gold
+2000,Male,35,Medium,Email,Liverpool,2022-02-13,Silver
+2001,Female,35,Ultra-High,Referral,Birmingham,2023-08-15,Gold
+2002,Male,45,High,Email,Cheshire,2022-05-18,Gold
+2003,Female,38,Ultra-High,Social Media,Manchester,2023-03-12,Gold
+2004,Male,45,Medium,Referral,Glasgow,2024-01-24,Silver
+2005,Male,46,Medium,Email,Leeds,2022-05-23,Silver
+2006,Male,63,Medium,Organic Search,Edinburgh,2024-10-20,Silver
+2007,Male,34,Medium,Organic Search,Oxford,2022-09-19,Silver
+2008,Female,26,Ultra-High,Referral,Sheffield,2023-05-27,Platinum
+2009,Female,40,Low,Referral,Leeds,2023-11-04,Silver
+2010,Male,28,Low,Referral,Bath,2022-03-03,Silver
+2011,Male,55,Medium,Organic Search,Bristol,2022-01-31,Silver
+2012,Female,34,Medium,Email,Manchester,2024-08-06,Gold
+2013,Male,31,Medium,Referral,Bristol,2024-03-12,Silver
+2014,Female,32,High,Organic Search,Sheffield,2022-09-23,Platinum
+2015,Female,46,High,Referral,Ashford,2022-11-04,Gold
+2016,Female,36,Low,Referral,Glasgow,2023-04-04,Gold
+2017,Female,30,Medium,Referral,Bristol,2022-11-30,Silver
+2018,Male,57,Medium,Organic Search,Birmingham,2023-05-30,Silver
+2019,Female,27,Medium,Email,Bath,2023-03-17,Silver
+2020,Male,38,High,Organic Search,London,2023-11-04,Platinum
+2021,Male,45,High,Organic Search,Oxford,2023-01-26,Gold
+2022,Female,18,High,Referral,Leeds,2024-07-23,Gold
+2023,Male,43,High,In-Store Walk-in,Glasgow,2023-07-14,Gold
+2024,Female,25,Low,In-Store Walk-in,Liverpool,2022-09-11,Silver
+2025,Female,47,Ultra-High,In-Store Walk-in,York,2024-10-24,Gold
+2026,Female,26,High,Organic Search,Edinburgh,2022-04-29,Platinum
+2027,Female,46,Ultra-High,Referral,Newcastle,2024-09-22,Gold
+2028,Male,51,Low,In-Store Walk-in,Liverpool,2023-04-15,Silver
+2029,Male,48,Ultra-High,Social Media,Sheffield,2024-02-24,Gold
+2030,Female,41,High,Social Media,York,2024-12-29,Gold
+2031,Male,35,High,Social Media,Leeds,2023-11-25,Gold
+2032,Female,31,Low,Email,Oxford,2024-05-14,Silver
+2033,Female,55,High,Referral,Sheffield,2024-02-15,Platinum
+2034,Female,29,Ultra-High,Organic Search,Newcastle,2022-06-30,Gold
+2035,Male,25,High,Organic Search,Oxford,2024-10-25,Gold
+2036,Male,45,High,Referral,Bristol,2022-02-16,Platinum
+2037,Male,28,Ultra-High,Email,Leeds,2023-09-26,Gold
+2038,Male,26,Medium,Referral,London,2023-08-12,Gold
+2039,Female,20,High,Email,London,2022-11-06,Platinum
+2040,Male,32,Medium,In-Store Walk-in,Cambridge,2022-10-01,Silver
+2041,Male,37,Ultra-High,In-Store Walk-in,Ashford,2024-04-19,Gold
+2042,Male,40,Low,Email,York,2023-04-04,Silver
+2043,Female,49,High,Referral,Cheshire,2024-01-03,Platinum
+2044,Female,44,High,In-Store Walk-in,Newcastle,2022-12-27,Gold
+2045,Male,35,High,Referral,Edinburgh,2024-10-14,Gold
+2046,Male,35,High,In-Store Walk-in,Sheffield,2024-12-28,Gold
+2047,Male,44,Ultra-High,Referral,Leeds,2023-10-24,Gold
+2048,Male,53,Ultra-High,Referral,London,2023-11-30,Gold
+2049,Female,39,Low,Social Media,Cheshire,2024-06-03,Silver
+2050,Female,32,Medium,Email,Oxford,2024-01-28,Gold
+2051,Male,26,Low,Organic Search,London,2024-11-21,Silver
+2052,Male,20,Medium,Email,London,2023-09-13,Gold
+2053,Other,45,High,Referral,Ashford,2022-07-01,Platinum
+2054,Male,44,Ultra-High,Referral,Newcastle,2023-11-17,Gold
+2055,Female,44,High,Email,Oxford,2023-11-12,Gold
+2056,Male,36,Medium,Referral,Leeds,2022-09-05,Silver
+2057,Female,54,Low,In-Store Walk-in,Cheshire,2023-09-12,Silver
+2058,Male,32,High,Referral,Bristol,2022-01-30,Gold
+2059,Female,49,High,Email,Manchester,2024-05-22,Gold
+2060,Female,37,Medium,Email,Ashford,2024-08-05,Silver
+2061,Male,30,Ultra-High,Email,Leeds,2024-09-11,Platinum
+2062,Male,45,Ultra-High,Social Media,London,2022-11-13,Gold
+2063,Male,42,Medium,Social Media,Cambridge,2024-01-07,Silver
+2064,Male,42,Ultra-High,Social Media,Sheffield,2022-06-17,Gold
+2065,Male,38,Medium,Social Media,Liverpool,2024-01-13,Gold
+2066,Male,37,High,Social Media,Bath,2022-05-06,Platinum
+2067,Female,66,Medium,Social Media,London,2023-07-27,Silver
+2068,Male,52,Medium,Social Media,Bicester,2022-04-30,Silver
+2069,Male,46,Ultra-High,Email,Manchester,2024-10-05,Gold
+2070,Female,39,Medium,Organic Search,Newcastle,2023-07-14,Silver
+2071,Male,50,High,Social Media,Nottingham,2024-12-18,Platinum
+2072,Female,44,Medium,Email,Sheffield,2023-11-28,Silver
+2073,Male,38,Low,Organic Search,Nottingham,2022-08-11,Silver
+2074,Female,34,Medium,Social Media,Liverpool,2024-10-31,Silver
+2075,Female,37,Medium,Organic Search,London,2024-03-03,Gold
+2076,Female,18,High,Organic Search,Ashford,2024-03-24,Gold
+2077,Other,40,Medium,In-Store Walk-in,Oxford,2022-11-06,Silver
+2078,Male,32,High,Referral,Oxford,2024-10-08,Gold
+2079,Female,57,High,In-Store Walk-in,Liverpool,2024-01-19,Gold
+2080,Male,38,High,Organic Search,Glasgow,2024-11-23,Gold
+2081,Male,23,Medium,Email,York,2024-10-15,Gold
+2082,Male,37,Ultra-High,Social Media,Glasgow,2023-04-26,Gold
+2083,Female,25,Medium,Referral,Bath,2023-07-28,Silver
+2084,Male,43,Medium,Social Media,London,2024-04-04,Silver
+2085,Female,41,Medium,Email,Bristol,2023-09-20,Silver
+2086,Female,49,Medium,Referral,Cheshire,2024-04-23,Silver
+2087,Female,28,Low,In-Store Walk-in,Bicester,2024-09-15,Silver
+2088,Female,38,High,Organic Search,Cheshire,2023-02-23,Gold
+2089,Male,21,Medium,Email,Liverpool,2022-01-30,Silver
+2090,Male,46,Medium,Organic Search,Nottingham,2022-10-25,Gold
+2091,Male,44,High,Organic Search,Glasgow,2024-12-20,Gold
+2092,Male,43,Medium,Social Media,York,2023-04-03,Silver
+2093,Male,38,Medium,Email,Sheffield,2022-10-31,Silver
+2094,Male,42,Medium,Organic Search,Edinburgh,2024-08-15,Silver
+2095,Male,57,High,In-Store Walk-in,Bath,2022-12-06,Gold
+2096,Female,34,Medium,Referral,Oxford,2023-03-24,Silver
+2097,Female,39,Medium,Email,Cambridge,2024-05-30,Silver
+2098,Male,24,High,Social Media,London,2023-06-24,Gold
+2099,Female,27,High,Email,Edinburgh,2023-04-30,Platinum
+2100,Male,39,High,Social Media,Leeds,2022-03-18,Platinum
+2101,Male,51,High,Referral,Sheffield,2023-05-30,Gold
+2102,Female,34,Low,In-Store Walk-in,Newcastle,2024-08-01,Silver
+2103,Female,35,Medium,Organic Search,Liverpool,2023-10-21,Silver
+2104,Male,33,Medium,Email,Oxford,2022-04-02,Silver
+2105,Other,31,Medium,Social Media,Nottingham,2023-04-11,Silver
+2106,Female,41,Medium,Referral,Bristol,2023-04-11,Silver
+2107,Female,20,Medium,Organic Search,London,2024-11-29,Silver
+2108,Female,53,High,Referral,Ashford,2023-11-21,Gold
+2109,Female,30,High,In-Store Walk-in,Manchester,2024-08-04,Gold
+2110,Male,46,Medium,Organic Search,Birmingham,2023-07-08,Silver
+2111,Male,22,High,Organic Search,Cambridge,2024-12-25,Gold
+2112,Male,46,Medium,Organic Search,Birmingham,2022-04-19,Gold
+2113,Male,46,Medium,Social Media,London,2022-04-02,Silver
+2114,Female,42,High,Organic Search,Birmingham,2024-09-29,Gold
+2115,Male,26,Low,Referral,Glasgow,2023-01-03,Silver
+2116,Female,40,Low,Social Media,Ashford,2024-03-30,Silver
+2117,Female,23,Medium,Organic Search,Cambridge,2023-02-27,Silver
+2118,Female,34,Ultra-High,Referral,Liverpool,2023-07-26,Gold
+2119,Female,50,High,Referral,Liverpool,2024-05-11,Platinum
+2120,Female,47,Low,Email,Sheffield,2023-03-11,Silver
+2121,Male,38,High,Referral,London,2022-07-31,Gold
+2122,Female,26,High,In-Store Walk-in,Edinburgh,2023-06-10,Gold
+2123,Male,45,High,Organic Search,Bath,2023-04-13,Gold
+2124,Female,38,High,Organic Search,Nottingham,2024-03-02,Gold
+2125,Male,18,Medium,Organic Search,London,2024-05-24,Silver
+2126,Female,47,Medium,Referral,Edinburgh,2022-07-29,Silver
+2127,Female,37,High,Referral,Ashford,2022-09-13,Gold
+2128,Male,52,High,Organic Search,Edinburgh,2022-03-14,Gold
+2129,Male,24,High,Social Media,Liverpool,2022-05-27,Platinum
+2130,Other,18,High,Social Media,Ashford,2022-11-13,Gold
+2131,Female,41,Ultra-High,In-Store Walk-in,Nottingham,2023-08-29,Gold
+2132,Female,41,Ultra-High,Email,Leeds,2023-07-29,Platinum
+2133,Female,18,Ultra-High,In-Store Walk-in,Ashford,2023-07-01,Gold
+2134,Male,26,High,Organic Search,York,2024-04-14,Gold
+2135,Male,71,Ultra-High,Organic Search,Sheffield,2022-11-08,Platinum
+2136,Male,34,Low,Organic Search,Glasgow,2024-03-18,Silver
+2137,Female,46,Medium,Email,London,2024-02-04,Silver
+2138,Male,30,Medium,Referral,Manchester,2022-05-14,Silver
+2139,Female,18,High,Email,Bicester,2024-08-05,Gold
+2140,Female,35,High,In-Store Walk-in,Nottingham,2023-03-12,Platinum
+2141,Female,34,High,Referral,Bristol,2022-12-24,Platinum
+2142,Female,33,Medium,Referral,Bristol,2024-07-18,Gold
+2143,Other,36,Medium,In-Store Walk-in,Sheffield,2024-06-01,Silver
+2144,Male,41,High,Referral,Cheshire,2022-09-09,Gold
+2145,Female,36,Medium,Social Media,York,2022-05-15,Silver
+2146,Female,22,Medium,In-Store Walk-in,Newcastle,2023-06-07,Silver
+2147,Female,43,Medium,In-Store Walk-in,Liverpool,2024-03-14,Gold
+2148,Female,18,Medium,Social Media,Edinburgh,2023-10-22,Silver
+2149,Male,18,High,Email,Bath,2022-11-15,Platinum
+2150,Male,46,Medium,Email,Ashford,2022-03-21,Gold
+2151,Female,44,High,Email,Sheffield,2024-11-19,Platinum
+2152,Male,37,Low,Referral,Manchester,2023-02-18,Gold
+2153,Female,21,High,Social Media,Bicester,2023-01-03,Gold
+2154,Female,29,Medium,In-Store Walk-in,York,2024-10-03,Gold
+2155,Male,34,High,In-Store Walk-in,Bicester,2024-09-19,Gold
+2156,Female,18,High,In-Store Walk-in,Leeds,2023-08-19,Platinum
+2157,Male,29,Medium,Referral,Birmingham,2024-10-14,Silver
+2158,Female,45,Ultra-High,Referral,Oxford,2023-12-02,Gold
+2159,Female,55,High,Email,London,2024-11-10,Gold
+2160,Female,32,Medium,Referral,Sheffield,2023-07-03,Silver
+2161,Male,47,Medium,Email,York,2022-09-03,Gold
+2162,Male,18,Ultra-High,Email,Bicester,2022-10-10,Gold
+2163,Female,45,High,In-Store Walk-in,Cheshire,2023-09-06,Gold
+2164,Female,28,Medium,Referral,Birmingham,2024-07-19,Silver
+2165,Female,41,Medium,Email,Newcastle,2024-03-16,Silver
+2166,Male,35,High,Social Media,Sheffield,2022-08-20,Platinum
+2167,Male,53,High,Social Media,Glasgow,2022-11-12,Platinum
+2168,Male,27,High,Referral,Leeds,2024-04-17,Gold
+2169,Female,45,Medium,In-Store Walk-in,Bicester,2023-02-15,Silver
+2170,Male,34,High,In-Store Walk-in,Ashford,2022-09-02,Gold
+2171,Male,36,Medium,Email,Bath,2023-01-22,Silver
+2172,Female,35,Medium,Referral,Liverpool,2023-11-20,Gold
+2173,Male,27,High,Social Media,Cheshire,2022-12-24,Gold
+2174,Other,37,Ultra-High,Email,Leeds,2024-10-18,Gold
+2175,Female,37,Medium,Email,York,2023-09-06,Silver
+2176,Female,40,Medium,Organic Search,Cheshire,2024-03-08,Silver
+2177,Male,39,High,Referral,Newcastle,2022-01-22,Gold
+2178,Male,47,High,Email,Cheshire,2022-01-19,Gold
+2179,Female,49,High,Social Media,Manchester,2022-10-03,Gold
+2180,Female,25,High,Organic Search,Glasgow,2023-10-21,Gold
+2181,Female,48,Low,Social Media,Sheffield,2024-06-16,Silver
+2182,Male,23,Ultra-High,In-Store Walk-in,Liverpool,2023-07-06,Platinum
+2183,Female,45,High,Organic Search,Leeds,2023-11-10,Platinum
+2184,Female,45,Ultra-High,Organic Search,Leeds,2023-08-26,Gold
+2185,Female,18,High,Email,Oxford,2022-12-31,Platinum
+2186,Female,39,Ultra-High,In-Store Walk-in,Manchester,2024-03-05,Gold
+2187,Female,32,Medium,Email,Bristol,2023-10-14,Silver
+2188,Female,28,Medium,Referral,Glasgow,2023-08-13,Silver
+2189,Male,54,Ultra-High,Social Media,Oxford,2022-07-18,Gold
+2190,Female,30,Medium,Social Media,Liverpool,2022-01-17,Gold
+2191,Male,28,Low,Email,Leeds,2022-08-06,Silver
+2192,Male,38,High,Social Media,Edinburgh,2024-01-11,Gold
+2193,Male,46,High,Social Media,Bristol,2023-10-12,Platinum
+2194,Male,36,Medium,Referral,Newcastle,2022-05-27,Silver
+2195,Male,51,Ultra-High,In-Store Walk-in,London,2023-11-01,Gold
+2196,Male,44,High,Organic Search,Newcastle,2023-10-27,Gold
+2197,Female,18,High,Email,London,2024-05-05,Platinum
+2198,Female,31,High,Email,Birmingham,2022-11-26,Platinum
+2199,Male,31,Medium,Referral,Bristol,2024-06-13,Silver
+2200,Female,43,Medium,Referral,York,2022-04-11,Silver
+2201,Female,18,Medium,Organic Search,York,2022-11-23,Silver
+2202,Male,68,High,In-Store Walk-in,Nottingham,2022-11-23,Platinum
+2203,Male,44,High,Email,Glasgow,2022-01-10,Platinum
+2204,Female,39,High,Referral,Leeds,2022-12-19,Gold
+2205,Female,52,High,Email,Cambridge,2022-07-02,Gold
+2206,Female,66,High,Social Media,Liverpool,2023-03-31,Platinum
+2207,Male,48,High,Email,Bristol,2022-01-06,Gold
+2208,Male,49,Medium,In-Store Walk-in,Cheshire,2022-07-30,Silver
+2209,Male,39,Low,In-Store Walk-in,Liverpool,2022-02-20,Silver
+2210,Male,36,Ultra-High,Email,Sheffield,2024-10-06,Gold
+2211,Male,32,Low,Social Media,Liverpool,2023-01-12,Silver
+2212,Male,28,Medium,In-Store Walk-in,Cheshire,2023-10-02,Gold
+2213,Female,29,High,Referral,Oxford,2024-02-09,Platinum
+2214,Female,21,Medium,Email,Bicester,2024-12-10,Silver
+2215,Male,37,Ultra-High,Social Media,Sheffield,2022-06-03,Platinum
+2216,Female,18,Medium,Referral,Bath,2023-08-05,Silver
+2217,Male,40,Low,Email,Leeds,2024-02-27,Silver
+2218,Male,37,Medium,Social Media,Cheshire,2024-03-01,Gold
+2219,Male,39,High,Referral,Cambridge,2022-05-14,Platinum
+2220,Female,31,Medium,In-Store Walk-in,Ashford,2022-08-08,Silver
+2221,Female,74,High,Email,Oxford,2022-06-12,Platinum
+2222,Female,54,Ultra-High,Email,Bath,2024-08-28,Platinum
+2223,Male,23,Ultra-High,In-Store Walk-in,Cambridge,2023-10-10,Gold
+2224,Female,40,Medium,Organic Search,Bristol,2023-07-23,Silver
+2225,Male,30,Medium,Referral,Sheffield,2024-08-03,Silver
+2226,Female,25,High,In-Store Walk-in,Birmingham,2023-11-20,Platinum
+2227,Female,21,Ultra-High,Email,Bristol,2022-04-25,Gold
+2228,Male,43,Ultra-High,Referral,Oxford,2022-05-03,Platinum
+2229,Female,29,Medium,Referral,Glasgow,2024-03-14,Silver
+2230,Female,49,High,Organic Search,Liverpool,2024-04-18,Gold
+2231,Male,49,Medium,Email,London,2024-12-28,Silver
+2232,Female,54,Low,Social Media,Leeds,2024-04-05,Silver
+2233,Male,27,Low,Organic Search,Bristol,2022-03-04,Silver
+2234,Female,43,Medium,Organic Search,Leeds,2024-01-03,Silver
+2235,Female,45,Medium,Social Media,Sheffield,2024-11-05,Silver
+2236,Female,32,Low,Social Media,Cambridge,2023-08-13,Silver
+2237,Female,28,High,Organic Search,Cheshire,2024-08-05,Platinum
+2238,Female,57,Medium,Referral,Nottingham,2022-08-05,Silver
+2239,Male,40,High,In-Store Walk-in,York,2023-04-24,Gold
+2240,Female,45,Medium,In-Store Walk-in,Liverpool,2024-09-03,Gold
+2241,Male,28,Medium,Organic Search,Sheffield,2022-08-25,Silver
+2242,Female,23,Medium,Referral,York,2023-04-21,Silver
+2243,Male,31,Medium,Social Media,Nottingham,2023-08-21,Silver
+2244,Male,36,High,Organic Search,York,2022-05-09,Platinum
+2245,Female,25,Medium,Email,Edinburgh,2023-05-25,Silver
+2246,Male,37,High,Referral,Nottingham,2022-06-14,Gold
+2247,Female,18,Medium,Email,Sheffield,2022-10-04,Silver
+2248,Male,24,High,Email,Oxford,2022-09-14,Gold
+2249,Male,46,High,Organic Search,Edinburgh,2024-09-18,Gold
+2250,Female,45,Medium,Referral,Bath,2023-07-24,Silver
+2251,Male,33,Medium,Email,Bicester,2022-05-21,Silver
+2252,Male,25,Low,Referral,Manchester,2023-11-17,Gold
+2253,Female,25,High,In-Store Walk-in,Liverpool,2023-11-18,Gold
+2254,Male,33,Medium,Email,Glasgow,2023-12-17,Silver
+2255,Female,45,High,Email,Leeds,2024-10-19,Platinum
+2256,Male,49,High,Referral,Sheffield,2024-12-10,Gold
+2257,Male,32,Ultra-High,In-Store Walk-in,Cambridge,2022-06-27,Platinum
+2258,Female,24,High,Email,Ashford,2024-07-10,Gold
+2259,Male,41,High,Organic Search,Newcastle,2023-06-27,Gold
+2260,Male,28,Medium,Referral,London,2024-08-20,Silver
+2261,Male,31,Ultra-High,Referral,Birmingham,2022-12-30,Gold
+2262,Male,53,High,Email,Ashford,2024-12-14,Gold
+2263,Female,47,Medium,In-Store Walk-in,Bristol,2024-12-03,Silver
+2264,Male,39,High,Email,London,2023-08-16,Gold
+2265,Female,22,Medium,Social Media,Bicester,2023-06-26,Silver
+2266,Female,40,High,Email,Cheshire,2022-11-18,Gold
+2267,Male,50,High,Social Media,Cambridge,2023-10-10,Platinum
+2268,Female,33,Medium,Organic Search,Nottingham,2022-01-14,Gold
+2269,Male,54,High,Referral,Glasgow,2023-09-10,Platinum
+2270,Female,53,Medium,Referral,London,2022-12-25,Gold
+2271,Male,57,Medium,In-Store Walk-in,Cheshire,2022-07-13,Silver
+2272,Female,41,Medium,Email,Leeds,2022-12-29,Silver
+2273,Female,45,High,Organic Search,Nottingham,2024-11-29,Platinum
+2274,Male,54,Medium,Social Media,Liverpool,2024-02-07,Silver
+2275,Female,43,Low,In-Store Walk-in,Bicester,2023-02-01,Silver
+2276,Female,31,High,Organic Search,Ashford,2022-04-17,Gold
+2277,Male,32,Medium,Organic Search,Bicester,2024-11-06,Gold
+2278,Male,40,Medium,Social Media,York,2023-06-11,Silver
+2279,Female,22,Medium,Social Media,Cambridge,2024-10-07,Gold
+2280,Female,36,Medium,Referral,Sheffield,2024-02-23,Silver
+2281,Female,51,Medium,Email,Manchester,2023-06-09,Silver
+2282,Female,18,Low,In-Store Walk-in,Bath,2024-12-02,Silver
+2283,Female,56,Ultra-High,Email,Birmingham,2023-09-18,Platinum
+2284,Female,51,High,In-Store Walk-in,Manchester,2022-12-16,Platinum
+2285,Male,32,Medium,Organic Search,London,2024-11-19,Silver
+2286,Male,44,Medium,Social Media,Oxford,2024-10-02,Silver
+2287,Female,38,Medium,Social Media,Nottingham,2023-06-26,Silver
+2288,Female,52,High,Organic Search,London,2024-08-19,Gold
+2289,Male,49,Medium,Organic Search,Ashford,2022-04-04,Silver
+2290,Male,21,Medium,In-Store Walk-in,Bicester,2024-06-17,Silver
+2291,Female,45,Ultra-High,Organic Search,Ashford,2022-03-30,Gold
+2292,Female,35,Medium,In-Store Walk-in,Newcastle,2023-05-18,Gold
+2293,Male,38,Medium,Email,London,2024-02-06,Silver
+2294,Male,29,Ultra-High,Social Media,Nottingham,2022-08-02,Gold
+2295,Male,58,High,Social Media,Ashford,2023-06-10,Gold
+2296,Male,50,Medium,Social Media,Manchester,2022-07-11,Silver
+2297,Male,29,High,Email,Bicester,2023-11-25,Gold
+2298,Male,21,Low,Email,York,2023-10-04,Silver
+2299,Female,33,High,Referral,Cheshire,2023-07-09,Platinum
+2300,Male,43,Medium,In-Store Walk-in,Bicester,2023-01-22,Silver
+2301,Female,40,High,In-Store Walk-in,London,2023-11-12,Gold
+2302,Female,53,Ultra-High,Referral,Cambridge,2024-02-15,Gold
+2303,Male,47,Ultra-High,Social Media,Bicester,2022-07-22,Gold
+2304,Female,49,Ultra-High,In-Store Walk-in,Glasgow,2024-10-06,Gold
+2305,Male,41,High,In-Store Walk-in,Cambridge,2023-03-23,Gold
+2306,Female,21,Medium,Social Media,Liverpool,2024-06-18,Gold
+2307,Male,35,Medium,Organic Search,Birmingham,2024-12-27,Silver
+2308,Female,50,High,Organic Search,Glasgow,2024-02-17,Platinum
+2309,Female,37,Ultra-High,Referral,London,2022-06-27,Gold
+2310,Male,44,Medium,Email,Sheffield,2024-04-08,Silver
+2311,Male,34,Ultra-High,In-Store Walk-in,Cheshire,2023-07-13,Gold
+2312,Female,25,High,In-Store Walk-in,Bicester,2024-10-23,Platinum
+2313,Female,36,Ultra-High,Referral,Bicester,2022-04-13,Gold
+2314,Male,41,Ultra-High,Referral,Sheffield,2022-04-26,Gold
+2315,Female,30,Medium,In-Store Walk-in,Edinburgh,2024-05-08,Silver
+2316,Male,35,Medium,Social Media,Liverpool,2023-04-09,Silver
+2317,Female,26,Medium,Social Media,Liverpool,2022-04-14,Silver
+2318,Male,51,Medium,Email,Liverpool,2022-09-16,Silver
+2319,Female,34,High,In-Store Walk-in,Leeds,2024-07-17,Gold
+2320,Male,55,High,In-Store Walk-in,Nottingham,2024-03-20,Platinum
+2321,Male,56,Ultra-High,In-Store Walk-in,London,2023-10-04,Platinum
+2322,Male,37,High,In-Store Walk-in,Manchester,2024-03-17,Gold
+2323,Male,25,Low,Referral,Glasgow,2024-10-19,Silver
+2324,Female,18,Medium,Organic Search,London,2023-07-14,Silver
+2325,Male,20,Low,In-Store Walk-in,Leeds,2022-01-27,Gold
+2326,Female,21,Medium,Organic Search,Leeds,2023-05-23,Gold
+2327,Male,54,High,Social Media,Glasgow,2023-06-11,Gold
+2328,Male,39,Low,Email,Sheffield,2024-02-14,Silver
+2329,Male,42,Medium,Social Media,Newcastle,2024-08-10,Gold
+2330,Male,18,Medium,In-Store Walk-in,York,2022-10-25,Silver
+2331,Male,23,High,Social Media,Ashford,2024-02-16,Gold
+2332,Male,48,Medium,Referral,Cheshire,2022-12-27,Gold
+2333,Female,41,Medium,Organic Search,Newcastle,2023-05-19,Gold
+2334,Male,36,Medium,In-Store Walk-in,York,2023-08-11,Gold
+2335,Female,44,Ultra-High,Referral,Birmingham,2022-01-30,Gold
+2336,Female,57,Medium,Organic Search,Cheshire,2022-05-06,Silver
+2337,Male,35,High,Referral,Nottingham,2023-08-19,Gold
+2338,Male,38,High,Social Media,London,2022-09-20,Platinum
+2339,Female,40,High,In-Store Walk-in,Edinburgh,2024-07-24,Gold
+2340,Female,66,Ultra-High,Social Media,Nottingham,2024-05-21,Gold
+2341,Female,18,Medium,Email,London,2022-01-02,Gold
+2342,Male,46,Medium,In-Store Walk-in,York,2023-01-29,Silver
+2343,Female,36,Low,Social Media,Manchester,2022-11-02,Silver
+2344,Female,44,High,In-Store Walk-in,Glasgow,2023-06-14,Gold
+2345,Female,30,Medium,Organic Search,Bicester,2023-06-12,Silver
+2346,Female,37,Medium,In-Store Walk-in,Bicester,2024-08-22,Silver
+2347,Male,46,High,In-Store Walk-in,York,2023-11-02,Platinum
+2348,Male,75,High,Organic Search,Bristol,2022-12-18,Gold
+2349,Female,47,Low,Social Media,Cheshire,2024-03-20,Gold
+2350,Female,27,High,In-Store Walk-in,Oxford,2022-07-28,Gold
+2351,Male,32,High,Referral,Manchester,2024-08-15,Gold
+2352,Male,32,Medium,In-Store Walk-in,Oxford,2022-07-24,Silver
+2353,Male,18,Medium,Social Media,York,2023-09-17,Silver
+2354,Male,34,High,Organic Search,York,2023-12-22,Gold
+2355,Female,46,High,Social Media,Leeds,2023-09-28,Platinum
+2356,Female,22,Medium,Email,Newcastle,2024-11-04,Gold
+2357,Male,50,Medium,In-Store Walk-in,Liverpool,2024-05-07,Silver
+2358,Male,43,High,In-Store Walk-in,Cambridge,2023-04-21,Gold
+2359,Male,29,Ultra-High,Organic Search,London,2022-10-25,Gold
+2360,Male,36,High,In-Store Walk-in,York,2023-07-11,Platinum
+2361,Female,57,Low,Referral,Oxford,2022-04-17,Silver
+2362,Female,46,Medium,Referral,London,2022-05-08,Silver
+2363,Female,38,Ultra-High,Social Media,London,2023-04-04,Gold
+2364,Male,35,Low,Organic Search,Cheshire,2022-02-07,Silver
+2365,Female,38,Ultra-High,Email,Oxford,2022-07-17,Gold
+2366,Female,31,Ultra-High,Social Media,Bicester,2022-12-23,Gold
+2367,Female,18,Low,Organic Search,Cheshire,2022-01-07,Gold
+2368,Male,62,Ultra-High,Organic Search,Oxford,2023-06-03,Platinum
+2369,Male,39,Medium,Social Media,Bicester,2022-07-13,Silver
+2370,Male,42,High,Social Media,Ashford,2022-11-12,Platinum
+2371,Male,37,Medium,In-Store Walk-in,Leeds,2024-10-21,Silver
+2372,Male,29,Medium,Email,Cambridge,2024-12-21,Silver
+2373,Male,35,High,Referral,Liverpool,2022-12-09,Platinum
+2374,Female,18,High,In-Store Walk-in,Birmingham,2023-08-24,Platinum
+2375,Female,65,Low,Organic Search,London,2024-11-07,Silver
+2376,Male,23,High,Email,Liverpool,2023-09-12,Gold
+2377,Male,25,Medium,Email,Sheffield,2024-04-01,Silver
+2378,Female,32,Medium,Social Media,Bicester,2022-08-23,Silver
+2379,Female,53,Medium,Email,Edinburgh,2024-12-28,Silver
+2380,Female,38,Medium,Email,Cambridge,2023-03-23,Silver
+2381,Other,23,Medium,Organic Search,Birmingham,2023-09-02,Silver
+2382,Female,53,Medium,In-Store Walk-in,Glasgow,2022-01-08,Silver
+2383,Female,46,Medium,Email,Manchester,2023-04-07,Silver
+2384,Male,44,Low,Social Media,Edinburgh,2024-09-26,Silver
+2385,Male,46,Medium,In-Store Walk-in,London,2022-05-14,Silver
+2386,Male,66,Ultra-High,Social Media,London,2023-01-20,Platinum
+2387,Male,64,Medium,Email,Oxford,2022-02-25,Silver
+2388,Male,29,Ultra-High,In-Store Walk-in,Cheshire,2024-09-19,Platinum
+2389,Female,57,High,Email,Bristol,2022-05-18,Gold
+2390,Female,42,High,Organic Search,Bath,2023-06-19,Gold
+2391,Female,43,High,In-Store Walk-in,Bath,2022-05-24,Platinum
+2392,Male,18,High,Social Media,Nottingham,2024-05-18,Gold
+2393,Female,35,Medium,Organic Search,Bristol,2023-10-18,Silver
+2394,Female,28,High,Referral,Liverpool,2022-02-25,Platinum
+2395,Male,47,High,Social Media,Birmingham,2023-09-12,Gold
+2396,Female,50,High,Email,Bath,2024-10-26,Gold
+2397,Male,18,High,Social Media,Ashford,2023-06-26,Gold
+2398,Male,37,Low,Referral,Cheshire,2023-03-23,Silver
+2399,Female,51,High,Social Media,London,2024-05-23,Gold
+2400,Male,35,High,Organic Search,Nottingham,2023-10-01,Platinum
+2401,Male,46,Medium,Social Media,Bristol,2023-09-03,Silver
+2402,Female,42,Medium,In-Store Walk-in,Manchester,2024-04-16,Silver
+2403,Female,42,High,Referral,Leeds,2024-02-19,Gold
+2404,Male,34,Ultra-High,Social Media,Cheshire,2024-04-16,Gold
+2405,Male,23,Medium,Referral,Glasgow,2023-05-25,Silver
+2406,Male,24,High,Organic Search,Birmingham,2024-03-22,Gold
+2407,Female,46,Medium,In-Store Walk-in,London,2023-07-18,Silver
+2408,Male,38,Medium,Email,Cambridge,2022-09-22,Silver
+2409,Male,36,Low,Social Media,Liverpool,2022-01-10,Silver
+2410,Female,32,Low,Organic Search,Liverpool,2022-10-29,Silver
+2411,Female,34,Medium,Referral,Edinburgh,2024-03-15,Gold
+2412,Male,50,Medium,Referral,Birmingham,2024-12-11,Gold
+2413,Female,33,High,Organic Search,Ashford,2022-04-09,Gold
+2414,Female,21,High,Social Media,Glasgow,2023-08-16,Gold
+2415,Male,46,Low,Email,London,2024-11-02,Gold
+2416,Male,35,Medium,Social Media,Oxford,2022-12-23,Silver
+2417,Female,38,Medium,In-Store Walk-in,Nottingham,2024-07-16,Silver
+2418,Male,57,High,Social Media,Nottingham,2022-01-11,Gold
+2419,Female,37,Medium,In-Store Walk-in,Oxford,2022-03-22,Silver
+2420,Male,41,Medium,Referral,Cambridge,2022-01-06,Silver
+2421,Male,23,Ultra-High,In-Store Walk-in,York,2023-01-08,Platinum
+2422,Male,35,High,Email,Leeds,2023-04-26,Gold
+2423,Male,45,Medium,Organic Search,Nottingham,2022-08-10,Silver
+2424,Male,19,Medium,In-Store Walk-in,Edinburgh,2023-05-30,Silver
+2425,Male,40,Medium,Social Media,Newcastle,2024-12-19,Silver
+2426,Female,39,High,In-Store Walk-in,Sheffield,2022-08-09,Platinum
+2427,Other,38,High,Referral,Cambridge,2022-12-15,Gold
+2428,Female,50,Medium,In-Store Walk-in,Bath,2022-08-16,Silver
+2429,Female,42,High,Email,Birmingham,2022-10-17,Gold
+2430,Male,55,Medium,In-Store Walk-in,Nottingham,2022-10-20,Silver
+2431,Female,26,Medium,Email,Edinburgh,2024-03-20,Silver
+2432,Male,39,Medium,Social Media,York,2024-08-13,Silver
+2433,Female,39,Medium,Referral,Oxford,2023-01-23,Silver
+2434,Other,25,Medium,Organic Search,Glasgow,2023-09-07,Gold
+2435,Female,49,Medium,Social Media,Bath,2023-01-01,Silver
+2436,Other,65,Medium,Social Media,York,2023-10-20,Silver
+2437,Female,37,Low,Organic Search,Manchester,2022-10-17,Silver
+2438,Male,44,High,In-Store Walk-in,Ashford,2022-07-08,Gold
+2439,Male,39,Medium,In-Store Walk-in,Glasgow,2024-07-06,Silver
+2440,Female,29,Low,In-Store Walk-in,Nottingham,2024-07-12,Silver
+2441,Male,18,High,Referral,London,2024-09-14,Gold
+2442,Female,29,High,Social Media,Glasgow,2023-01-10,Gold
+2443,Other,21,High,Email,Manchester,2024-01-30,Gold
+2444,Male,58,Medium,Organic Search,London,2022-08-05,Silver
+2445,Female,36,Medium,Social Media,Liverpool,2024-12-01,Silver
+2446,Female,33,High,In-Store Walk-in,Cheshire,2022-07-13,Platinum
+2447,Female,48,High,Organic Search,Newcastle,2022-06-12,Platinum
+2448,Female,24,Medium,Email,Liverpool,2022-10-03,Gold
+2449,Female,28,Ultra-High,Social Media,Birmingham,2022-12-30,Platinum
+2450,Female,38,Medium,Social Media,Leeds,2024-02-14,Silver
+2451,Female,50,Ultra-High,Referral,Liverpool,2023-04-25,Gold
+2452,Male,44,Ultra-High,Social Media,Glasgow,2023-11-20,Gold
+2453,Male,40,High,Social Media,Bath,2023-04-05,Gold
+2454,Female,38,Ultra-High,Email,Cambridge,2023-06-23,Gold
+2455,Male,42,High,Email,York,2024-08-31,Gold
+2456,Female,40,Medium,Organic Search,London,2022-03-26,Silver
+2457,Female,25,Medium,In-Store Walk-in,Bristol,2022-08-31,Silver
+2458,Male,38,Low,Email,Oxford,2024-05-29,Silver
+2459,Female,25,Medium,Organic Search,Ashford,2023-10-19,Silver
+2460,Female,38,High,Social Media,Bristol,2022-03-29,Gold
+2461,Female,32,Medium,Organic Search,Oxford,2024-01-12,Gold
+2462,Male,68,Medium,Organic Search,Glasgow,2024-09-11,Silver
+2463,Male,37,High,Organic Search,Liverpool,2023-04-16,Gold
+2464,Male,21,Ultra-High,Organic Search,Manchester,2023-02-20,Gold
+2465,Female,36,Low,Email,Oxford,2024-12-10,Silver
+2466,Male,44,Medium,In-Store Walk-in,Bristol,2023-11-13,Silver
+2467,Female,58,Medium,Organic Search,Sheffield,2024-12-22,Gold
+2468,Male,30,High,Referral,London,2024-06-17,Gold
+2469,Male,19,Medium,Social Media,London,2023-08-24,Silver
+2470,Female,47,High,Social Media,Glasgow,2024-02-15,Gold
+2471,Female,21,Medium,Social Media,Cheshire,2024-06-19,Gold
+2472,Male,32,Medium,Social Media,Glasgow,2023-04-28,Silver
+2473,Male,34,Ultra-High,Social Media,Newcastle,2022-06-18,Gold
+2474,Male,37,Low,Organic Search,Cheshire,2022-05-27,Gold
+2475,Female,46,Medium,In-Store Walk-in,Birmingham,2023-03-15,Gold
+2476,Female,29,Low,Referral,Ashford,2024-06-06,Gold
+2477,Male,34,Medium,Email,Oxford,2022-06-09,Silver
+2478,Male,37,High,Referral,Bristol,2024-03-24,Gold
+2479,Male,39,Medium,Email,Oxford,2023-02-06,Silver
+2480,Female,39,Medium,Email,Leeds,2023-08-09,Silver
+2481,Other,43,Medium,Referral,Nottingham,2024-05-13,Silver
+2482,Male,48,High,Organic Search,Cambridge,2024-11-07,Gold
+2483,Female,42,High,Social Media,York,2022-05-20,Platinum
+2484,Male,43,High,Organic Search,Cambridge,2022-11-24,Gold
+2485,Male,19,High,Social Media,Newcastle,2022-08-13,Platinum
+2486,Female,38,Medium,In-Store Walk-in,London,2023-07-12,Silver
+2487,Female,43,Medium,Email,Sheffield,2023-03-15,Silver
+2488,Female,46,Medium,Referral,Liverpool,2023-01-21,Gold
+2489,Female,29,Medium,In-Store Walk-in,Bath,2023-06-05,Silver
+2490,Male,30,Medium,Social Media,Glasgow,2023-09-12,Silver
+2491,Female,31,High,Organic Search,Bicester,2024-02-26,Gold
+2492,Male,44,High,Referral,Leeds,2024-12-30,Gold
+2493,Female,50,Ultra-High,Email,Oxford,2023-07-05,Gold
+2494,Male,33,Medium,In-Store Walk-in,Liverpool,2023-03-23,Silver
+2495,Female,48,High,Email,Bicester,2022-04-17,Gold
+2496,Male,39,High,Social Media,Liverpool,2024-07-04,Gold
+2497,Male,36,High,Email,Ashford,2024-06-22,Platinum
+2498,Female,35,Medium,Organic Search,Cheshire,2023-06-28,Silver
+2499,Male,46,Medium,In-Store Walk-in,Bristol,2022-10-07,Gold
+2500,Female,41,Low,In-Store Walk-in,Glasgow,2022-01-24,Silver
+2501,Male,65,Medium,Organic Search,Oxford,2024-08-09,Silver
+2502,Male,27,High,Email,Bicester,2022-04-30,Gold
+2503,Male,44,Low,Organic Search,Cambridge,2024-05-04,Gold
+2504,Male,31,Medium,Referral,Liverpool,2024-10-12,Silver
+2505,Female,27,High,Organic Search,York,2024-08-01,Gold
+2506,Male,37,High,Email,Bristol,2023-03-24,Platinum
+2507,Female,39,Medium,Organic Search,Ashford,2024-09-22,Silver
+2508,Female,73,High,Social Media,Bristol,2024-11-13,Platinum
+2509,Male,35,Medium,Organic Search,Cheshire,2024-12-20,Gold
+2510,Female,24,Medium,Organic Search,London,2022-03-25,Gold
+2511,Female,41,Medium,Email,Manchester,2022-08-13,Silver
+2512,Female,18,High,Referral,Bristol,2022-07-05,Platinum
+2513,Male,36,Ultra-High,Referral,Oxford,2023-01-10,Gold
+2514,Male,38,Low,Email,Birmingham,2022-03-13,Silver
+2515,Female,47,High,Email,Bath,2022-03-15,Gold
+2516,Female,49,Medium,Email,Bath,2022-06-02,Gold
+2517,Female,31,High,Social Media,Liverpool,2022-04-06,Gold
+2518,Male,36,Low,In-Store Walk-in,London,2023-03-21,Silver
+2519,Female,28,Medium,Organic Search,Liverpool,2024-04-07,Silver
+2520,Male,24,High,Email,Edinburgh,2024-12-10,Gold
+2521,Female,41,High,Email,Birmingham,2023-01-12,Gold
+2522,Male,22,Medium,Email,Sheffield,2024-02-04,Silver
+2523,Female,33,Medium,Referral,London,2022-07-31,Silver
+2524,Male,26,Medium,Email,Nottingham,2023-12-25,Silver
+2525,Male,44,Medium,Organic Search,Bath,2024-02-14,Gold
+2526,Female,59,High,Email,Edinburgh,2022-11-27,Gold
+2527,Male,22,Ultra-High,Organic Search,London,2024-01-21,Platinum
+2528,Male,18,Medium,Social Media,Ashford,2024-04-03,Silver
+2529,Male,36,Medium,In-Store Walk-in,Bath,2023-01-29,Silver
+2530,Female,38,High,Referral,Nottingham,2023-05-27,Gold
+2531,Female,40,Medium,Organic Search,Liverpool,2023-11-17,Silver
+2532,Male,32,High,Social Media,Oxford,2023-09-13,Platinum
+2533,Female,35,Medium,In-Store Walk-in,Ashford,2023-08-27,Silver
+2534,Female,42,High,In-Store Walk-in,London,2023-12-19,Gold
+2535,Male,50,High,In-Store Walk-in,Edinburgh,2022-12-15,Platinum
+2536,Female,18,High,Organic Search,London,2023-05-30,Gold
+2537,Female,33,High,Social Media,Leeds,2023-02-03,Gold
+2538,Female,40,Medium,Email,York,2022-08-02,Silver
+2539,Male,26,High,Social Media,Bath,2023-07-16,Platinum
+2540,Female,58,High,Social Media,London,2022-09-15,Platinum
+2541,Female,30,Medium,Social Media,York,2023-11-25,Gold
+2542,Male,37,Medium,Organic Search,Bath,2024-11-29,Silver
+2543,Male,44,Low,Organic Search,Cambridge,2024-09-24,Silver
+2544,Male,30,Medium,Organic Search,Cambridge,2024-03-30,Silver
+2545,Male,18,Medium,Social Media,Leeds,2022-07-29,Silver
+2546,Female,32,High,Organic Search,York,2022-09-29,Gold
+2547,Male,50,Medium,In-Store Walk-in,Edinburgh,2023-08-22,Silver
+2548,Male,33,Ultra-High,Organic Search,London,2024-12-19,Platinum
+2549,Female,27,Medium,Referral,Leeds,2024-11-04,Silver
+2550,Male,49,Medium,Organic Search,Sheffield,2024-10-19,Silver
+2551,Female,34,Medium,Organic Search,Cambridge,2022-09-12,Silver
+2552,Male,31,Medium,Organic Search,Sheffield,2024-01-07,Silver
+2553,Male,39,Medium,Organic Search,Leeds,2023-12-23,Silver
+2554,Male,47,Medium,Referral,Bristol,2023-06-19,Gold
+2555,Male,66,Medium,Email,Manchester,2024-10-20,Silver
+2556,Male,47,High,Organic Search,Ashford,2022-01-17,Platinum
+2557,Female,51,High,In-Store Walk-in,Bicester,2024-05-31,Gold
+2558,Female,31,Medium,Referral,Glasgow,2024-08-11,Silver
+2559,Male,25,High,Email,Cambridge,2024-04-05,Gold
+2560,Female,38,High,Organic Search,Edinburgh,2024-09-18,Gold
+2561,Female,39,Medium,Email,Leeds,2024-05-27,Silver
+2562,Female,25,Ultra-High,In-Store Walk-in,Leeds,2022-07-04,Gold
+2563,Male,35,High,Referral,Nottingham,2024-11-01,Platinum
+2564,Male,42,Medium,Referral,Cambridge,2022-03-21,Gold
+2565,Male,42,Medium,Email,Glasgow,2024-03-19,Silver
+2566,Female,44,Medium,Organic Search,Bristol,2022-10-29,Silver
+2567,Female,41,Medium,Social Media,Bath,2022-05-13,Gold
+2568,Male,31,High,Referral,Cambridge,2024-10-25,Gold
+2569,Male,31,Medium,Social Media,Cheshire,2024-01-26,Gold
+2570,Female,23,High,Referral,Birmingham,2023-09-21,Gold
+2571,Female,59,High,Organic Search,Bicester,2024-10-06,Gold
+2572,Other,38,High,Organic Search,London,2024-02-12,Platinum
+2573,Female,35,High,Referral,London,2022-05-21,Platinum
+2574,Male,26,Low,Email,Newcastle,2023-04-28,Silver
+2575,Female,73,Medium,Organic Search,York,2022-12-11,Silver
+2576,Female,25,High,Organic Search,Bristol,2023-04-19,Platinum
+2577,Male,32,Low,In-Store Walk-in,Manchester,2024-12-30,Silver
+2578,Female,42,Low,Organic Search,Birmingham,2022-06-24,Silver
+2579,Female,45,Ultra-High,In-Store Walk-in,York,2024-04-21,Platinum
+2580,Male,49,High,Organic Search,Oxford,2024-05-15,Gold
+2581,Female,59,Medium,Organic Search,York,2023-04-14,Gold
+2582,Female,44,High,Email,Glasgow,2023-10-06,Gold
+2583,Female,25,High,Email,Bath,2023-11-12,Platinum
+2584,Male,34,Medium,Organic Search,London,2024-08-12,Silver
+2585,Male,41,Low,Referral,Cambridge,2024-04-28,Silver
+2586,Female,62,Ultra-High,Referral,Liverpool,2022-08-29,Gold
+2587,Male,21,Medium,Organic Search,Newcastle,2023-12-03,Silver
+2588,Female,52,Medium,Referral,York,2022-12-06,Gold
+2589,Female,40,Medium,Organic Search,London,2024-03-03,Silver
+2590,Male,48,High,Email,Bicester,2024-01-14,Gold
+2591,Female,36,Medium,Social Media,Liverpool,2023-04-08,Silver
+2592,Female,27,Medium,In-Store Walk-in,Liverpool,2024-03-11,Silver
+2593,Male,47,Medium,Referral,London,2022-01-15,Silver
+2594,Female,45,Ultra-High,Referral,Liverpool,2024-11-30,Gold
+2595,Female,49,Medium,Email,Bicester,2022-07-27,Gold
+2596,Female,37,High,Referral,Glasgow,2024-12-19,Gold
+2597,Female,30,Ultra-High,Organic Search,Cambridge,2022-12-31,Gold
+2598,Male,19,Medium,Organic Search,Bath,2023-08-31,Gold
+2599,Female,47,Ultra-High,Social Media,London,2022-06-09,Platinum
+2600,Female,43,Ultra-High,Social Media,Manchester,2023-02-01,Platinum
+2601,Female,26,Ultra-High,Social Media,Nottingham,2024-03-04,Gold
+2602,Female,31,Medium,Organic Search,London,2023-05-15,Gold
+2603,Male,32,High,Social Media,Cheshire,2022-07-28,Platinum
+2604,Female,20,High,Social Media,London,2023-03-09,Gold
+2605,Male,28,Ultra-High,Organic Search,Leeds,2023-09-01,Gold
+2606,Male,24,Medium,Email,Leeds,2023-01-24,Silver
+2607,Male,33,High,Referral,Cambridge,2024-09-23,Gold
+2608,Female,29,Medium,In-Store Walk-in,Bicester,2023-08-06,Silver
+2609,Female,18,Medium,Organic Search,Glasgow,2023-03-08,Silver
+2610,Female,62,Medium,Organic Search,Nottingham,2022-12-17,Silver
+2611,Female,53,High,In-Store Walk-in,Birmingham,2022-05-14,Platinum
+2612,Female,28,Medium,In-Store Walk-in,Cambridge,2024-12-25,Gold
+2613,Female,41,High,Social Media,Nottingham,2023-10-01,Gold
+2614,Female,43,Ultra-High,In-Store Walk-in,Newcastle,2022-04-27,Gold
+2615,Male,52,Medium,Referral,Cheshire,2022-05-29,Gold
+2616,Male,28,High,Referral,Oxford,2022-06-28,Gold
+2617,Female,51,Medium,Referral,Liverpool,2022-05-28,Gold
+2618,Female,31,Medium,Referral,Bath,2023-04-10,Silver
+2619,Male,21,High,Referral,Bath,2024-09-02,Gold
+2620,Male,46,Ultra-High,Social Media,Edinburgh,2023-07-23,Gold
+2621,Female,53,High,Organic Search,Bristol,2024-10-25,Gold
+2622,Male,69,High,In-Store Walk-in,Glasgow,2023-06-10,Gold
+2623,Female,23,Low,Organic Search,Ashford,2022-10-07,Silver
+2624,Female,46,Medium,In-Store Walk-in,Sheffield,2023-05-14,Silver
+2625,Male,33,High,Social Media,Ashford,2024-04-15,Gold
+2626,Male,47,Low,Social Media,Glasgow,2023-03-12,Silver
+2627,Female,20,Medium,Email,Glasgow,2024-03-26,Gold
+2628,Female,22,High,Email,Sheffield,2023-11-18,Gold
+2629,Female,28,Low,Social Media,Cheshire,2024-04-07,Silver
+2630,Female,38,Medium,Social Media,Newcastle,2024-08-26,Silver
+2631,Male,30,High,In-Store Walk-in,Glasgow,2023-09-04,Gold
+2632,Female,45,High,Social Media,Bristol,2023-08-18,Gold
+2633,Female,50,Ultra-High,Organic Search,Ashford,2022-05-12,Platinum
+2634,Female,45,High,In-Store Walk-in,Edinburgh,2023-01-28,Gold
+2635,Male,57,Medium,Social Media,Birmingham,2023-04-26,Silver
+2636,Female,42,Ultra-High,In-Store Walk-in,Liverpool,2023-09-20,Gold
+2637,Female,23,High,In-Store Walk-in,Bicester,2023-02-23,Platinum
+2638,Male,54,Medium,Referral,Oxford,2023-10-14,Silver
+2639,Male,30,Medium,Email,Ashford,2023-10-20,Silver
+2640,Female,48,High,In-Store Walk-in,Newcastle,2023-04-07,Gold
+2641,Male,56,High,In-Store Walk-in,Bicester,2022-06-01,Platinum
+2642,Male,43,High,Referral,Sheffield,2022-08-10,Gold
+2643,Male,20,High,Social Media,Leeds,2022-03-20,Platinum
+2644,Female,26,High,In-Store Walk-in,Manchester,2022-04-09,Platinum
+2645,Female,53,Ultra-High,Referral,Oxford,2024-06-30,Gold
+2646,Female,35,High,Organic Search,Cambridge,2022-08-01,Gold
+2647,Male,38,Medium,Referral,Liverpool,2023-12-03,Gold
+2648,Female,47,High,Email,Oxford,2024-12-11,Gold
+2649,Female,46,Medium,Email,London,2024-08-24,Silver
+2650,Female,41,High,Social Media,Cambridge,2022-05-15,Gold
+2651,Female,35,Ultra-High,Social Media,Leeds,2023-02-15,Gold
+2652,Male,34,High,Email,Bicester,2024-02-24,Gold
+2653,Female,48,High,Email,Cambridge,2024-12-03,Gold
+2654,Male,44,Medium,In-Store Walk-in,Cheshire,2022-09-18,Silver
+2655,Female,34,Medium,Email,Bath,2024-01-13,Gold
+2656,Male,50,Medium,Social Media,Leeds,2023-06-29,Silver
+2657,Male,36,High,Email,Cambridge,2023-01-23,Gold
+2658,Male,27,High,Social Media,Cambridge,2022-01-16,Gold
+2659,Female,28,High,Organic Search,London,2023-10-24,Gold
+2660,Male,26,Medium,Email,Newcastle,2022-04-12,Silver
+2661,Female,34,Medium,Social Media,Edinburgh,2024-08-08,Silver
+2662,Male,52,High,Referral,Oxford,2024-07-19,Gold
+2663,Male,28,Medium,In-Store Walk-in,Nottingham,2022-01-25,Silver
+2664,Female,40,High,Social Media,Manchester,2022-01-18,Platinum
+2665,Male,30,High,Email,Sheffield,2023-07-24,Gold
+2666,Male,34,High,Email,Bicester,2024-10-13,Gold
+2667,Female,19,Medium,Organic Search,London,2024-04-10,Silver
+2668,Male,35,Ultra-High,Referral,Cheshire,2024-11-01,Gold
+2669,Male,35,Medium,Social Media,Glasgow,2024-10-31,Silver
+2670,Male,44,Ultra-High,Referral,Manchester,2022-06-12,Gold
+2671,Female,40,Medium,Organic Search,London,2024-05-21,Silver
+2672,Female,23,Low,In-Store Walk-in,London,2024-04-14,Gold
+2673,Female,51,Ultra-High,Referral,Bristol,2024-05-06,Gold
+2674,Female,40,Medium,Organic Search,Oxford,2024-12-04,Silver
+2675,Male,40,High,Social Media,Bath,2024-08-27,Gold
+2676,Male,37,High,In-Store Walk-in,Newcastle,2023-08-16,Platinum
+2677,Female,31,Ultra-High,Email,York,2022-09-12,Gold
+2678,Male,40,Ultra-High,Organic Search,Bicester,2022-03-08,Platinum
+2679,Male,43,Medium,Email,Cheshire,2024-07-06,Gold
+2680,Male,18,High,In-Store Walk-in,Oxford,2023-09-06,Gold
+2681,Male,31,Medium,Organic Search,York,2024-08-31,Silver
+2682,Other,34,Medium,Organic Search,Edinburgh,2023-08-26,Silver
+2683,Male,41,High,In-Store Walk-in,York,2024-12-01,Gold
+2684,Female,52,Medium,Social Media,Cheshire,2023-01-19,Silver
+2685,Male,28,High,Organic Search,Leeds,2024-08-23,Gold
+2686,Female,32,High,In-Store Walk-in,Liverpool,2023-04-30,Gold
+2687,Male,31,High,Referral,Bicester,2022-02-08,Platinum
+2688,Male,28,Ultra-High,Email,Birmingham,2022-01-11,Gold
+2689,Female,33,Low,Organic Search,Sheffield,2023-09-16,Silver
+2690,Female,47,High,Referral,London,2023-02-13,Gold
+2691,Male,25,Ultra-High,Organic Search,Liverpool,2022-04-18,Gold
+2692,Male,43,Medium,Social Media,Nottingham,2022-03-25,Silver
+2693,Male,18,Low,In-Store Walk-in,Oxford,2022-02-27,Silver
+2694,Male,31,High,Organic Search,London,2024-11-05,Platinum
+2695,Male,34,Medium,In-Store Walk-in,Bath,2024-09-17,Silver
+2696,Female,58,Medium,Organic Search,Leeds,2024-04-17,Silver
+2697,Male,34,High,Social Media,Bicester,2023-08-28,Platinum
+2698,Male,18,High,Social Media,Oxford,2024-08-26,Platinum
+2699,Female,18,Ultra-High,Referral,Liverpool,2022-06-14,Gold
+2700,Female,38,High,Social Media,Cambridge,2023-03-13,Gold
+2701,Female,45,High,In-Store Walk-in,York,2023-12-28,Gold
+2702,Male,42,Low,Social Media,Sheffield,2023-02-07,Silver
+2703,Male,40,Medium,Organic Search,London,2023-12-17,Gold
+2704,Female,51,Medium,Social Media,Glasgow,2024-03-24,Silver
+2705,Male,31,Ultra-High,In-Store Walk-in,Oxford,2023-12-23,Gold
+2706,Male,48,Medium,Organic Search,Leeds,2023-06-15,Silver
+2707,Female,18,Medium,Referral,Bristol,2022-10-20,Gold
+2708,Female,27,High,Referral,Glasgow,2024-10-19,Platinum
+2709,Female,18,Medium,Referral,Liverpool,2023-04-07,Silver
+2710,Male,34,Medium,Organic Search,Nottingham,2023-10-04,Silver
+2711,Male,37,High,Referral,Sheffield,2022-02-13,Gold
+2712,Female,39,Low,Social Media,Edinburgh,2024-06-10,Silver
+2713,Male,38,Low,Organic Search,Bristol,2023-09-28,Silver
+2714,Female,26,Medium,Organic Search,Liverpool,2023-06-23,Silver
+2715,Female,35,High,Organic Search,Newcastle,2024-05-11,Gold
+2716,Female,20,High,Email,Edinburgh,2023-06-03,Gold
+2717,Male,54,Medium,In-Store Walk-in,Cheshire,2023-12-12,Gold
+2718,Male,34,High,Email,Bicester,2022-03-30,Platinum
+2719,Female,32,Medium,Email,Newcastle,2024-11-07,Silver
+2720,Female,57,Ultra-High,Email,Newcastle,2023-11-04,Gold
+2721,Female,23,Low,In-Store Walk-in,London,2024-05-13,Gold
+2722,Male,24,High,Email,London,2024-06-08,Gold
+2723,Male,24,Ultra-High,Referral,Leeds,2023-02-26,Platinum
+2724,Female,37,High,Organic Search,Edinburgh,2024-05-25,Platinum
+2725,Female,43,Medium,Organic Search,Oxford,2023-12-03,Gold
+2726,Female,46,Medium,Social Media,York,2022-12-04,Gold
+2727,Male,68,High,Referral,Manchester,2022-09-23,Gold
+2728,Female,18,Low,In-Store Walk-in,London,2024-03-13,Silver
+2729,Female,45,High,Organic Search,Liverpool,2022-12-26,Platinum
+2730,Female,31,High,Email,Manchester,2024-10-10,Gold
+2731,Male,30,High,Social Media,Ashford,2022-08-05,Gold
+2732,Male,30,Medium,Social Media,Newcastle,2022-11-17,Silver
+2733,Female,27,High,Organic Search,Liverpool,2024-04-29,Platinum
+2734,Male,58,High,Referral,Leeds,2023-12-20,Gold
+2735,Male,48,High,Social Media,Liverpool,2024-09-18,Gold
+2736,Female,38,Low,Organic Search,Bicester,2024-08-10,Silver
+2737,Male,54,Low,Referral,London,2023-12-18,Gold
+2738,Female,19,Medium,Organic Search,London,2024-09-11,Silver
+2739,Male,22,Medium,Organic Search,Oxford,2024-06-14,Silver
+2740,Female,18,High,Referral,Liverpool,2022-10-14,Gold
+2741,Female,29,Ultra-High,Referral,Bicester,2024-01-27,Gold
+2742,Male,39,Medium,Referral,Manchester,2023-05-11,Silver
+2743,Male,39,High,Organic Search,Ashford,2023-06-26,Platinum
+2744,Male,39,Low,Social Media,Liverpool,2023-09-27,Silver
+2745,Male,21,Medium,In-Store Walk-in,York,2024-07-27,Gold
+2746,Female,47,Low,In-Store Walk-in,Sheffield,2024-11-18,Silver
+2747,Female,40,Medium,Organic Search,Nottingham,2023-11-29,Gold
+2748,Male,46,Ultra-High,Organic Search,Cheshire,2022-03-16,Gold
+2749,Male,18,Low,Social Media,Glasgow,2023-05-13,Silver
+2750,Male,41,High,Referral,Sheffield,2023-12-23,Platinum
+2751,Female,23,Medium,Organic Search,Bicester,2022-11-04,Gold
+2752,Male,33,Ultra-High,Email,Newcastle,2023-12-05,Gold
+2753,Female,44,Medium,Referral,Bicester,2024-06-02,Silver
+2754,Female,39,Medium,Organic Search,Cambridge,2022-09-10,Gold
+2755,Female,27,Low,Email,Leeds,2024-07-24,Silver
+2756,Male,38,Medium,Social Media,Cheshire,2023-02-01,Silver
+2757,Female,19,Medium,Email,Newcastle,2024-09-12,Silver
+2758,Male,51,Ultra-High,Organic Search,Manchester,2024-11-18,Gold
+2759,Male,35,High,In-Store Walk-in,Glasgow,2023-05-09,Gold
+2760,Female,51,High,Organic Search,Oxford,2024-08-16,Gold
+2761,Female,31,High,In-Store Walk-in,Liverpool,2024-09-18,Gold
+2762,Male,31,Low,Social Media,Bath,2022-04-12,Silver
+2763,Male,28,Medium,Social Media,Nottingham,2024-04-06,Silver
+2764,Male,48,Ultra-High,Referral,Manchester,2022-06-26,Gold
+2765,Male,29,High,Referral,Bristol,2024-09-10,Gold
+2766,Male,45,Ultra-High,In-Store Walk-in,Liverpool,2024-07-15,Gold
+2767,Male,33,High,In-Store Walk-in,Nottingham,2022-08-20,Gold
+2768,Male,18,Medium,Social Media,Newcastle,2022-01-12,Silver
+2769,Female,31,Medium,Email,Leeds,2024-01-31,Silver
+2770,Female,23,Low,In-Store Walk-in,Sheffield,2024-07-20,Silver
+2771,Female,38,Medium,In-Store Walk-in,Glasgow,2022-09-23,Silver
+2772,Male,23,Medium,Email,Newcastle,2024-01-27,Silver
+2773,Female,49,Medium,Referral,Leeds,2024-11-20,Silver
+2774,Female,36,High,Referral,London,2023-04-01,Gold
+2775,Female,35,Ultra-High,In-Store Walk-in,Glasgow,2022-09-16,Platinum
+2776,Female,45,High,Referral,Sheffield,2023-03-07,Platinum
+2777,Female,49,Ultra-High,Referral,Bath,2023-04-14,Platinum
+2778,Female,37,Low,Referral,Bristol,2023-10-09,Gold
+2779,Male,28,Low,Social Media,London,2023-03-23,Silver
+2780,Female,18,High,Organic Search,Edinburgh,2024-02-22,Gold
+2781,Female,29,Medium,In-Store Walk-in,Edinburgh,2022-07-14,Silver
+2782,Female,30,Medium,In-Store Walk-in,Cheshire,2023-04-07,Silver
+2783,Female,39,Medium,Social Media,Ashford,2022-07-15,Silver
+2784,Male,33,Medium,Organic Search,Ashford,2022-02-05,Silver
+2785,Male,46,High,Organic Search,Leeds,2022-03-08,Gold
+2786,Female,30,Medium,Social Media,Bristol,2023-10-07,Silver
+2787,Female,37,High,Email,Manchester,2024-10-31,Gold
+2788,Female,52,High,Email,Cheshire,2022-11-18,Gold
+2789,Male,42,Medium,Organic Search,Cambridge,2022-08-28,Silver
+2790,Male,37,Medium,Email,Oxford,2024-10-13,Gold
+2791,Female,30,Medium,Email,Bristol,2024-12-19,Silver
+2792,Female,30,Medium,Email,London,2023-10-12,Silver
+2793,Female,27,High,Organic Search,Sheffield,2023-07-16,Gold
+2794,Male,31,High,Email,Liverpool,2022-06-14,Gold
+2795,Female,47,High,In-Store Walk-in,Bristol,2024-04-10,Gold
+2796,Male,35,Medium,Organic Search,Bath,2022-07-08,Gold
+2797,Female,21,High,Social Media,London,2022-04-02,Gold
+2798,Male,59,High,Email,Nottingham,2022-10-16,Platinum
+2799,Male,41,Medium,Referral,Oxford,2024-12-12,Gold
+2800,Female,21,High,Organic Search,Birmingham,2022-06-24,Gold
+2801,Female,32,Medium,Social Media,Bristol,2023-04-19,Silver
+2802,Male,39,High,In-Store Walk-in,Edinburgh,2022-09-27,Gold
+2803,Female,58,High,Social Media,London,2023-02-11,Gold
+2804,Male,24,Medium,Email,York,2023-11-25,Silver
+2805,Male,49,High,Referral,Glasgow,2023-01-11,Platinum
+2806,Male,54,Medium,Email,London,2022-07-01,Silver
+2807,Male,30,Low,Social Media,London,2022-02-05,Silver
+2808,Female,34,Ultra-High,Organic Search,Liverpool,2022-05-14,Gold
+2809,Male,25,Ultra-High,Referral,London,2024-05-14,Gold
+2810,Female,35,Low,Referral,Edinburgh,2024-07-12,Silver
+2811,Female,37,Medium,Social Media,Birmingham,2023-11-21,Silver
+2812,Male,45,Medium,Email,Cambridge,2023-05-06,Silver
+2813,Female,51,Medium,Social Media,Ashford,2024-04-20,Gold
+2814,Male,29,High,Referral,Leeds,2024-09-14,Platinum
+2815,Female,18,Ultra-High,Social Media,Leeds,2024-04-18,Gold
+2816,Male,37,High,Referral,Nottingham,2024-12-05,Gold
+2817,Male,41,Medium,Email,London,2023-10-30,Silver
+2818,Male,40,High,Organic Search,Ashford,2024-10-16,Gold
+2819,Male,34,Medium,Organic Search,London,2023-03-08,Silver
+2820,Male,39,Ultra-High,Social Media,Newcastle,2024-01-18,Gold
+2821,Female,56,Ultra-High,Referral,Oxford,2024-04-07,Gold
+2822,Female,42,High,Organic Search,Bristol,2023-06-01,Gold
+2823,Female,33,Medium,Referral,Ashford,2023-04-07,Gold
+2824,Female,31,Medium,Email,Bicester,2024-08-23,Silver
+2825,Male,35,Low,Social Media,Leeds,2022-06-30,Silver
+2826,Male,57,High,Referral,Glasgow,2022-05-25,Platinum
+2827,Male,35,Medium,Social Media,Cambridge,2024-01-05,Silver
+2828,Male,37,Medium,Referral,Edinburgh,2023-02-10,Gold
+2829,Female,32,Medium,Referral,Cambridge,2024-03-23,Silver
+2830,Female,51,High,Email,Bath,2024-08-26,Gold
+2831,Male,61,Medium,Social Media,Liverpool,2024-08-12,Silver
+2832,Male,43,Ultra-High,In-Store Walk-in,York,2023-04-29,Gold
+2833,Female,38,Ultra-High,Referral,Cambridge,2023-04-27,Platinum
+2834,Female,38,Ultra-High,Referral,Cambridge,2022-12-05,Platinum
+2835,Male,18,Medium,Organic Search,London,2022-09-25,Silver
+2836,Female,46,Medium,Social Media,Oxford,2022-09-23,Silver
+2837,Female,39,Medium,In-Store Walk-in,Manchester,2023-06-12,Silver
+2838,Male,43,Medium,Email,Nottingham,2024-11-08,Silver
+2839,Male,29,Medium,In-Store Walk-in,Edinburgh,2024-05-21,Silver
+2840,Female,33,High,Email,Sheffield,2024-07-14,Gold
+2841,Female,33,Medium,In-Store Walk-in,Liverpool,2023-03-06,Silver
+2842,Female,50,Ultra-High,In-Store Walk-in,Edinburgh,2024-03-05,Gold
+2843,Male,33,Low,Social Media,Sheffield,2024-07-29,Silver
+2844,Male,62,High,Organic Search,Ashford,2024-11-26,Gold
+2845,Female,43,High,In-Store Walk-in,London,2022-10-30,Platinum
+2846,Female,22,High,Referral,Liverpool,2023-02-05,Gold
+2847,Male,36,Ultra-High,Referral,Ashford,2024-04-02,Gold
+2848,Female,30,High,Referral,Liverpool,2022-12-10,Gold
+2849,Female,18,Ultra-High,Organic Search,London,2024-05-12,Gold
+2850,Female,57,Medium,In-Store Walk-in,Newcastle,2023-06-02,Gold
+2851,Female,46,High,Email,Bicester,2022-06-14,Platinum
+2852,Female,44,Low,Email,Bicester,2024-11-02,Silver
+2853,Male,39,Low,Social Media,Leeds,2022-01-25,Silver
+2854,Female,21,Medium,Organic Search,Oxford,2022-05-09,Silver
+2855,Male,32,Medium,In-Store Walk-in,Bristol,2024-03-27,Silver
+2856,Female,48,Medium,Referral,Edinburgh,2024-10-14,Silver
+2857,Male,25,Medium,Organic Search,Edinburgh,2023-08-18,Silver
+2858,Female,18,Low,Organic Search,Birmingham,2023-03-12,Silver
+2859,Male,35,Ultra-High,In-Store Walk-in,Ashford,2022-07-01,Gold
+2860,Male,36,Low,Social Media,Sheffield,2023-09-08,Silver
+2861,Male,39,High,Social Media,Birmingham,2024-01-14,Gold
+2862,Male,46,Medium,Social Media,Bristol,2022-02-12,Silver
+2863,Female,45,Ultra-High,Referral,Cambridge,2023-02-08,Gold
+2864,Female,41,Ultra-High,Referral,Nottingham,2023-08-28,Gold
+2865,Female,52,High,In-Store Walk-in,Bristol,2023-10-18,Platinum
+2866,Male,19,High,Social Media,Ashford,2022-09-20,Gold
+2867,Male,44,Low,In-Store Walk-in,Sheffield,2022-03-11,Silver
+2868,Male,45,Ultra-High,Social Media,Glasgow,2023-10-23,Gold
+2869,Male,23,Ultra-High,Organic Search,Cheshire,2024-05-21,Platinum
+2870,Female,19,Ultra-High,Email,Bicester,2024-04-01,Gold
+2871,Male,29,High,Email,Bicester,2022-05-27,Gold
+2872,Male,30,Medium,Social Media,Birmingham,2022-01-25,Silver
+2873,Male,47,Ultra-High,In-Store Walk-in,Manchester,2023-11-24,Gold
+2874,Male,30,Medium,Referral,Bicester,2022-09-08,Silver
+2875,Female,27,High,Social Media,London,2023-04-27,Gold
+2876,Female,30,Low,Social Media,York,2023-12-16,Silver
+2877,Male,51,Ultra-High,Referral,London,2024-03-26,Gold
+2878,Male,38,Medium,Social Media,Leeds,2023-11-13,Silver
+2879,Male,35,Medium,Organic Search,Ashford,2022-06-24,Silver
+2880,Male,36,High,Referral,Newcastle,2022-01-02,Gold
+2881,Male,53,High,Organic Search,Glasgow,2023-10-01,Gold
+2882,Female,29,High,Email,London,2023-12-07,Platinum
+2883,Female,53,Medium,Referral,Oxford,2022-12-28,Gold
+2884,Female,40,Low,Referral,Bristol,2023-07-24,Gold
+2885,Male,36,High,In-Store Walk-in,Bicester,2023-08-13,Gold
+2886,Male,68,Ultra-High,In-Store Walk-in,Oxford,2022-07-21,Gold
+2887,Female,25,High,Referral,Birmingham,2024-10-01,Platinum
+2888,Female,33,Medium,Email,Ashford,2024-12-21,Silver
+2889,Female,23,Ultra-High,Social Media,York,2022-05-06,Gold
+2890,Male,49,Medium,In-Store Walk-in,Edinburgh,2024-09-18,Gold
+2891,Female,58,High,Email,London,2022-02-18,Gold
+2892,Male,58,Medium,Email,Ashford,2024-04-25,Silver
+2893,Female,52,Medium,In-Store Walk-in,Bristol,2022-06-28,Silver
+2894,Female,35,High,Social Media,Cheshire,2023-05-08,Gold
+2895,Female,33,High,In-Store Walk-in,York,2023-07-26,Gold
+2896,Male,18,Medium,Email,Bicester,2022-10-29,Silver
+2897,Female,62,Medium,Organic Search,Leeds,2024-08-21,Silver
+2898,Male,43,Low,In-Store Walk-in,Glasgow,2024-09-16,Silver
+2899,Male,32,High,Email,London,2024-09-03,Platinum
+2900,Male,53,Medium,In-Store Walk-in,London,2022-09-26,Silver
+2901,Female,26,Medium,Email,Manchester,2023-09-16,Silver
+2902,Male,42,High,Social Media,Glasgow,2022-04-10,Platinum
+2903,Male,35,High,Email,York,2022-08-03,Gold
+2904,Female,45,High,Referral,London,2023-09-17,Gold
+2905,Male,37,High,Organic Search,Cambridge,2022-04-07,Gold
+2906,Female,20,Ultra-High,Email,London,2024-03-29,Gold
+2907,Male,38,Ultra-High,In-Store Walk-in,Birmingham,2023-09-22,Gold
+2908,Male,50,High,In-Store Walk-in,Birmingham,2023-07-02,Platinum
+2909,Female,37,High,Email,Manchester,2022-12-03,Gold
+2910,Male,47,Medium,Referral,Bath,2022-12-25,Silver
+2911,Male,25,Ultra-High,Email,Bristol,2024-03-26,Platinum
+2912,Female,37,Medium,Social Media,Bath,2022-12-26,Silver
+2913,Female,30,Medium,Referral,London,2024-10-11,Silver
+2914,Female,46,Medium,Email,Oxford,2022-12-13,Silver
+2915,Male,38,Low,Organic Search,Liverpool,2023-07-06,Silver
+2916,Male,46,Ultra-High,Referral,Oxford,2023-06-22,Gold
+2917,Female,51,High,Email,Edinburgh,2023-10-16,Gold
+2918,Female,46,High,Organic Search,Edinburgh,2023-02-26,Gold
+2919,Female,41,High,Email,York,2022-12-02,Gold
+2920,Female,26,Medium,Social Media,Cambridge,2022-02-26,Silver
+2921,Female,37,Low,In-Store Walk-in,Manchester,2024-10-13,Silver
+2922,Female,31,High,Email,Sheffield,2024-06-30,Gold
+2923,Male,33,High,Referral,London,2023-12-18,Gold
+2924,Female,33,Medium,Email,Bicester,2022-10-12,Silver
+2925,Male,26,High,Email,Newcastle,2023-12-23,Gold
+2926,Male,18,Medium,Email,London,2023-01-21,Gold
+2927,Female,29,Medium,Email,Sheffield,2024-08-07,Silver
+2928,Female,40,Medium,Referral,Sheffield,2024-02-09,Silver
+2929,Male,21,Medium,Referral,Edinburgh,2024-04-19,Silver
+2930,Male,38,High,Email,Sheffield,2022-01-11,Platinum
+2931,Male,60,High,In-Store Walk-in,Birmingham,2024-08-29,Gold
+2932,Female,50,Medium,Email,Ashford,2023-11-03,Silver
+2933,Female,57,High,Referral,Edinburgh,2022-09-17,Platinum
+2934,Male,42,High,Social Media,London,2023-01-28,Platinum
+2935,Male,52,Medium,Email,Newcastle,2023-08-23,Silver
+2936,Female,29,Medium,Email,York,2024-11-05,Silver
+2937,Male,30,Ultra-High,Email,Newcastle,2024-01-26,Gold
+2938,Female,18,High,Email,London,2023-12-12,Gold
+2939,Female,52,Ultra-High,Organic Search,Cheshire,2024-10-30,Platinum
+2940,Male,56,Medium,Email,Cambridge,2023-04-22,Silver
+2941,Female,31,High,Referral,Ashford,2022-01-24,Platinum
+2942,Male,34,Medium,Referral,London,2022-11-08,Silver
+2943,Male,28,Medium,Organic Search,London,2023-04-07,Silver
+2944,Female,42,High,Email,Nottingham,2022-01-22,Gold
+2945,Male,51,Medium,In-Store Walk-in,Nottingham,2022-06-29,Gold
+2946,Other,18,Medium,Email,Birmingham,2024-03-01,Gold
+2947,Female,42,Medium,Referral,Glasgow,2023-12-31,Silver
+2948,Male,34,Low,Social Media,London,2024-01-19,Silver
+2949,Male,39,High,Social Media,Ashford,2023-12-17,Gold
+2950,Male,43,Medium,In-Store Walk-in,Bath,2022-12-05,Silver
+2951,Male,35,Low,Email,Edinburgh,2023-06-15,Silver
+2952,Male,36,Medium,Organic Search,Bath,2023-11-23,Gold
+2953,Male,35,Medium,Email,York,2022-06-11,Silver
+2954,Male,49,High,In-Store Walk-in,Bicester,2024-12-20,Gold
+2955,Female,43,Low,In-Store Walk-in,Cheshire,2023-05-05,Silver
+2956,Female,40,High,In-Store Walk-in,Bicester,2022-01-05,Gold
+2957,Female,22,Low,Social Media,York,2022-03-17,Silver
+2958,Male,33,Medium,Email,Manchester,2022-01-07,Silver
+2959,Male,48,Ultra-High,Email,Edinburgh,2023-11-12,Platinum
+2960,Female,38,High,Organic Search,Bath,2023-04-18,Platinum
+2961,Female,45,Low,In-Store Walk-in,Leeds,2024-03-22,Silver
+2962,Male,59,High,In-Store Walk-in,London,2024-04-17,Gold
+2963,Female,50,Medium,Referral,Birmingham,2023-08-26,Silver
+2964,Female,39,High,Referral,Glasgow,2022-11-14,Gold
+2965,Female,31,High,Social Media,Newcastle,2022-08-20,Gold
+2966,Male,18,High,Email,Leeds,2022-11-24,Gold
+2967,Female,35,Ultra-High,Organic Search,London,2022-08-26,Platinum
+2968,Female,34,Medium,Organic Search,Cheshire,2024-08-07,Silver
+2969,Female,42,High,In-Store Walk-in,York,2024-06-13,Gold
+2970,Female,36,Medium,Organic Search,Sheffield,2023-09-11,Silver
+2971,Female,34,Low,In-Store Walk-in,London,2022-09-07,Silver
+2972,Female,18,Low,Email,York,2022-07-17,Silver
+2973,Male,26,Medium,Organic Search,Manchester,2023-02-20,Silver
+2974,Female,43,High,In-Store Walk-in,Newcastle,2024-01-02,Gold
+2975,Female,58,High,Email,Bath,2024-07-26,Gold
+2976,Female,36,High,Email,Manchester,2022-08-04,Gold
+2977,Male,41,Low,In-Store Walk-in,Manchester,2024-03-25,Silver
+2978,Male,49,Medium,In-Store Walk-in,Leeds,2023-09-02,Gold
+2979,Female,28,Ultra-High,Social Media,London,2023-05-26,Gold
+2980,Female,42,Medium,Email,London,2024-07-06,Silver
+2981,Female,29,High,In-Store Walk-in,Leeds,2022-06-06,Gold
+2982,Female,48,High,Email,York,2022-06-11,Platinum
+2983,Female,39,High,Organic Search,Birmingham,2022-02-11,Platinum
+2984,Female,41,High,Referral,Edinburgh,2022-10-30,Gold
+2985,Female,28,Ultra-High,Referral,Sheffield,2024-10-10,Platinum
+2986,Female,46,Medium,In-Store Walk-in,Sheffield,2024-02-03,Silver
+2987,Female,63,Ultra-High,In-Store Walk-in,Cambridge,2022-04-30,Gold
+2988,Male,25,Medium,Email,Manchester,2023-11-05,Silver
+2989,Male,33,Medium,In-Store Walk-in,Edinburgh,2023-10-23,Silver
+2990,Female,40,Low,Email,Glasgow,2022-05-03,Gold
+2991,Male,47,High,In-Store Walk-in,Nottingham,2023-10-15,Gold
+2992,Male,31,Medium,Email,Edinburgh,2024-07-09,Silver
+2993,Male,18,Medium,In-Store Walk-in,York,2024-10-10,Silver
+2994,Male,54,Medium,Social Media,Liverpool,2024-02-28,Silver
+2995,Male,47,Ultra-High,Email,Manchester,2022-09-14,Gold
+2996,Male,18,High,Social Media,Leeds,2024-01-27,Gold
+2997,Female,30,High,Social Media,London,2023-08-21,Gold
+2998,Female,56,High,Social Media,London,2024-03-01,Gold
+2999,Male,55,Medium,Social Media,London,2023-11-11,Silver
+3000,Male,49,Medium,Organic Search,Birmingham,2024-10-29,Silver

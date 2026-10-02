@@ -1,0 +1,35 @@
+campaign_id,campaign_name,channel,budget,start_date,end_date
+1,Campaign 2023 - Spring Launch,TikTok,20505.57,2023-01-01,2023-02-01
+2,Campaign 2023 - Spring Launch,Email,18907.44,2023-01-31,2023-03-01
+3,Campaign 2023 - Autumn Launch,Instagram,14332.01,2023-03-02,2023-04-05
+4,Campaign 2023 - Holiday Launch,TikTok,23406.22,2023-04-01,2023-04-20
+5,Campaign 2023 - Spring Push,TikTok,13797.62,2023-05-01,2023-06-07
+6,Campaign 2023 - Spring Exclusive,Print Media,48315.63,2023-05-31,2023-07-02
+7,Campaign 2023 - Summer Launch,Google Ads,11952.58,2023-06-30,2023-08-10
+8,Campaign 2023 - Holiday Exclusive,Print Media,46098.71,2023-07-30,2023-09-06
+9,Campaign 2023 - Summer Launch,Print Media,24281.29,2023-08-29,2023-10-09
+10,Campaign 2023 - Autumn Push,TikTok,22003.97,2023-09-28,2023-11-01
+11,Campaign 2023 - Summer Push,Google Ads,15409.39,2023-10-28,2023-11-18
+12,Campaign 2023 - Autumn Exclusive,Google Ads,33609.04,2023-11-27,2023-12-14
+13,Campaign 2024 - Summer Launch,Google Ads,35848.76,2023-12-27,2024-02-06
+14,Campaign 2024 - Holiday Push,Instagram,26040.69,2024-01-26,2024-02-17
+15,Campaign 2024 - Summer Push,Google Ads,7506.81,2024-02-25,2024-03-17
+16,Campaign 2024 - Holiday Exclusive,TikTok,46332.96,2024-03-26,2024-04-29
+17,Campaign 2024 - Holiday Launch,Instagram,49114.81,2024-04-25,2024-05-27
+18,Campaign 2024 - Winter Push,Email,24396.95,2024-05-25,2024-06-08
+19,Campaign 2024 - Spring Exclusive,Print Media,32614.74,2024-06-24,2024-08-07
+20,Campaign 2024 - Autumn Launch,Google Ads,25263.44,2024-07-24,2024-08-27
+21,Campaign 2024 - Winter Push,Email,19484.58,2024-08-23,2024-09-26
+22,Campaign 2024 - Autumn Launch,Google Ads,8479.35,2024-09-22,2024-10-09
+23,Campaign 2024 - Autumn Launch,Print Media,25523.05,2024-10-22,2024-11-14
+24,Campaign 2024 - Spring Push,TikTok,41827.31,2024-11-21,2024-12-30
+25,Campaign 2025 - Winter Exclusive,TikTok,5766.42,2024-12-21,2025-01-11
+26,Campaign 2025 - Spring Exclusive,Print Media,31194.85,2025-01-20,2025-02-05
+27,Campaign 2025 - Summer Exclusive,Email,44634.74,2025-02-19,2025-03-16
+28,Campaign 2025 - Autumn Launch,Instagram,14789.72,2025-03-21,2025-04-29
+29,Campaign 2025 - Spring Launch,Instagram,13246.51,2025-04-20,2025-05-12
+30,Campaign 2025 - Winter Push,Google Ads,39752.45,2025-05-20,2025-06-05
+31,Campaign 2025 - Summer Exclusive,Print Media,16478.89,2025-06-19,2025-07-06
+32,Campaign 2025 - Holiday Launch,Print Media,13639.29,2025-07-19,2025-08-07
+33,Campaign 2025 - Spring Push,Instagram,22009.52,2025-08-18,2025-09-09
+34,Campaign 2025 - Spring Launch,Email,22662.59,2025-09-17,2025-10-26

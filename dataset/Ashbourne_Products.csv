@@ -1,0 +1,65 @@
+product_id,product_name,category,sub_category,season,material,unit_cost,retail_price
+1,Heritage Silk Blend Footwear - Men,Men,Footwear,Spring/Summer,Silk Blend,242.72,896.53
+2,Heritage Cashmere Shirting - Men,Men,Shirting,Autumn/Winter,Cashmere,126.76,353.12
+3,Heritage Denim Denim - Men,Men,Denim,Core/All-Season,Denim,284.02,710.49
+4,Heritage Organic Cotton Shirting - Men,Men,Shirting,Autumn/Winter,Organic Cotton,41.84,106.53
+5,Heritage Denim Shirting - Women,Women,Shirting,Spring/Summer,Denim,293.18,869.44
+6,Heritage Organic Cotton Accessories - Men,Men,Accessories,Autumn/Winter,Organic Cotton,52.08,193.48
+7,Heritage Denim Outerwear - Women,Women,Outerwear,Core/All-Season,Denim,291.06,1198.23
+8,Heritage Denim Accessories - Men,Men,Accessories,Autumn/Winter,Denim,154.44,423.8
+9,Heritage Cashmere Footwear - Women,Women,Footwear,Core/All-Season,Cashmere,107.28,410.35
+10,Heritage Wool Footwear - Men,Men,Footwear,Autumn/Winter,Wool,88.06,390.91
+11,Heritage Denim Denim - Men,Men,Denim,Core/All-Season,Denim,195.45,848.99
+12,Heritage Silk Blend Footwear - Men,Men,Footwear,Autumn/Winter,Silk Blend,110.55,459.61
+13,Heritage Organic Cotton Outerwear - Kids,Kids,Outerwear,Autumn/Winter,Organic Cotton,76.64,314.56
+14,Heritage Leather Shirting - Men,Men,Shirting,Core/All-Season,Leather,91.67,230.19
+15,Heritage Cashmere Footwear - Men,Men,Footwear,Core/All-Season,Cashmere,197.55,859.86
+16,Heritage Leather Accessories - Men,Men,Accessories,Autumn/Winter,Leather,126.03,331.1
+17,Heritage Wool Shirting - Women,Women,Shirting,Core/All-Season,Wool,162.78,445.89
+18,Heritage Denim Footwear - Women,Women,Footwear,Spring/Summer,Denim,106.58,275.07
+19,Heritage Silk Blend Accessories - Men,Men,Accessories,Spring/Summer,Silk Blend,272.9,941.71
+20,Heritage Wool Accessories - Women,Women,Accessories,Spring/Summer,Wool,197.15,705.73
+21,Heritage Cashmere Outerwear - Men,Men,Outerwear,Autumn/Winter,Cashmere,268.92,1008.1
+22,Heritage Organic Cotton Shirting - Men,Men,Shirting,Core/All-Season,Organic Cotton,88.51,379.28
+23,Heritage Organic Cotton Shirting - Men,Men,Shirting,Autumn/Winter,Organic Cotton,275.78,839.55
+24,Heritage Organic Cotton Shirting - Men,Men,Shirting,Autumn/Winter,Organic Cotton,119.24,337.37
+25,Heritage Silk Blend Shirting - Men,Men,Shirting,Autumn/Winter,Silk Blend,110.05,328.86
+26,Heritage Leather Denim - Men,Men,Denim,Autumn/Winter,Leather,56.87,171.06
+27,Heritage Denim Shirting - Men,Men,Shirting,Core/All-Season,Denim,78.5,352.9
+28,Heritage Denim Outerwear - Women,Women,Outerwear,Autumn/Winter,Denim,48.59,155.01
+29,Heritage Denim Denim - Men,Men,Denim,Autumn/Winter,Denim,156.42,564.02
+30,Heritage Cashmere Footwear - Men,Men,Footwear,Spring/Summer,Cashmere,248.82,856.09
+31,Heritage Cashmere Shirting - Women,Women,Shirting,Core/All-Season,Cashmere,247.57,693.55
+32,Heritage Silk Blend Footwear - Men,Men,Footwear,Core/All-Season,Silk Blend,124.75,366.83
+33,Heritage Cashmere Footwear - Women,Women,Footwear,Spring/Summer,Cashmere,65.01,284.81
+34,Heritage Cashmere Footwear - Women,Women,Footwear,Spring/Summer,Cashmere,69.5,302.28
+35,Heritage Organic Cotton Outerwear - Men,Men,Outerwear,Spring/Summer,Organic Cotton,295.36,1043.59
+36,Heritage Wool Outerwear - Men,Men,Outerwear,Core/All-Season,Wool,274.11,1032.35
+37,Heritage Cashmere Outerwear - Men,Men,Outerwear,Core/All-Season,Cashmere,273.25,1167.92
+38,Heritage Cashmere Shirting - Women,Women,Shirting,Core/All-Season,Cashmere,244.19,937.2
+39,Heritage Leather Footwear - Men,Men,Footwear,Autumn/Winter,Leather,41.32,116.59
+40,Heritage Cashmere Outerwear - Women,Women,Outerwear,Autumn/Winter,Cashmere,98.31,385.8
+41,Heritage Organic Cotton Outerwear - Women,Women,Outerwear,Autumn/Winter,Organic Cotton,233.48,920.35
+42,Heritage Cashmere Accessories - Women,Women,Accessories,Autumn/Winter,Cashmere,108.95,325.54
+43,Heritage Cashmere Outerwear - Women,Women,Outerwear,Autumn/Winter,Cashmere,131.02,496.59
+44,Heritage Silk Blend Outerwear - Men,Men,Outerwear,Autumn/Winter,Silk Blend,188.72,761.88
+45,Heritage Wool Outerwear - Kids,Kids,Outerwear,Core/All-Season,Wool,277.86,900.35
+46,Heritage Silk Blend Outerwear - Kids,Kids,Outerwear,Autumn/Winter,Silk Blend,291.33,1289.79
+47,Heritage Silk Blend Footwear - Men,Men,Footwear,Autumn/Winter,Silk Blend,261.3,818.87
+48,Heritage Wool Footwear - Women,Women,Footwear,Autumn/Winter,Wool,188.22,507.13
+49,Heritage Denim Shirting - Men,Men,Shirting,Core/All-Season,Denim,232.6,905.75
+50,Heritage Silk Blend Accessories - Women,Women,Accessories,Spring/Summer,Silk Blend,149.14,449.27
+51,Heritage Leather Denim - Men,Men,Denim,Autumn/Winter,Leather,90.51,239.12
+52,Heritage Organic Cotton Shirting - Women,Women,Shirting,Autumn/Winter,Organic Cotton,154.0,591.98
+53,Heritage Wool Denim - Women,Women,Denim,Spring/Summer,Wool,193.62,495.86
+54,Heritage Wool Denim - Men,Men,Denim,Autumn/Winter,Wool,124.93,519.18
+55,Heritage Silk Blend Shirting - Men,Men,Shirting,Autumn/Winter,Silk Blend,258.93,747.99
+56,Heritage Organic Cotton Shirting - Women,Women,Shirting,Spring/Summer,Organic Cotton,292.08,1147.64
+57,Heritage Cashmere Accessories - Women,Women,Accessories,Autumn/Winter,Cashmere,60.4,154.06
+58,Heritage Leather Footwear - Men,Men,Footwear,Autumn/Winter,Leather,55.13,238.74
+59,Heritage Wool Accessories - Men,Men,Accessories,Core/All-Season,Wool,211.65,647.62
+60,Heritage Silk Blend Shirting - Women,Women,Shirting,Autumn/Winter,Silk Blend,149.1,446.62
+61,Heritage Leather Denim - Women,Women,Denim,Spring/Summer,Leather,63.87,171.7
+62,Heritage Denim Accessories - Men,Men,Accessories,Core/All-Season,Denim,249.8,797.51
+63,Heritage Denim Footwear - Men,Men,Footwear,Core/All-Season,Denim,270.54,817.51
+64,Heritage Denim Footwear - Women,Women,Footwear,Autumn/Winter,Denim,180.24,697.16
