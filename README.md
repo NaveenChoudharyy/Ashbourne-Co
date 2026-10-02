@@ -199,6 +199,7 @@ The first Tableau dashboard provides a management-level overview of business per
 - Geographic maps
 - Stacked bar charts
 - Dashboard navigation
+<img width="1278" height="956" alt="image" src="https://github.com/user-attachments/assets/cebce13f-a329-47b6-bd14-72639e73921c" />
 
 ---
 
@@ -250,10 +251,48 @@ The Top-N selector allows users to switch between:
 - Table calculations
 - Customer-level aggregation
 - Interactive filtering
+<img width="1398" height="1054" alt="image" src="https://github.com/user-attachments/assets/7369e716-d28a-4e64-9d14-853a9a824b9d" />
 
 ---
 
-# 6. Dashboard Navigation
+# 6. Tableau Dashboard 3 — Store Operations & Marketing Efficiency
+
+The third Tableau dashboard focuses on operational performance and marketing effectiveness, extending the analysis beyond executive sales and customer analytics.
+
+### Focus Areas
+
+- Store-level performance
+- Store operations
+- Marketing performance
+- Revenue and sales efficiency
+- Operational comparisons across locations/store types
+- Marketing and acquisition performance
+
+### Dashboard Purpose
+
+This dashboard provides a dedicated view for understanding how stores and marketing activities contribute to overall business performance. It complements the executive and customer dashboards by connecting operational performance with commercial outcomes.
+
+### Tableau Techniques
+
+- Calculated fields
+- Parameters
+- Filters
+- KPI cards
+- Comparative charts
+- Interactive dashboard controls
+- Dashboard navigation
+- Luxury-themed visualization design
+<img width="1402" height="1052" alt="image" src="https://github.com/user-attachments/assets/faf88861-7a63-4b53-84cd-091d8b46f758" />
+
+### Dashboard Navigation
+
+The three Tableau dashboards are connected through interactive navigation buttons:
+
+1. **Executive Sales & Margin Overview**
+2. **Customer Analytics**
+3. **Store Operations & Marketing Efficiency**
+
+# 7. Dashboard Navigation
 
 Navigation buttons were implemented to move between the Tableau dashboards.
 
@@ -267,7 +306,7 @@ This provides an application-like navigation experience within Tableau.
 
 ---
 
-# 7. Data & Analytical Techniques
+# 8. Data & Analytical Techniques
 
 The project demonstrates:
 
@@ -289,7 +328,7 @@ The project demonstrates:
 
 ---
 
-# 8. Dashboard Design
+# 9. Dashboard Design
 
 The dashboards use a premium luxury-fashion visual style.
 
@@ -310,7 +349,7 @@ The dashboards use a premium luxury-fashion visual style.
 
 ---
 
-# 9. Skills Demonstrated
+# 10. Skills Demonstrated
 
 **Excel:** Data Cleaning, Excel Formulas, Pivot Tables, Dashboards, Business Reporting
 
@@ -322,7 +361,7 @@ The dashboards use a premium luxury-fashion visual style.
 
 ---
 
-# 10. End-to-End Workflow
+# 11. End-to-End Workflow
 
 ```text
 Raw Data
